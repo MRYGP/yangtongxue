@@ -1,0 +1,2854 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>EN_full_merged_fixed</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+    /* CSS for syntax highlighting */
+    html { -webkit-text-size-adjust: 100%; }
+    pre > code.sourceCode { white-space: pre; position: relative; }
+    pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+    pre > code.sourceCode > span:empty { height: 1.2em; }
+    .sourceCode { overflow: visible; }
+    code.sourceCode > span { color: inherit; text-decoration: inherit; }
+    div.sourceCode { margin: 1em 0; }
+    pre.sourceCode { margin: 0; }
+    @media screen {
+    div.sourceCode { overflow: auto; }
+    }
+    @media print {
+    pre > code.sourceCode { white-space: pre-wrap; }
+    pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+    }
+    pre.numberSource code
+      { counter-reset: source-line 0; }
+    pre.numberSource code > span
+      { position: relative; left: -4em; counter-increment: source-line; }
+    pre.numberSource code > span > a:first-child::before
+      { content: counter(source-line);
+        position: relative; left: -1em; text-align: right; vertical-align: baseline;
+        border: none; display: inline-block;
+        -webkit-touch-callout: none; -webkit-user-select: none;
+        -khtml-user-select: none; -moz-user-select: none;
+        -ms-user-select: none; user-select: none;
+        padding: 0 4px; width: 4em;
+        color: #aaaaaa;
+      }
+    pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+    div.sourceCode
+      {   }
+    @media screen {
+    pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+    }
+    code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+    code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+    code span.at { color: #7d9029; } /* Attribute */
+    code span.bn { color: #40a070; } /* BaseN */
+    code span.bu { color: #008000; } /* BuiltIn */
+    code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+    code span.ch { color: #4070a0; } /* Char */
+    code span.cn { color: #880000; } /* Constant */
+    code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+    code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+    code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+    code span.dt { color: #902000; } /* DataType */
+    code span.dv { color: #40a070; } /* DecVal */
+    code span.er { color: #ff0000; font-weight: bold; } /* Error */
+    code span.ex { } /* Extension */
+    code span.fl { color: #40a070; } /* Float */
+    code span.fu { color: #06287e; } /* Function */
+    code span.im { color: #008000; font-weight: bold; } /* Import */
+    code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+    code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+    code span.op { color: #666666; } /* Operator */
+    code span.ot { color: #007020; } /* Other */
+    code span.pp { color: #bc7a00; } /* Preprocessor */
+    code span.sc { color: #4070a0; } /* SpecialChar */
+    code span.ss { color: #bb6688; } /* SpecialString */
+    code span.st { color: #4070a0; } /* String */
+    code span.va { color: #19177c; } /* Variable */
+    code span.vs { color: #4070a0; } /* VerbatimString */
+    code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+  </style>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.2.0/github-markdown-light.min.css" />
+</head>
+<body>
+<p>?# Human Capability Construction and Cognitive Resilience in the AI
+Era: A Theory of Cognitive Endosymbiosis Based on the Antifragility
+Validation Principle</p>
+<pre><code>**Author**: Yang Guoping
+
+**Email**: a44425874@gmail.com
+
+**Version**: v1.0
+
+**Date**: October 2025</code></pre>
+<h2 id="abstract">Abstract</h2>
+<pre><code>Large language models and other AI tools are profoundly reshaping human work practices, yet their long-term impact on independent capabilities remains unclear. This study proposes the Cognitive Endosymbiosis Theory (CET), which measures whether independent capabilities are enhanced or degraded by AI assistance through the &quot;Antifragility Validation Principle&quot; (AVP). The research establishes a five-anchor measurement framework (B1-B5) and proposes design principles through the &quot;Endosymbiotic Minimal Law&quot; (EML), which promotes capability internalization via beneficial friction (50$$\text{?}$$70% success rate, working assumption) and systematic support reduction (S4$\rightarrow$S1$\rightarrow$S0). The core criterion: $P_2 $\geq$ B_0 + $\delta$$ (post-unplugged capability must exceed baseline). The theory presents eight falsifiable hypotheses, explicitly defines applicability boundaries, and commits to open science validation (see Appendix B; Section 3.0 anchor texts).
+
+**Keywords**: Cognitive Endosymbiosis; Cognitive Exoskeleton; Antifragility Validation; Beneficial Cognitive Friction; Human-AI Collaboration; Cognitive Sustainability</code></pre>
+<h2 id="table-of-contents">Table of Contents</h2>
+<pre><code>**Chapter 1: Introduction and Theoretical Positioning**
+
+- 1.1 Core Proposition: A New Standard for Evaluating AI
+- 1.2 Theoretical Gaps: Shared Blind Spots in Existing Paradigms
+- 1.3 CET&#39;s Core Contributions
+- 1.4 Methodology and Paper Structure
+
+**Chapter 2: Literature Review and Theoretical Foundations**
+
+- 2.1 Cognitive Offloading Research
+- 2.2 Critical Review of Extended Mind Theory
+- 2.3 Scaffolding Theory and Antifragility
+
+**Chapter 3: Core CET Theory Construction**
+
+- 3.0 Core Terminology and Anchor Definitions (B1-B5)
+- 3.1 In-depth Exposition of AVP Principle
+- 3.2 Beneficial Cognitive Friction Mechanism
+- 3.3 Systematic Support Reduction
+- 3.4 Partner-like Agency
+
+**Chapter 4: Cross-Scale Extensions**
+
+- 4.1 Team Level (T-AVP)
+- 4.2 Organizational Level (O-AVP)
+- 4.3 Societal Level (S-AVP)
+- 4.4 Unified Cross-Scale Mechanisms
+
+**Chapter 5: Technical Implementation: LSA Layered Architecture**
+
+- 5.1 LSA Four-Layer Architecture
+- 5.2 Cognitive Friction Engine (CFE)
+- 5.3 Support Graduation Scheduler (SGS)
+- 5.4 AVP Telemetry Module (AVP-TM)
+- 5.5 Multi-Scale Orchestrator (MSO)
+
+**Chapter 6: Limitations, Falsification Paths, and Future Directions**
+
+- 6.1 Six Major Limitations of the Theory
+- 6.2 Eight Falsifiable Hypotheses (H1-H8)
+- 6.3 Future Research Agenda
+
+**Appendices**
+
+- Core Terminology Glossary
+- Parameter Registry
+- Complete Case Study: Programming Education Platform
+
+**References**
+
+------
+
+# Chapter 1: Introduction and Theoretical Positioning
+
+## 1.1 Core Proposition: A New Standard for Evaluating AI
+
+**The true value of an AI tool lies not in how strong you are when using it, but in how strong you are when you unplug it.**
+
+We formalize this principle as the **Antifragility Validation Principle (AVP)**:
+
+&gt; Validate collaboration through **Unplugged Test** to verify whether it promotes independent capability. Core criterion: **$P_2 $\geq$ B_0 + $\delta$$**.
+&gt;
+&gt; Where: $B_0$ is the baseline capability before using AI, $P_2$ is independent performance within the unplugged window after collaboration ($W = 4$\text{?}$8$ weeks, default 6 weeks, working assumption), and $$\delta$$ is the minimum meaningful lift threshold ($$\geq$ 0.3\,$\mathrm{SD}$$ or 10%, working assumption).
+
+This criterion reveals two fundamentally different AI usage paradigms:
+
+- **Cognitive Exoskeleton mode**: Independent performance significantly declines ($P_2 &lt; B_0$), permanent AI dependency
+- **Cognitive Endosymbiosis mode**: Independent performance exceeds original level ($P_2 $\geq$ B_0 + $\delta$$), AI use strengthens underlying capabilities
+
+Neuroscience has already provided warning signals: Dahmani et al. (2020) found significant associations between habitual GPS use and both spatial memory ability and hippocampal gray matter volume. Educational research indicates that heavy users of AI writing tools show declining fluency and structural organization in independent writing when assistance is removed. This negative effect of &quot;cognitive offloading&quot; has substantial empirical foundation (Risko &amp; Gilbert, 2016; Sparrow et al., 2011).
+
+What is even more alarming is the **concealment** of this degradation. Users feel they are &quot;progressing&quot;?tasks are completed faster, output quality is higher?but this may mask systematic erosion of underlying cognitive architecture. When the perspective extends to the generational scale, a stark question emerges: **If mainstream AI usage patterns continue to follow &quot;exoskeleton&quot; logic, human society may face a new form of civilizational fragility?not because AI betrays us, but because we voluntarily abandon independent thinking capabilities.**
+
+## 1.2 Theoretical Gaps: Shared Blind Spots in Existing Paradigms
+
+Current human-computer interaction research is dominated by three paradigms, none of which effectively address the challenges outlined above:
+
+**Tool paradigm**: Treats AI as a passive efficiency tool, ignoring the reverse shaping of cognitive patterns through long-term use.
+
+**Augmentation paradigm**: As exemplified by Engelbart&#39;s (1962) vision of &quot;intelligence augmentation,&quot; assumes that &quot;augmentation&quot; is necessarily positive, lacking mechanisms to identify &quot;negative cognitive enhancement effects.&quot; Extended Mind Theory (Clark &amp; Chalmers, 1998), while acknowledging cognitive extension, fails to distinguish between **benign extension** (promoting growth) and **pathological extension** (leading to dependency).
+
+**Automation paradigm**: Focuses on AI replacing human tasks to maximize efficiency, with almost no consideration for long-term cognitive health.
+
+**The shared blind spot of these three paradigms**: All lack **operationalizable evaluation criteria** and **unified design principles** to judge the long-term health of human-AI collaboration.
+
+## 1.3 CET&#39;s Core Contributions
+
+This study proposes the Cognitive Endosymbiosis Theory (CET), filling the theoretical gaps outlined above:
+
+### 1.3.1 Evaluation Criterion: Antifragility Validation Principle (AVP)
+
+**AVP Operationalization**:
+
+- **Baseline measurement ($T_0$)**: Independent capability before using AI
+- **Collaboration measurement ($T_1$)**: Performance while collaborating with AI
+- **Post-unplugged measurement ($T_3$)**: Independent capability measured after the unplugged window ($W = 4$\text{?}$8$ weeks)
+
+**Judgment criteria**:
+
+- $P_2 $\geq$ B_0 + $\delta$$: Success (Cognitive Endosymbiosis)
+- $P_2 \approx B_0$: Neutral (no harm caused but no growth promoted)
+- $P_2 &lt; B_0$: Failure (Cognitive Exoskeleton)
+
+### 1.3.2 Design Principles: Endosymbiotic Minimal Law (EML)
+
+&gt; **Endosymbiotic Minimal Law (EML)**: The necessary design conditions for constituting &quot;Cognitive Endosymbiosis&quot; are:
+&gt;
+&gt; (1) **Beneficial Cognitive Friction**: Placing users in the optimal challenge zone (50$$\text{?}$$70% success rate, working assumption; individual adaptation required)
+&gt;
+&gt; (2) **Systematic Support Reduction**: AI support intensity gradually decreases from S4$\rightarrow$S1$\rightarrow$S0 according to a reduction curve
+&gt;
+&gt; These two constitute jointly sufficient design conditions, but ultimately still require **AVP ($P_2 $\geq$ B_0 + $\delta$$) as the necessary acceptance criterion**.
+
+**Boundary conditions**: This theory applies to **capability-enhancing** human-AI collaboration; **compensatory exoskeletons** (such as disability assistance) are outside this framework. All parameters are **conceptual working models** requiring cross-domain calibration.
+
+### 1.3.3 AI Role Reconstruction: Partner-like Agency
+
+Reshaping AI from a passive tool into a cognitive endosymbiont with **&quot;Partner-like Agency&quot;** (see ?3.4; Term map), including three operationalizable anchors:
+
+1. **Friction injection**: AI proactively creates appropriate cognitive challenges
+2. **Scaffolding fadeout**: Follows systematic support reduction curve
+3. **AVP closed loop**: The endpoint of collaboration is user independent capability enhancement
+
+### 1.3.4 Technical Implementation: Layered Symbiosis Architecture (LSA)
+
+&gt; **LSA-F (Functional Layers)**: L1 Knowledge Integration | L2 State Modeling | L3 Friction Calibration | L4 Metacognitive Orchestration
+&gt;
+&gt; **Support Level Stack (S4$\rightarrow$S1$\rightarrow$S0)** expresses support intensity and is orthogonal to LSA-F.
+
+**Hard constraint: L1-L4 (functional layers) and S4-S0 (support intensity; S0 is unplugged/test-only) are orthogonal abstractions; do not substitute or interleave them within the same formalism.**
+
+**Cognitive Exoskeleton vs Cognitive Endosymbiosis Core Comparison**:
+
+| Dimension          | Cognitive Exoskeleton  | Cognitive Endosymbiosis         |
+| ------------------ | ---------------------- | ------------------------------- |
+| Design philosophy  | Replacement/offloading | Empowerment/strengthening       |
+| Cognitive friction | Minimized              | Optimized (50$$\text{?}$$70%)              |
+| Temporality        | Permanent dependency   | Time-limited symbiosis          |
+| Support reduction  | None/fixed support     | Systematic reduction (S4$\rightarrow$S1$\rightarrow$S0) |
+| AVP outcome        | $P_2 $\leq$ B_0$         | $P_2 $\geq$ B_0 + $\delta$$         |
+
+### 1.3.5 Theoretical Positioning: Normative Solution Framework
+
+This study is positioned as a **normative solution framework**, not only diagnosing problems but also explicitly specifying **how human-AI collaboration should be constructed** to avoid dependency degradation. We provide:
+
+- **Construction standards** (through EML)
+- **Acceptance standards** (through AVP)
+- **Engineering paths** (through LSA)
+
+**Relationship to AI alignment research**: This theory complements AI alignment research?alignment research focuses on &quot;whether AI intentions align with human values,&quot; while this theory focuses on &quot;whether human-AI collaboration promotes sustainable development of human capabilities.&quot; In this sense, AVP-validated growth constitutes &quot;cognitive resilience&quot; under tool volatility.
+
+## 1.4 Methodology and Paper Structure
+
+### 1.4.1 Methodological Positioning
+
+This study employs a methodology **combining theory construction and conceptual analysis**, positioned as a **falsifiable theoretical framework**.
+
+**Transparency statement**:
+
+1. All quantitative parameters ($$\delta$ $\geq$ 0.3\,$\mathrm{SD}$$, 50$$\text{?}$$70% success rate, $W = 4$\text{?}$8$ weeks) are **conceptual working models**, based on reasonable inferences from cognitive psychology and educational measurement literature, requiring cross-domain calibration and empirical validation.
+2. Case selection follows the **theoretical enlightenment** criterion, not pursuing statistical representativeness, used to elucidate mechanisms and boundary conditions.
+3. We explicitly indicate theoretical applicability boundaries and falsification paths (detailed in Chapter 6), adhering to open science principles.
+
+### 1.4.2 Paper Structure
+
+**Chapter 2**: Reviews cross-disciplinary evidence foundations (cognitive offloading, extended mind, scaffolding theory, antifragility)
+
+**Chapter 3**: Constructs the AVP/EML theoretical framework, clearly defines B1-B5 anchor definitions
+
+**Chapter 4**: Extends to team (T-AVP) and organizational (O-AVP) levels, discusses generational divide
+
+**Chapter 5**: Discusses LSA technical implementation paths (L1-L4 layered architecture)
+
+**Chapter 6**: Clarifies theoretical boundaries and proposes eight falsifiable hypotheses (H1-H8)
+
+## 1.5 Terminology and Parameter Conventions
+
+This paper adopts the Single Source of Truth (SSOT) principle. All core terminology definitions are found in Section 3.0 of Chapter 3, and all parameter default values are found in Appendix B Parameter Registry. If discrepancies are found, these two sources take precedence. All deltas to SSOT will be recorded in the change-log and mirrored to CETG7.</code></pre>
+<h1 id="chapter-2-literature-review-and-theoretical-foundations">Chapter
+2: Literature Review and Theoretical Foundations</h1>
+<p>This chapter reviews the cross-disciplinary foundations of CET,
+revealing how existing research points toward a unified framework. While
+cognitive offloading, extended mind, scaffolding theory, and other
+fields each provide important insights, they lack
+<strong>operationalizable evaluation criteria</strong> and
+<strong>unified design principles</strong>?which are the core
+contributions of CET.</p>
+<h2 id="cognitive-offloading-research-from-phenomena-to-mechanisms">2.1
+Cognitive Offloading Research: From Phenomena to Mechanisms</h2>
+<p><strong>Core concept</strong>: Cognitive offloading refers to
+individuals delegating cognitive tasks to external systems to reduce
+internal cognitive load (Risko &amp; Gilbert, 2016).</p>
+<p><strong>Key findings</strong>:</p>
+<p><strong>Google effect</strong> (Sparrow et al., 2011): When
+information is easily accessible, memory for the information itself
+declines, while memory for its storage location strengthens. <strong>GPS
+and spatial cognition</strong> (Dahmani &amp; Bohbot, 2020): Habitual
+GPS use is associated with spatial memory deficits and reduced
+hippocampal gray matter volume (directional evidence). This contrasts
+with Maguire et al. (2000): long-term spatial memory training in London
+taxi drivers was associated with enlargement of the posterior
+hippocampus. Together, these two lines of evidence function as a
+quasi-experimental contrast: the same cognitive function, different
+relationships to technology (independent training vs. dependency), and
+opposite neuroplastic tendencies. <strong>New evidence in the AI
+era</strong> (Liao et al., 2024): AI assistance lacking cognitive
+friction leads to surface learning and an “illusion of
+learning”?learners believe they have mastered knowledge when they have
+merely relied on tools.</p>
+<p><strong>Theoretical gaps</strong>:</p>
+<ol type="1">
+<li><strong>Lack of evaluation criteria</strong>: Descriptive findings
+do not yield normative criteria. When does “reasonable utilization” turn
+into “harmful dependency”?</li>
+<li><strong>Lack of design guidance</strong>: “Moderate use” is
+impractical as guidance?complete avoidance is impossible in a digital
+world.</li>
+<li><strong>Lack of cross-scale integration</strong>: Evidence
+concentrates on individuals, with limited connection to
+organizational/societal impacts.</li>
+</ol>
+<p><strong>CET’s contribution</strong>: AVP ($P_2 <span
+class="math inline">≥</span> B_0 + <span
+class="math inline"><em>δ</em></span>$) provides an operationalizable,
+falsifiable evaluation criterion. EML provides a complete path from
+problem diagnosis to solution design.</p>
+<h2
+id="extended-mind-theory-from-philosophical-metaphor-to-operationalizable-standards">2.2
+Extended Mind Theory: From Philosophical Metaphor to Operationalizable
+Standards</h2>
+<p><strong>Core claim</strong> (Clark &amp; Chalmers, 1998): Cognitive
+boundaries need not be limited to the skull or skin. When external tools
+couple with cognitive processes in appropriate ways, they may count as
+parts of the cognitive system (“parity principle”).</p>
+<p><strong>Key limitations</strong>:</p>
+<ol type="1">
+<li><strong>Lack of health criteria</strong>: The theory clarifies what
+counts as cognition but not what kind of extension is healthy. Otto’s
+notebook (compensatory tool) vs. excessive AI dependency (capability
+degradation) both qualify as “extended cognition,” yet their health
+implications diverge.</li>
+<li><strong>Ignoring process temporality</strong>: It emphasizes states
+over processes, overlooking capability development dynamics. AI-assisted
+writing may be initially beneficial, yet continued dependence can stall
+independent capability.</li>
+</ol>
+<p><strong>CET’s reconstruction</strong>: From “functional parity” to
+“process parity”?not only “does the tool help complete tasks” but also
+“does tool use promote capability enhancement.” AVP supplies a
+falsifiable boundary: $P_2 <span class="math inline">≥</span> B_0 +
+<span class="math inline"><em>δ</em></span>$ (benign) vs. <span
+class="math inline"><em>P</em><sub>2</sub> &lt; <em>B</em><sub>0</sub></span>
+(pathological). EML’s systematic support reduction (S4<span
+class="math inline">→</span>S1<span class="math inline">→</span>S0)
+helps ensure extension is temporary scaffolding rather than a permanent
+crutch.</p>
+<h2 id="automation-and-scaffolding-failure-cases-and-success-paths">2.3
+Automation and Scaffolding: Failure Cases and Success Paths</h2>
+<p><strong>Automation paradox</strong> (Bainbridge, 1983): The more
+perfect the automation, the worse operators’ capabilities when
+intervention is needed. Aviation case (Air France Flight 447): Pilots
+operated normally under autopilot (<span
+class="math inline"><em>P</em><sub>1</sub></span> high) but lacked
+manual proficiency when the system failed (<span
+class="math inline"><em>P</em><sub>2</sub></span> low). This “permanent
+support ? capability degradation” pattern is the “Cognitive Exoskeleton”
+CET warns against.</p>
+<p><strong>Scaffolding theory</strong> (Wood et al., 1976; Vygotsky,
+1978): Effective instructional support is temporary, with systematic
+support reduction (S4<span class="math inline">→</span>S1<span
+class="math inline">→</span>S0).</p>
+<p><strong>Initial support</strong>: Provide intensive support when
+capability is insufficient. <strong>Systematic support reduction
+(S4<span class="math inline">→</span>S1<span
+class="math inline">→</span>S0)</strong>: Reduce support as capability
+improves. <strong>Final independence</strong>: Complete tasks without
+support.</p>
+<p><strong>Comparative insight</strong>: Automation paradox (permanent
+support ? degradation) vs. scaffolding (systematic reduction ?
+independence) jointly support EML Condition 2 (systematic support
+reduction).</p>
+<h2 id="neuroplasticity-and-cognitive-training">2.4 Neuroplasticity and
+Cognitive Training</h2>
+<p><strong>Use-it-or-lose-it principle</strong>: Frequently used neural
+pathways are strengthened; those idle for long periods are weakened.
+When AI fully replaces a cognitive function, the corresponding circuitry
+tends to degrade.</p>
+<p><strong>Desirable Difficulties theory</strong> (Bjork, 1994):
+Moderate difficulties promote long-term retention and transfer (working
+assumption with empirical support), including spaced practice,
+interleaving, and the generation effect.</p>
+<p><strong>Optimal challenge zone</strong>: Inspired by the Zone of
+Proximal Development (ZPD), CET quantifies a 50?70% success rate
+(working assumption, population-level, with individual calibration).
+&lt;30% risks frustration; &gt;85% approaches offloading; 50?70%
+balances difficulty and growth.</p>
+<p><strong>CET’s transformation</strong>: Converts evidence into three
+design knobs? friction (50?70% success rate, working assumption), ?
+reduction (S4<span class="math inline">→</span>S1<span
+class="math inline">→</span>S0), ? validation ($P_2 <span
+class="math inline">≥</span> B_0 + <span
+class="math inline"><em>δ</em></span>$).</p>
+<h2
+id="theoretical-integration-convergence-of-cross-disciplinary-evidence">2.5
+Theoretical Integration: Convergence of Cross-Disciplinary Evidence</h2>
+<p><strong>Triple convergence</strong>:</p>
+<ol type="1">
+<li><strong>Negative-warning convergence</strong>: Cognitive offloading
+(GPS), automation (pilot skills), neuroplasticity (use-dependent
+atrophy)?three independent lines all highlight “permanent dependency ?
+capability atrophy,” supporting CET’s critique of the Cognitive
+Exoskeleton.</li>
+<li><strong>Positive-path convergence</strong>: Scaffolding (pedagogy),
+desirable difficulties (cognitive psychology), neuroplasticity (taxi
+drivers)?all point to “moderate challenge + systematic support reduction
+(S4<span class="math inline">→</span>S1<span
+class="math inline">→</span>S0),” supporting EML’s two conditions.</li>
+<li><strong>Evaluation-gap convergence</strong>: All lack a unified,
+operationalizable standard for judging healthy human-AI
+relationships?CET fills the gap via AVP/EML.</li>
+</ol>
+<p><strong>CET’s unique contribution</strong>: Integrates scattered
+findings into a falsifiable framework amenable to engineering,
+addressing three gaps:</p>
+<p><strong>Gap 1 (evaluation)</strong>: AVP offers an operationalizable
+reference ($P_2 <span class="math inline">≥</span> B_0 + <span
+class="math inline"><em>δ</em></span>$). <strong>Gap 2
+(design)</strong>: EML prescribes beneficial friction + systematic
+reduction. <strong>Gap 3 (cross-scale)</strong>: With LSA and
+cross-scale analysis, connects individual offloading, team patterns, and
+organizational resilience (see Chapter 4). # Chapter 3: Core CET Theory
+Construction</p>
+<p>This chapter systematically explicates the core mechanisms of CET:
+How is the AVP criterion operationalized? What is the internal logic of
+EML’s conditions? How are the two unified through Partner-like
+Agency?</p>
+<h2 id="core-terminology-and-anchor-definitions">3.0 Core Terminology
+and Anchor Definitions</h2>
+<p>This section presents all core definitions and fixed anchor texts of
+CET. <strong>These anchor definitions remain verbatim throughout the
+text;</strong> subsequent chapters cite abbreviations or use “see
+Section 3.0.”</p>
+<h3 id="core-symbol-system">3.0.1 Core Symbol System</h3>
+<p><strong>Table 3.1: Key Symbol System</strong></p>
+<table>
+<colgroup>
+<col style="width: 30%" />
+<col style="width: 20%" />
+<col style="width: 48%" />
+</colgroup>
+<thead>
+<tr>
+<th>Symbol/Term</th>
+<th>Meaning</th>
+<th>Typical Value/Range</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span class="math inline"><em>B</em><sub>0</sub></span></td>
+<td>User’s independent capability baseline before using AI</td>
+<td>Task-specific measurement</td>
+</tr>
+<tr>
+<td><span class="math inline"><em>P</em><sub>1</sub></span></td>
+<td>User’s performance while collaborating with AI</td>
+<td>Process indicator; not included in final judgment</td>
+</tr>
+<tr>
+<td><span class="math inline"><em>P</em><sub>2</sub></span></td>
+<td>User’s independent performance after the unplugged window</td>
+<td>Core indicator for AVP validation</td>
+</tr>
+<tr>
+<td><span class="math display"><em>δ</em></span></td>
+<td>Minimum meaningful lift threshold</td>
+<td>Working assumption: <span class="math display">$$\geq$
+0.3\,$\text{SD}$$</span> or 10% (requires cross-domain/task
+calibration)</td>
+</tr>
+<tr>
+<td><span class="math inline"><em>W</em></span></td>
+<td>Unplugged window duration</td>
+<td>Working assumption: 4?8 weeks (default 6 weeks; requires
+cross-domain/task calibration)</td>
+</tr>
+<tr>
+<td><span class="math inline"><em>S</em>(<em>t</em>)</span></td>
+<td>AI support intensity at time <span
+class="math inline"><em>t</em></span></td>
+<td>0 (fully independent) to 1 (fully dependent)</td>
+</tr>
+<tr>
+<td>Success-rate target</td>
+<td>Quantitative target for beneficial cognitive friction</td>
+<td>50<span class="math display">?</span>70% (working assumption;
+population-level; individual calibration required)</td>
+</tr>
+</tbody>
+</table>
+<p><em>Note: All quantitative parameters are conceptual working models
+requiring cross-domain empirical calibration.</em></p>
+<h3 id="antifragility-validation-principle-avp-anchor-b1">3.0.2
+Antifragility Validation Principle (AVP) [Anchor B1]</h3>
+<blockquote>
+<p><strong>Antifragility Validation Principle (AVP).</strong> Validate
+collaboration through an <strong>Unplugged Test</strong> to verify
+whether it promotes independent capability.<br />
+<strong>Criterion:</strong> $P_2 <span class="math inline">≥</span> B_0
++ <span class="math inline"><em>δ</em></span>$ (where <span
+class="math display">$$\delta$ $\geq$ 0.3\,$\text{SD}$$</span> or 10%,
+working assumption; requires cross-domain/task calibration).
+<strong><span class="math inline"><em>P</em><sub>1</sub></span>
+(collaboration performance) is not included in final
+judgment.</strong></p>
+</blockquote>
+<h3 id="endosymbiotic-minimal-law-eml-anchor-b2">3.0.3 Endosymbiotic
+Minimal Law (EML) [Anchor B2]</h3>
+<blockquote>
+<p><strong>Endosymbiotic Minimal Law (EML).</strong> The
+<strong>necessary design conditions</strong> for constituting “Cognitive
+Endosymbiosis” are:<br />
+(1) <strong>Beneficial Cognitive Friction:</strong> Place users in the
+<strong>optimal challenge zone</strong> (population-level working
+assumption: 50<span class="math display">?</span>70% success rate;
+individual adaptation required);<br />
+(2) <strong>Systematic Support Reduction:</strong> Decrease AI support
+intensity from S4?S1?S0 according to a <strong>reduction
+curve</strong>.<br />
+These two are <strong>jointly sufficient</strong> design conditions, but
+the final acceptance still requires <strong>AVP ($P_2 <span
+class="math inline">≥</span> B_0 + <span
+class="math inline"><em>δ</em></span>$).</strong></p>
+</blockquote>
+<h3 id="lsa-functional-layers-anchor-b3">3.0.4 LSA Functional Layers
+[Anchor B3]</h3>
+<blockquote>
+<p><strong>LSA-F (Functional Layers).</strong> L1 Knowledge Integration
+| L2 State Modeling | L3 Friction Calibration | L4 Metacognitive
+Orchestration.<br />
+<strong>Support Level Stack (S4?S1?S0)</strong> expresses support
+intensity and is orthogonal to LSA-F.</p>
+</blockquote>
+<p><strong>Hard constraint.</strong> L1?L4 (functional layers) and S4?S1
+(support intensity) are <strong>mutually exclusive
+representations</strong>; they must not be substituted or cascaded
+within the same formula.</p>
+<h3 id="optimal-challenge-zone-anchor-b4">3.0.5 Optimal Challenge Zone
+[Anchor B4]</h3>
+<blockquote>
+<p><strong>Optimal Challenge Zone.</strong> To promote retention and
+transfer, adapt difficulty/prompt intensity to a <strong>50<span
+class="math display">?</span>70% success rate</strong> (working
+assumption; cross-domain/task calibrated; population-level with
+individual calibration). <strong>&gt;85%</strong> approaches offloading;
+<strong>&lt;30%</strong> risks frustration.</p>
+</blockquote>
+<h3 id="boundary-conditions-anchor-b5">3.0.6 Boundary Conditions [Anchor
+B5]</h3>
+<blockquote>
+<p><strong>Boundary Conditions.</strong> CET applies to
+<strong>capability-enhancing</strong> human?AI collaboration;
+<strong>compensatory exoskeletons</strong> (e.g., disability assistance;
+devices exceeding physiological limits) are outside scope. All
+parameters are <strong>conceptual working models</strong> requiring
+cross-domain calibration.</p>
+</blockquote>
+<h2 id="core-derivation-of-the-avp-principle">3.1 Core Derivation of the
+AVP Principle</h2>
+<h3 id="why-p_2-rather-than-p_1">3.1.1 Why <span
+class="math inline"><em>P</em><sub>2</sub></span> Rather Than <span
+class="math inline"><em>P</em><sub>1</sub></span>?</h3>
+<p><strong>Three-stage capability measurement.</strong><br />
+<strong><span class="math inline"><em>B</em><sub>0</sub></span></strong>
+(pre-collaboration independent baseline);<br />
+<strong><span class="math inline"><em>P</em><sub>1</sub></span></strong>
+(collaboration-period performance; process observation only; not used in
+judgment);<br />
+<strong><span class="math inline"><em>P</em><sub>2</sub></span></strong>
+(post-collaboration independent performance; unplugged window <span
+class="math inline"><em>W</em> = 4</span>?<span
+class="math inline">8</span> weeks; default 6 weeks; working
+assumption).</p>
+<p><strong>Blind spot of traditional evaluation.</strong> Most systems
+examine <span class="math inline"><em>P</em><sub>1</sub></span> only,
+ignoring “what happens when leaving AI.” High <span
+class="math inline"><em>P</em><sub>1</sub></span> shows AI
+effectiveness, <strong>not</strong> user capability growth.</p>
+<p><strong>Necessity of the unplugged test.</strong> Genuine capability
+enhancement should make users stronger <strong>when away from
+AI</strong>. The unplugged window <span
+class="math inline"><em>W</em> = 4</span>?<span
+class="math inline">8</span> weeks (default 6; working assumption)
+balances stability with environmental control.</p>
+<p><strong>Outcome categories.</strong><br />
+$P_2 <span class="math inline">≥</span> B_0 + <span
+class="math inline"><em>δ</em></span><span
+class="math inline"> : <em>S</em><em>u</em><em>c</em><em>c</em><em>e</em><em>s</em><em>s</em>(<em>C</em><em>o</em><em>g</em><em>n</em><em>i</em><em>t</em><em>i</em><em>v</em><em>e</em><em>E</em><em>n</em><em>d</em><em>o</em><em>s</em><em>y</em><em>m</em><em>b</em><em>i</em><em>o</em><em>s</em><em>i</em><em>s</em>);</span>P_2
+B_0<span
+class="math inline"> : <em>N</em><em>e</em><em>u</em><em>t</em><em>r</em><em>a</em><em>l</em>(<em>n</em><em>o</em><em>h</em><em>a</em><em>r</em><em>m</em>, <em>n</em><em>o</em><em>g</em><em>r</em><em>o</em><em>w</em><em>t</em><em>h</em>);</span>P_2
+&lt; B_0$: Failure (Cognitive Exoskeleton).</p>
+<h3 id="logic-for-selecting-delta">3.1.2 Logic for Selecting <span
+class="math display"><em>δ</em></span></h3>
+<p><strong>Rationale</strong> (working assumption; cross-domain/task
+calibration).<br />
+1) <strong>Statistical/practical significance.</strong> $<span
+class="math inline">0.3 </span><span
+class="math display"><em>i</em><em>s</em><em>a</em><em>s</em><em>m</em><em>a</em><em>l</em><em>l</em> − <em>t</em><em>o</em> − <em>m</em><em>e</em><em>d</em><em>i</em><em>u</em><em>m</em><em>e</em><em>f</em><em>f</em><em>e</em><em>c</em><em>t</em><em>w</em><em>i</em><em>t</em><em>h</em><em>p</em><em>r</em><em>a</em><em>c</em><em>t</em><em>i</em><em>c</em><em>a</em><em>l</em><em>m</em><em>e</em><em>a</em><em>n</em><em>i</em><em>n</em><em>g</em>; 2) * *<em>M</em><em>e</em><em>a</em><em>s</em><em>u</em><em>r</em><em>e</em><em>m</em><em>e</em><em>n</em><em>t</em><em>e</em><em>r</em><em>r</em><em>o</em><em>r</em><em>t</em><em>o</em><em>l</em><em>e</em><em>r</em><em>a</em><em>n</em><em>c</em><em>e</em>. * *<em>A</em><em>v</em><em>o</em><em>i</em><em>d</em><em>s</em><em>m</em><em>i</em><em>s</em><em>t</em><em>a</em><em>k</em><em>i</em><em>n</em><em>g</em><em>n</em><em>o</em><em>i</em><em>s</em><em>e</em><em>f</em><em>o</em><em>r</em><em>g</em><em>r</em><em>o</em><em>w</em><em>t</em><em>h</em>; 3) * *<em>C</em><em>o</em><em>m</em><em>p</em><em>a</em><em>r</em><em>a</em><em>b</em><em>i</em><em>l</em><em>i</em><em>t</em><em>y</em>. * *</span>$$/percentage
+thresholds adapt across tasks.</p>
+<p><strong>Calibration principle.</strong> High-risk domains (e.g.,
+healthcare) may require higher <span
+class="math display"><em>δ</em></span> (e.g., 0.5,<span
+class="math inline">SD</span><span
+class="math inline">); <em>l</em><em>o</em><em>w</em> − <em>r</em><em>i</em><em>s</em><em>k</em><em>d</em><em>o</em><em>m</em><em>a</em><em>i</em><em>n</em><em>s</em><em>c</em><em>a</em><em>n</em><em>a</em><em>c</em><em>c</em><em>e</em><em>p</em><em>t</em><em>l</em><em>o</em><em>w</em><em>e</em><em>r</em><em>v</em><em>a</em><em>l</em><em>u</em><em>e</em><em>s</em>(<em>e</em>.<em>g</em>., 0.2 </span>$$).</p>
+<h2 id="beneficial-cognitive-friction-mechanism">3.2 Beneficial
+Cognitive Friction Mechanism</h2>
+<h3 id="theoretical-foundation">3.2.1 Theoretical Foundation</h3>
+<p><strong>Use-it-or-lose-it.</strong> Frequently used neural pathways
+strengthen; idle pathways weaken. Full replacement by AI tends to
+degrade the corresponding circuitry (directional evidence; Dahmani &amp;
+Bohbot, 2020).</p>
+<p><strong>Desirable Difficulties</strong> (Bjork, 1994). Moderate
+difficulties (e.g., spacing, interleaving, generation effect) promote
+long-term retention and transfer.</p>
+<p><strong>Zero-friction trap.</strong> “Zero-friction” experiences may
+yield high <span class="math inline"><em>P</em><sub>1</sub></span> yet
+stagnate or reduce <span
+class="math inline"><em>P</em><sub>2</sub></span>.</p>
+<h3 id="optimal-challenge-zone-50text70">3.2.2 Optimal Challenge Zone:
+50<span class="math display">?</span>70%</h3>
+<p>Inspired by the <strong>Zone of Proximal Development (ZPD)</strong>,
+CET operationalizes the <strong>optimal challenge zone</strong> as a
+<strong>50<span class="math display">?</span>70% success rate</strong>
+(working assumption; cross-domain/task calibrated; population-level;
+individual dynamic calibration required).</p>
+<p><strong>Why this range</strong> (working assumption; requires
+cross-task validation): <strong>&lt;30%</strong> frustrates;
+<strong>50<span class="math display">?</span>70%</strong> balances
+challenge/growth; <strong>&gt;85%</strong> approaches offloading.</p>
+<h3 id="three-types-of-friction">3.2.3 Three Types of Friction</h3>
+<p><strong>Table 3.2: Three Strategies of Cognitive
+Friction</strong></p>
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 27%" />
+<col style="width: 31%" />
+<col style="width: 15%" />
+</colgroup>
+<thead>
+<tr>
+<th>Friction Type</th>
+<th>Implementation</th>
+<th>Cognitive Effect</th>
+<th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Completeness friction</strong></td>
+<td>Provide a partial answer; leave blanks for the user to fill</td>
+<td>Activates generation effect; promotes active construction</td>
+<td>AI supplies a code framework; user implements core logic</td>
+</tr>
+<tr>
+<td><strong>Abstraction friction</strong></td>
+<td>Provide conceptual guidance, not step-by-step solutions</td>
+<td>Deepens understanding; avoids mechanical imitation</td>
+<td>AI explains algorithmic ideas, not direct code</td>
+</tr>
+<tr>
+<td><strong>Delay friction</strong></td>
+<td>Delay feedback to enforce independent effort</td>
+<td>Enhances problem-solving; reduces dependency</td>
+<td>User works 15 minutes before AI intervenes</td>
+</tr>
+</tbody>
+</table>
+<p><em>Note (Goodhart safeguard): This table/grading is for directional
+stratification only; must not be cascaded into KPIs. Final judgment
+follows the AVP main criterion (see Section 3.0.2).</em></p>
+<h2 id="systematic-support-reduction">3.3 Systematic Support
+Reduction</h2>
+<h3 id="why-reduction-is-necessary">3.3.1 Why Reduction Is
+Necessary</h3>
+<p><strong>Scaffolding theory</strong> (Wood et al., 1976). Effective
+support is <strong>temporary</strong>, with systematic reduction
+(S4?S1?S0). As with physical scaffolds, AI support must recede once
+capability forms.</p>
+<p><strong>Automation paradox.</strong> Permanent automation support
+degrades operator skills. Fixed high support invites <strong>dependency
+lock-in</strong>.</p>
+<h3 id="support-level-stack-s4s1s0">3.3.2 Support Level Stack
+(S4?S1?S0)</h3>
+<p><strong>Definition (orthogonal to LSA-F).</strong> As defined in
+<strong>Section 3.0.4</strong>, the Support Level Stack is orthogonal to
+LSA-F and comprises: <strong>S4 (initial intensity):</strong> Maximum
+support (complete answers; detailed steps);<br />
+<strong>S3 (moderate):</strong> Hints and partial solutions;<br />
+<strong>S2 (light):</strong> Minimal hints on request;<br />
+<strong>S1 (minimum):</strong> Validation/feedback only; no direct
+solutions;<br />
+<strong>S0 (unplugged):</strong> No AI support; used for AVP
+testing.</p>
+<p><em>Notation consistency:</em> we use <strong>S0</strong> (not “0”)
+to denote the fully unplugged state.</p>
+<h3 id="three-reduction-curves">3.3.3 Three Reduction Curves</h3>
+<p><strong>Table 3.3: Support Reduction Curve Types</strong></p>
+<table>
+<colgroup>
+<col style="width: 23%" />
+<col style="width: 33%" />
+<col style="width: 43%" />
+</colgroup>
+<thead>
+<tr>
+<th>Curve Type</th>
+<th>Characteristics</th>
+<th>Applicable Scenarios</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Linear</strong></td>
+<td>Uniform descent; smooth transition</td>
+<td>Structured tasks; stable learning curves</td>
+</tr>
+<tr>
+<td><strong>Exponential</strong></td>
+<td>Rapid early reduction; slower later</td>
+<td>Fast skills; avoiding early over-dependence</td>
+</tr>
+<tr>
+<td><strong>Stepped</strong></td>
+<td>Stage-wise drops; clear adaptation plateaus</td>
+<td>Graded training; milestone checkpoints</td>
+</tr>
+</tbody>
+</table>
+<p><em>Note: Curve parameters are calibration variables to be tuned by
+task complexity, user capability, and learning goals.</em><br />
+<em>Note (Goodhart safeguard): This table/grading is for directional
+stratification only; must not be cascaded into KPIs. Final judgment
+follows the AVP main criterion (see Section 3.0.2).</em></p>
+<h3 id="fallback-and-safety-net-mechanisms">3.3.4 Fallback and Safety
+Net Mechanisms</h3>
+<p><strong>Fallback (safety net).</strong> On sharp performance drops
+after reduction, <strong>temporarily revert</strong> to higher
+support.<br />
+- <strong>Trigger:</strong> Three consecutive failures &gt;70%, or
+explicit user request;<br />
+- <strong>Strategy:</strong> <span
+class="math inline"><em>S</em>(<em>t</em>) </span><span
+class="math inline"> <em>S</em>(<em>t</em> − <em>Δ</em><em>t</em>)</span>
+to restore support;<br />
+- <strong>Recovery:</strong> Restart reduction once the user
+stabilizes.</p>
+<p><strong>Minimum guaranteed support <span
+class="math inline"><em>S</em><sub>min</sub></span></strong> (<span
+class="math inline"><em>S</em><sub>min</sub> ≈ 0.2</span>; working
+assumption; requires calibration): Ensure minimal navigational support
+persists.</p>
+<h2 id="partner-like-agency-reconstructing-ais-role">3.4 Partner-like
+Agency: Reconstructing AI’s Role</h2>
+<h3 id="from-tool-to-partner">3.4.1 From Tool to Partner</h3>
+<p><strong>Limitations.</strong><br />
+- <strong>Pure tool:</strong> Ignores reverse shaping of user
+cognition;<br />
+- <strong>Autonomous agent:</strong> Risks control conflicts.</p>
+<p><strong>Definition.</strong> AI has <strong>limited agency</strong>
+oriented to <strong>user capability growth</strong>.</p>
+<p><strong>Analogy.</strong> Coach/mentor/sparring-partner: proactive,
+yet subordinate to the learner’s long-term development.</p>
+<h3 id="three-operational-anchors">3.4.2 Three Operational Anchors</h3>
+<p><strong>Anchor 1: Friction injection.</strong><br />
+- Proactively create appropriate cognitive challenges;<br />
+- Raise friction when over-reliance is detected.</p>
+<p><strong>Anchor 2: Scaffolding fadeout.</strong><br />
+- Follow the reduction curve (S4?S1?S0);<br />
+- Withdraw as capability improves.</p>
+<p><strong>Anchor 3: AVP closed loop.</strong><br />
+- The end-state is enhanced independence ($P_2 <span
+class="math inline">≥</span> B_0 + <span
+class="math inline"><em>δ</em></span>$);<br />
+- After validation, AI shifts from <strong>partner</strong> to
+<strong>advisor</strong>.</p>
+<h3 id="functional-non-anthropomorphization">3.4.3 Functional
+Non-Anthropomorphization</h3>
+<p>Partner-like Agency <strong>does not imply
+anthropomorphization</strong>. We require AI to
+<strong>functionally</strong> promote growth, not to mimic human
+traits.</p>
+<p><strong>Key characteristics.</strong><br />
+- <strong>Goal alignment:</strong> Utility is long-term capability, not
+short-term efficiency;<br />
+- <strong>Power transfer:</strong> Control shifts to the user as
+capability grows;<br />
+- <strong>Metacognitive catalysis:</strong> Prompt reflection through
+guiding questions, not direct answers.</p>
+<h2 id="cognitive-exoskeleton-warning-signals">3.5 Cognitive
+Exoskeleton: Warning Signals</h2>
+<h3 id="three-core-characteristics">3.5.1 Three Core
+Characteristics</h3>
+<p><strong>Zero-friction design.</strong> Seamless answers on demand ?
+comfort without growth.<br />
+<strong>No reduction.</strong> Fixed high support ? permanent
+dependency.<br />
+<strong>AVP failure.</strong> <span
+class="math inline"><em>P</em><sub>2</sub> &lt; <em>B</em><sub>0</sub></span>
+(degradation) or <span
+class="math inline"><em>P</em><sub>2</sub> ≈ <em>B</em><sub>0</sub></span>
+(no growth) ? antifragility not achieved.</p>
+<h3 id="three-key-warning-signals-from-a-set-of-ten">3.5.2 Three Key
+Warning Signals (from a set of ten)</h3>
+<p><strong>Habitual reliance.</strong> Default to AI even for simple
+tasks ? problem-solving atrophy.<br />
+<strong>Loss of transfer.</strong> Cannot deploy knowledge without AI ?
+surface understanding.<br />
+<strong>Weak metacognition.</strong> “Illusion of learning” ? misaligned
+self-assessment.</p>
+<h3 id="intervention-timing">3.5.3 Intervention Timing</h3>
+<p><strong>Yellow alert.</strong> 1?2 signals ? raise friction; initiate
+reduction.<br />
+<strong>Red alert.</strong> ?3 signals ? immediate intervention (forced
+unplugged test; capability rebuild).</p>
+<h2 id="chapter-summary">3.6 Chapter Summary</h2>
+<p><strong>Core contributions.</strong><br />
+1) <strong>Falsifiable standard:</strong> AVP turns “healthy human?AI
+relations” into a measurable criterion ($P_2 <span
+class="math inline">≥</span> B_0 + <span
+class="math inline"><em>δ</em></span>$);<br />
+2) <strong>Design principles:</strong> EML’s two conditions (beneficial
+friction + systematic reduction) guide system design;<br />
+3) <strong>Role reconstruction:</strong> Partner-like Agency reframes
+AI’s function;<br />
+4) <strong>Risk signals:</strong> Exoskeleton warnings enable early
+intervention.</p>
+<p><strong>Logical completeness.</strong> <strong>AVP (evaluation) + EML
+(design) + Partner-like Agency (foundation)</strong> form CET’s core
+architecture: AVP answers <strong>what is good</strong>, EML answers
+<strong>how to achieve</strong>, Partner-like Agency answers <strong>why
+it is effective</strong>.</p>
+<h1
+id="chapter-4-cross-scale-extensions-from-individual-to-organization-to-society">Chapter
+4: Cross-Scale Extensions: From Individual to Organization to
+Society</h1>
+<p>The first three chapters focused on individual-level human-AI
+interaction, but AI’s impact extends beyond individuals. When multiple
+people collaborate, organizations operate, and societies evolve, what
+emergent effects do individual-level cognitive offloading produce? This
+chapter demonstrates how CET scales from microscopic mechanisms to
+macroscopic phenomena.</p>
+<h2 id="itos-four-layer-system-the-scale-ladder">4.1 I/T/O/S Four-Layer
+System: The Scale Ladder</h2>
+<h3 id="individual-layer-i-avp-foundation">4.1.1 Individual Layer
+(I-AVP): Foundation</h3>
+<p><strong>Core criterion</strong>: $P_2 <span
+class="math inline">≥</span> B_0 + <span
+class="math inline"><em>δ</em></span>$ (capability after unplugging
+exceeds baseline)</p>
+<p><strong>Key mechanisms</strong>: Beneficial friction (50?70% success
+rate, working assumption) + Systematic support reduction (S4?S1?S0)</p>
+<p><strong>Applicable scenarios</strong>: Learning tools, skill
+training, personal productivity tools</p>
+<h3 id="team-layer-t-avp-collaborative-capability">4.1.2 Team Layer
+(T-AVP): Collaborative Capability</h3>
+<p><strong>Core finding</strong>: Even when all members pass I-AVP, the
+team level may still fail (<span class="math inline">$P_{2,$</span><span
+class="math inline">$} &lt; B_{0,$</span><span
+class="math inline">$}$</span>)</p>
+<p><strong>Three failure modes</strong>:</p>
+<ol type="1">
+<li><strong>Capability polarization</strong>: Some members highly
+dependent on AI, others completely independent, team overall
+fragile</li>
+<li><strong>Tacit knowledge loss</strong>: Members all ask AI rather
+than communicate with each other, team collective intelligence not
+accumulated</li>
+<li><strong>Role rigidity</strong>: Over-specialization, loss of mutual
+backup capability</li>
+</ol>
+<p><strong>T-AVP Definition</strong></p>
+<p><strong>Criterion</strong>: <span
+class="math inline">$P_{2,$</span>$} <span class="math inline">≥</span>
+B_{0,<span class="math inline">team</span>} + <span
+class="math inline"><em>δ</em></span>_{<span
+class="math inline">team</span>}$</p>
+<p><strong>Where</strong>: - <span
+class="math display">$$\delta$_{$\mathrm{team}$} $\geq$
+0.3\,$\mathrm{SD}$$</span> (working assumption; requires cross-domain
+calibration) - Team performance <span class="math inline">≠</span>
+simple sum of individual performance (collaborative emergence)</p>
+<p><strong>Measurement protocol (simplified)</strong>:</p>
+<ol type="1">
+<li><strong>Baseline</strong>: Team completes a standard project without
+AI</li>
+<li><strong>AI usage period</strong>: 8?12 weeks of normal AI use</li>
+<li><strong>Unplugged window</strong>: <span
+class="math inline"><em>W</em> = 4</span><span
+class="math inline">8</span> weeks (default 6; working assumption)</li>
+<li><strong>Team Unplugged Test</strong>: Complete an equivalent project
+without AI</li>
+<li><strong>Judgment</strong>: <span
+class="math inline">$P_{2,$</span>$} <span class="math inline">≥</span>
+B_{0,<span class="math inline">team</span>} + <span
+class="math inline"><em>δ</em></span>_{<span
+class="math inline">team</span>}$?</li>
+</ol>
+<p><strong>Design insights</strong>:</p>
+<ul>
+<li>Regular “no-AI discussion sessions” promote knowledge flow</li>
+<li>Role rotation avoids over-specialization</li>
+<li>Institutionalized capability construction (e.g., “Friday No-AI
+Day”)</li>
+</ul>
+<h3 id="organizational-layer-o-avp-system-resilience">4.1.3
+Organizational Layer (O-AVP): System Resilience</h3>
+<p><strong>Three major organizational risks</strong>:</p>
+<ol type="1">
+<li><strong>Critical capability hollowing</strong>: Certain skills
+completely disappear from the organization (veteran employees degrade,
+new employees never master)</li>
+<li><strong>Knowledge transmission rupture</strong>: New employees learn
+from AI rather than veteran employees, tacit knowledge lost</li>
+<li><strong>Cognitive infrastructure single point of failure</strong>:
+AI outage ? business paralysis</li>
+</ol>
+<p><strong>O-AVP Definition (dual-threshold model)</strong></p>
+<p><strong>O-AVP Formula</strong>: <span
+class="math display">$$\mathrm{O$\text{-}$$</span>AVP} = <span
+class="math inline">BCI</span> <span class="math inline">×</span> 0.4 +
+<span class="math inline">ICR</span> <span class="math inline">×</span>
+0.6$</p>
+<p><strong>Dual thresholds</strong> (working assumption): -
+<strong>Alert</strong>: <span class="math display">$$\geq$ 0.70$
+(triggers risk investigation)
+- **Target**: $$</span>$ 0.85$ (healthy-organization standard)</p>
+<p><strong>Where</strong>: - <strong>BCI (Business Continuity
+Index)</strong>: Sustainability of core business under 48h no-AI
+conditions - <strong>ICR (Independent Capability Retention)</strong>:
+Share of employees who complete critical tasks without AI - Weights
+0.4/0.6 are working assumptions and require calibration &amp;
+sensitivity analysis</p>
+<p><strong>48-hour outage drill (measurement protocol)</strong>:</p>
+<ol type="1">
+<li>Baseline metrics under normal AI support</li>
+<li>Simulate a 48h complete AI outage</li>
+<li>Assess continuity: what stops vs. what barely sustains</li>
+<li>Compute O-AVP: $<span class="math inline">BCI</span> <span
+class="math inline">×</span> 0.4 + <span class="math inline">ICR</span>
+<span class="math inline">×</span> 0.6$</li>
+<li>Judge against dual thresholds</li>
+</ol>
+<p><strong>Organizational design recommendations</strong>:</p>
+<ul>
+<li>Establish “cognitive reserve” mechanisms</li>
+<li>Regular “no-AI duty system”</li>
+<li>Critical position independent capability certification</li>
+<li>Quarterly outage drills (like fire drills)</li>
+</ul>
+<h3 id="societal-layer-s-avp-generational-divide">4.1.4 Societal Layer
+(S-AVP): Generational Divide</h3>
+<p><strong>Core challenge</strong>: Society cannot directly “unplug
+test,” must rely on proxy indicators</p>
+<p><strong>S-AVP proxy indicator set (working assumption)</strong>:</p>
+<ol type="1">
+<li><strong>Generational capability differences</strong>: <span
+class="math inline"><em>T</em><sub>0</sub></span> (1980?2000) vs. <span
+class="math inline"><em>T</em><sub>1</sub></span> (2000?2015) vs. <span
+class="math inline"><em>T</em><sub>2</sub></span> (2015? )</li>
+<li><strong>Industry baselines</strong>: O-AVP distributions across
+critical industries</li>
+<li><strong>Education signals</strong>: No-AI academic performance
+trends</li>
+<li><strong>Labor-market signals</strong>: Demand for “independent
+capability”</li>
+</ol>
+<p><strong>Tragedy of the cognitive commons</strong>:</p>
+<ul>
+<li><strong>Individual rationality</strong>: Using AI improves
+efficiency (short-term optimal)</li>
+<li><strong>Collective irrationality</strong>: Society-wide independent
+capability decline (long-term risk)</li>
+<li><strong>Path dependence reinforcement</strong>: After generational
+transmission rupture, lack of teachers and role models, recovery cost
+rises exponentially</li>
+</ul>
+<p><strong>Window period warning</strong>: 2025?2035 is a critical
+10-year window (working assumption) - <span
+class="math inline"><em>T</em><sub>0</sub></span> generation still
+working, knowledge transmission can still be salvaged - AI penetration
+rate approximately 30?50%, not yet at irreversible point - Institutional
+intervention can still be established</p>
+<h2 id="cross-scale-mechanisms-emergence-and-cascade">4.2 Cross-Scale
+Mechanisms: Emergence and Cascade</h2>
+<h3 id="unified-core-mechanisms">4.2.1 Unified Core Mechanisms</h3>
+<p><strong>Scale invariance</strong>: AVP principle has isomorphism
+across different scales</p>
+<ul>
+<li>All require “Unplugged Test” (or proxy measurement)</li>
+<li>All focus on “independent capability” rather than “collaboration
+efficiency”</li>
+<li>All use “baseline + increment” as standard</li>
+</ul>
+<p><strong>Triple commonality</strong>:</p>
+<ol type="1">
+<li><strong>Antifragility essence</strong>: Temporary stress ?
+capability improvement (individual/organization/society)</li>
+<li><strong>Dependency lock-in commonality</strong>: Permanent support ?
+capability atrophy (skill degradation/institutional
+fragility/generational divide)</li>
+<li><strong>Validation logic consistency</strong>: Unified framework of
+baseline <span class="math inline"><em>B</em><sub>0</sub></span> +
+improvement <span class="math display"><em>δ</em></span></li>
+</ol>
+<h3 id="cascading-vulnerability-propagation-paths">4.2.2 Cascading
+Vulnerability Propagation Paths</h3>
+<p><strong>Cascading mechanism</strong>: Low-scale vulnerability
+propagates upward</p>
+<pre><code>Individual dependency (I-AVP failure 30%)
+? Emergence effect
+Team fragility (T-AVP failure 50%) ? Nonlinear amplification
+? Institutionalization
+Organizational crisis (O-AVP = 0.65 &lt; 0.70) ? Systemic fragility
+? Accumulation
+Societal risk (S-AVP yellow warning) ? Generational divide</code></pre>
+<p><strong>Amplification mechanisms</strong>:</p>
+<ol type="1">
+<li><strong>Nonlinearity of emergence</strong>: 10% individual
+dependency ? 10% organizational risk, may amplify to 30?50% risk (due to
+network effects)</li>
+<li><strong>Time lag in repair</strong>: Individuals can recover in
+months, organizations take years, society may require a generation</li>
+<li><strong>Path dependence reinforcement</strong>: Low scales
+reversible (individuals can retrain), high scales have strong path
+dependence, recovery cost rises exponentially</li>
+</ol>
+<h3 id="multi-scale-coordinated-design">4.2.3 Multi-Scale Coordinated
+Design</h3>
+<p><strong>Limitations of single-scale intervention</strong>:</p>
+<ul>
+<li>Only change individuals: Organizational inertia pulls back</li>
+<li>Only change organizations: Social environment does not support</li>
+<li><strong>Requires multi-scale coordination</strong></li>
+</ul>
+<p><strong>Coordination essentials</strong>:</p>
+<ol type="1">
+<li><strong>Bottom-up</strong>: Individual capability is foundation
+(I-AVP must pass)</li>
+<li><strong>Top-down</strong>: Organizational systems create environment
+(O-AVP drills, no-AI days)</li>
+<li><strong>Horizontal linkage</strong>: Industry standards, social
+norms (policy guidance)</li>
+</ol>
+<h2 id="key-tables-simplified-version">4.3 Key Tables (Simplified
+Version)</h2>
+<p><strong>Table 4.1: Cross-Scale AVP System Comparison</strong></p>
+<table>
+<colgroup>
+<col style="width: 10%" />
+<col style="width: 17%" />
+<col style="width: 22%" />
+<col style="width: 28%" />
+<col style="width: 20%" />
+</colgroup>
+<thead>
+<tr>
+<th>Scale</th>
+<th>AVP Variant</th>
+<th>Key Criterion</th>
+<th>Measurement Method</th>
+<th>Primary Risk</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Individual</strong></td>
+<td>I-AVP</td>
+<td>$P_2 <span class="math inline">≥</span> B_0 + <span
+class="math inline"><em>δ</em></span>$</td>
+<td>Unplugged Test (<span class="math inline"><em>W</em> = 4</span><span
+class="math inline">8</span> weeks)</td>
+<td>Capability degradation</td>
+</tr>
+<tr>
+<td><strong>Team</strong></td>
+<td>T-AVP</td>
+<td><span class="math inline">$P_{2,$</span>$} <span
+class="math inline">≥</span> B_{0,<span class="math inline">team</span>}
++ <span class="math inline"><em>δ</em></span>_{<span
+class="math inline">team</span>}$</td>
+<td>Collective Unplugged Test (drill)</td>
+<td>Capability polarization</td>
+</tr>
+<tr>
+<td><strong>Organization</strong></td>
+<td>O-AVP</td>
+<td>$<span class="math inline">BCI</span> <span
+class="math inline">×</span> 0.4 + <span class="math inline">ICR</span>
+<span class="math inline">×</span> 0.6 <span
+class="math inline">≥</span> 0.70;(<span
+class="math inline">alert</span>);; <span class="math inline">≥</span>
+0.85;(<span class="math inline">target</span>)$</td>
+<td>48h outage drill</td>
+<td>System fragility</td>
+</tr>
+<tr>
+<td><strong>Society</strong></td>
+<td>S-AVP</td>
+<td>Proxy-indicator set healthy</td>
+<td>Generational-difference monitoring</td>
+<td>Generational divide</td>
+</tr>
+</tbody>
+</table>
+<p><em>Note (Goodhart safeguard): This table is for direction &amp;
+quality stratification only; it must not be pushed down as KPIs. Final
+judgment follows the AVP main criterion (see Section 3.0.2). All
+parameters are working assumptions requiring cross-domain/task
+calibration.</em></p>
+<h2 id="core-contributions-of-this-chapter">4.4 Core Contributions of
+This Chapter</h2>
+<h3 id="theoretical-extension">Theoretical Extension</h3>
+<ul>
+<li>CET extends from individual theory to cross-scale framework</li>
+<li>AVP principle has scale invariance</li>
+<li>Proposes conceptual system of T-AVP, O-AVP, S-AVP</li>
+</ul>
+<h3 id="mechanism-revelation">Mechanism Revelation</h3>
+<ul>
+<li><strong>Team layer</strong>: Capability polarization, knowledge
+loss, role rigidity</li>
+<li><strong>Organizational layer</strong>: Institutional dependency,
+cognitive infrastructure degradation</li>
+<li><strong>Societal layer</strong>: Tragedy of the cognitive commons,
+generational divide</li>
+</ul>
+<h3 id="practical-guidance">Practical Guidance</h3>
+<ul>
+<li>Provides operationalizable measurement protocols (T-AVP, O-AVP)</li>
+<li>Identifies key risk signals (e.g., O-AVP &lt; 0.70 alert
+threshold)</li>
+<li>Proposes multi-scale coordination directions (bottom-up + top-down +
+horizontal linkage)</li>
+</ul>
+<h3 id="theoretical-urgency">Theoretical Urgency</h3>
+<p>What this chapter reveals is <strong>current reality</strong>, not
+distant risk:</p>
+<ul>
+<li>Team level: Some organizations already report “new hires cannot work
+independently”</li>
+<li>Organizational level: AI outage incidents expose fragility</li>
+<li>Societal level: Generational capability differences beginning to
+emerge</li>
+</ul>
+<p><strong>CET’s mission</strong>: Within the 2025?2035 window period,
+provide theoretical foundation and practical guidance to avoid the
+tragedy of the cognitive commons with strong path dependence and
+exponentially rising recovery costs.</p>
+<h1 id="references">References</h1>
+<ol type="1">
+<li>Bainbridge, L. (1983). Ironies of automation. <em>Automatica</em>,
+19(6), 775?779. https://doi.org/10.1016/0005-1098(83)90046-8</li>
+<li>Bjork, R. A. (1994). Memory and metamemory considerations in the
+training of human beings. In J. Metcalfe &amp; A. Shimamura (Eds.),
+<em>Metacognition: Knowing about knowing</em> (pp. 185?205). MIT
+Press.</li>
+<li>Clark, A., &amp; Chalmers, D. (1998). The extended mind.
+<em>Analysis</em>, 58(1), 7?19.
+https://doi.org/10.1093/analys/58.1.7</li>
+<li>Dahmani, L., &amp; Bohbot, V. D. (2020). Habitual use of GPS
+negatively impacts spatial memory during self-guided navigation.
+<em>Scientific Reports</em>, 10(1), 6310.
+https://doi.org/10.1038/s41598-020-62877-0</li>
+<li>Engelbart, D. C. (1962). <em>Augmenting human intellect: A
+conceptual framework.</em> SRI Summary Report AFOSR-3223. Stanford
+Research Institute.</li>
+<li>Liao, Q. V., Gruen, D., &amp; Miller, S. (2024). Designing LLM
+chains by adapting techniques from crowdsourcing workflows. <em>arXiv
+preprint</em> arXiv:2312.11681. https://arxiv.org/abs/2312.11681</li>
+<li>Maguire, E. A., Gadian, D. G., Johnsrude, I. S., Good, C. D.,
+Ashburner, J., Frackowiak, R. S. J., &amp; Frith, C. D. (2000).
+Navigation-related structural change in the hippocampi of taxi drivers.
+<em>Proceedings of the National Academy of Sciences</em>, 97(8),
+4398?4403. https://doi.org/10.1073/pnas.070039597</li>
+<li>Parasuraman, R., &amp; Riley, V. (1997). Humans and automation: Use,
+misuse, disuse, abuse. <em>Human Factors</em>, 39(2), 230?253.
+https://doi.org/10.1518/001872097778543886</li>
+<li>Risko, E. F., &amp; Gilbert, S. J. (2016). Cognitive offloading.
+<em>Trends in Cognitive Sciences</em>, 20(9), 676?688.
+https://doi.org/10.1016/j.tics.2016.07.002</li>
+<li>Sparrow, B., Liu, J., &amp; Wegner, D. M. (2011). Google effects on
+memory: Cognitive consequences of having information at our fingertips.
+<em>Science</em>, 333(6043), 776?778.
+https://doi.org/10.1126/science.1207745</li>
+<li>Taleb, N. N. (2012). <em>Antifragile: Things that gain from
+disorder.</em> Random House. ISBN: 978-1400067824</li>
+<li>Vygotsky, L. S. (1978). <em>Mind in society: The development of
+higher psychological processes.</em> Harvard University Press. ISBN:
+978-0674576292</li>
+<li><dl>
+<dt>Wood, D., Bruner, J. S., &amp; Ross, G. (1976). The role of tutoring
+in problem solving. <em>Journal of Child Psychology and Psychiatry</em>,
+17(2), 89?100. https://doi.org/10.1111/j.1469-7610.1976.tb00381.x</dt>
+<dd>
+Technical Implementation: LSA Layered Architecture
+</dd>
+</dl></li>
+</ol>
+<p>The first four chapters established the theoretical foundation of
+CET; this chapter addresses the engineering question: How do we design
+an AI system that naturally conforms to EML principles? This chapter
+proposes the <strong>Layered Symbiosis Architecture (LSA)</strong>?a
+design framework that translates CET theory into engineerable
+systems.</p>
+<h2 id="lsa-four-layer-architecture-from-theory-to-implementation">5.1
+LSA Four-Layer Architecture: From Theory to Implementation</h2>
+<h3 id="fundamental-problems-of-traditional-ai-systems">5.1.1
+Fundamental Problems of Traditional AI Systems</h3>
+<p><strong>Current architecture</strong>: User request ? AI model ?
+Output result</p>
+<p><strong>Three major deficiencies</strong>:</p>
+<ol type="1">
+<li><strong>Undifferentiated output</strong>: Novices and experts
+receive equally detailed answers</li>
+<li><strong>No capability awareness</strong>: The system does not know
+whether the user is learning or offloading</li>
+<li><strong>No feedback loop</strong>: Cannot validate AVP</li>
+</ol>
+<p><strong>Root cause</strong>: Focus only on task completion, not on
+capability construction.</p>
+<h3 id="lsa-design-philosophy-capability-construction-priority">5.1.2
+LSA Design Philosophy: Capability Construction Priority</h3>
+<p><strong>Core paradigm shift</strong>:</p>
+<pre><code>Traditional paradigm: Task success = High output quality + User satisfaction
+
+LSA paradigm: Task success = High output quality + User satisfaction + Capability enhancement
+                                                                          ?
+                                                                Three objectives equally weighted</code></pre>
+<h3 id="lsa-four-layer-architecture-overview">5.1.3 LSA Four-Layer
+Architecture Overview</h3>
+<p><strong>Figure 5.1: LSA Layered Architecture</strong></p>
+<pre><code>?
+? L4: Orchestration &amp; Governance Layer        ?
+? - Multi-Scale Strategy Orchestration (MSO)  ?
+? - Ethical Constraints &amp; Intervention        ?
+?
+               ? Strategy directives
+?
+? L3: Monitoring &amp; Feedback Layer              ?
+? - AVP Telemetry Module (AVP-TM)              ?
+? - Capability State Tracking, Alert &amp; Trigger ?
+?
+               ? Capability state C(t)
+?
+? L2: Friction &amp; Reduction Layer               ?
+? - Cognitive Friction Engine (CFE)            ?
+? - Support Graduation Scheduler (SGS)         ?
+?
+               ? Modulated support
+?
+? L1: Foundation Layer                         ?
+? - Language Model (LLM), Retrieval (RAG)      ?
+?</code></pre>
+<p><strong>Layer responsibilities</strong>:</p>
+<ul>
+<li><strong>L1 (Foundation Layer)</strong>: Provides raw AI capabilities
+(technology-neutral, replaceable)</li>
+<li><strong>L2 (Friction &amp; Reduction Layer)</strong>: Implements
+EML’s first two conditions (beneficial friction + support
+reduction)</li>
+<li><strong>L3 (Monitoring Layer)</strong>: Implements AVP validation
+(capability assessment + alerts)</li>
+<li><strong>L4 (Orchestration Layer)</strong>: Multi-scale coordination
+and governance (individual ? team ? organization)</li>
+</ul>
+<p><strong>Hard constraint</strong>: L1?L4 (functional dimensions) and
+S4?S1 (intensity dimension) are <strong>orthogonal dimensions</strong>
+and must not be mixed.</p>
+<hr />
+<p>[SECTION CHECK] <strong>Sentences translated</strong>: 23 (1:1 with
+source) <strong>New terms encountered</strong>:</p>
+<ul>
+<li>Layered Symbiosis Architecture (LSA) - first occurrence with full
+name</li>
+<li>Cognitive Friction Engine (CFE)</li>
+<li>Support Graduation Scheduler (SGS)</li>
+<li>AVP Telemetry Module (AVP-TM)</li>
+<li>Multi-Scale Orchestrator (MSO) <strong>Math formulas</strong>: None
+in this section <strong>Tables</strong>: None <strong>Special
+content</strong>: ASCII art architecture diagram (preserved)
+<strong>Potential issues</strong>: None <strong>Fidelity check</strong>:
+? Passed - 1:1 sentence alignment <strong>Chinese character
+check</strong>: ? No Chinese quotes/punctuation</li>
+</ul>
+<hr />
+<h2 id="l2-layer-cognitive-friction-engine-cfe">5.2 L2 Layer: Cognitive
+Friction Engine (CFE)</h2>
+<h3 id="core-challenge">5.2.1 Core Challenge</h3>
+<p>Given a user request and L1’s raw output, how do we modulate it to
+satisfy EML Condition 1 (Beneficial Cognitive Friction)?</p>
+<h3 id="four-strategies-for-friction-injection">5.2.2 Four Strategies
+for Friction Injection</h3>
+<p><strong>Strategy 1: Completeness friction</strong></p>
+<ul>
+<li><strong>Complete answer</strong>: “This bug is due to array
+out-of-bounds. Fix code: [complete code]”</li>
+<li><strong>Friction version</strong>: “Detected array access issue.
+Hint: Check loop boundary conditions.”</li>
+</ul>
+<p><strong>Strategy 2: Abstraction friction</strong></p>
+<ul>
+<li><strong>Complete answer</strong>: “Use merge sort, O(n log n). Code:
+[detailed implementation]”</li>
+<li><strong>Friction version</strong>: “Consider divide-and-conquer
+algorithm. Key is how to merge two sorted subarrays.”</li>
+</ul>
+<p><strong>Strategy 3: Scaffolding reduction</strong></p>
+<ul>
+<li><strong>High scaffolding</strong>: Step 1 [detailed] ? Step 2
+[detailed] ? Complete code</li>
+<li><strong>Medium scaffolding</strong>: Approach: Decompose ? Recursion
+? Merge</li>
+<li><strong>Low scaffolding</strong>: Hint: Divide-and-conquer
+thinking</li>
+</ul>
+<p><strong>Strategy 4: Adaptive difficulty</strong></p>
+<ul>
+<li>Dynamically adjust based on user historical performance</li>
+<li>High success rate ? Increase friction</li>
+<li>Low success rate ? Decrease friction</li>
+<li>Target: Maintain 50?70% range (working assumption)</li>
+</ul>
+<h3 id="cfe-core-mechanism-conceptual-framework">5.2.3 CFE Core
+Mechanism (Conceptual Framework)</h3>
+<div class="sourceCode" id="cb7"><pre
+class="sourceCode python"><code class="sourceCode python"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Conceptual pseudocode</span></span>
+<span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> adjust_friction(user, task, history):</span>
+<span id="cb7-3"><a href="#cb7-3" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Calculate rolling window success rate</span></span>
+<span id="cb7-4"><a href="#cb7-4" aria-hidden="true" tabindex="-1"></a>    success_rate <span class="op">=</span> calculate_success_rate(history[<span class="op">-</span><span class="dv">10</span>:])</span>
+<span id="cb7-5"><a href="#cb7-5" aria-hidden="true" tabindex="-1"></a>    </span>
+<span id="cb7-6"><a href="#cb7-6" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Target range: 50?70% (working assumption)</span></span>
+<span id="cb7-7"><a href="#cb7-7" aria-hidden="true" tabindex="-1"></a>    <span class="cf">if</span> success_rate <span class="op">&gt;</span> <span class="fl">0.7</span>:</span>
+<span id="cb7-8"><a href="#cb7-8" aria-hidden="true" tabindex="-1"></a>        F <span class="op">+=</span> <span class="fl">0.1</span>  <span class="co"># Increase friction</span></span>
+<span id="cb7-9"><a href="#cb7-9" aria-hidden="true" tabindex="-1"></a>    <span class="cf">elif</span> success_rate <span class="op">&lt;</span> <span class="fl">0.5</span>:</span>
+<span id="cb7-10"><a href="#cb7-10" aria-hidden="true" tabindex="-1"></a>        F <span class="op">-=</span> <span class="fl">0.1</span>  <span class="co"># Decrease friction</span></span>
+<span id="cb7-11"><a href="#cb7-11" aria-hidden="true" tabindex="-1"></a>    </span>
+<span id="cb7-12"><a href="#cb7-12" aria-hidden="true" tabindex="-1"></a>    <span class="cf">return</span> clamp(F, <span class="fl">0.2</span>, <span class="fl">0.8</span>)  <span class="co"># Limit to reasonable range</span></span></code></pre></div>
+<hr />
+<p>[SECTION CHECK] <strong>Sentences translated</strong>: 20 (1:1 with
+source) <strong>New terms encountered</strong>: None (all from
+established terminology) <strong>Math formulas</strong>: None (O(n log
+n) preserved as-is) <strong>Tables</strong>: None <strong>Special
+content</strong>: Python pseudocode block (properly formatted)
+<strong>Potential issues</strong>: None <strong>Fidelity check</strong>:
+? Passed - 1:1 sentence alignment <strong>Chinese character
+check</strong>: ? No Chinese quotes/punctuation</p>
+<hr />
+<h2 id="l2-layer-support-graduation-scheduler-sgs">5.3 L2 Layer: Support
+Graduation Scheduler (SGS)</h2>
+<h3 id="core-responsibility">5.3.1 Core Responsibility</h3>
+<p>Implements EML Condition 2 (Systematic Support Reduction), gradually
+decreasing from S4 ? S1 ? S0.</p>
+<h3 id="three-reduction-curves-1">5.3.2 Three Reduction Curves</h3>
+<p><strong>Table 5.1: Comparison of Support Reduction
+Curves</strong></p>
+<table>
+<colgroup>
+<col style="width: 13%" />
+<col style="width: 19%" />
+<col style="width: 39%" />
+<col style="width: 26%" />
+</colgroup>
+<thead>
+<tr>
+<th>Curve Type</th>
+<th>Reduction Speed</th>
+<th>Applicable Scenarios</th>
+<th>Risk</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Linear</strong></td>
+<td>Steady descent</td>
+<td>Basic tasks, novice learning</td>
+<td>Late-stage reduction too fast</td>
+</tr>
+<tr>
+<td><strong>Exponential</strong></td>
+<td>Slow early, fast late</td>
+<td>Complex skills, requires long consolidation</td>
+<td>Possible over-protection</td>
+</tr>
+<tr>
+<td><strong>Stepped</strong></td>
+<td>Stage-wise drops</td>
+<td>Clear milestone tasks</td>
+<td>Frustration at steps</td>
+</tr>
+</tbody>
+</table>
+<p><em>Note: All curve parameters are calibration variables to be tuned
+by task complexity, user capability, and learning goals.</em></p>
+<p><em>Note (Goodhart safeguard): This table is for direction &amp;
+quality stratification only; it must not be pushed down as KPIs. Final
+judgment follows the AVP main criterion (see Section 3.0.2). All
+parameters are working assumptions requiring cross-domain/task
+calibration.</em></p>
+<p><strong>Recommended strategy</strong>: S-curve reduction (slow early
+? fast middle ? slow late), balancing learning curves.</p>
+<h3 id="safety-mechanisms-fallback-and-minimum-support">5.3.3 Safety
+Mechanisms: Fallback and Minimum Support</h3>
+<p><strong>Fallback mechanism</strong> (continuing from Section
+3.3.3):</p>
+<ul>
+<li><strong>Trigger conditions</strong>: Three consecutive failures or a
+single severe failure</li>
+<li><strong>Fallback strategy</strong>: <span
+class="math inline"><em>S</em>(<em>t</em>)</span> returns to a higher
+level (e.g., S2 ? S3)</li>
+<li><strong>Resume reduction</strong>: Restart reduction after user
+stabilizes in 3?5 tasks</li>
+</ul>
+<p><strong>Minimum guaranteed support <span
+class="math inline"><em>S</em><sub>min</sub></span></strong>:</p>
+<ul>
+<li>Reduction does not reach S0 (complete absence of support)</li>
+<li>Minimum retention of S1 (hints/directional guidance)</li>
+<li>Ensures users are never completely “stuck”</li>
+</ul>
+<hr />
+<p>[SECTION CHECK] <strong>Sentences translated</strong>: 15 (1:1 with
+source) <strong>New terms encountered</strong>:</p>
+<ul>
+<li>S-curve reduction (new variation of reduction curves) <strong>Math
+formulas</strong>: <span
+class="math inline"><em>S</em>(<em>t</em>)</span>, <span
+class="math inline"><em>S</em><sub>min</sub></span> (properly
+LaTeXified) <strong>Tables</strong>: 1 table with Goodhart safeguard
+note (all formatted) <strong>Special content</strong>: Table with proper
+markdown formatting <strong>Potential issues</strong>: None
+<strong>Fidelity check</strong>: ? Passed - 1:1 sentence alignment
+<strong>Chinese character check</strong>: ? No Chinese
+quotes/punctuation</li>
+</ul>
+<hr />
+<h2 id="l3-layer-avp-telemetry-module-avp-tm">5.4 L3 Layer: AVP
+Telemetry Module (AVP-TM)</h2>
+<h3 id="core-responsibility-1">5.4.1 Core Responsibility</h3>
+<p>Continuously assess user capability, detect dependency lock-in risks,
+and trigger intervention mechanisms.</p>
+<h3
+id="multi-scale-avp-monitoring-building-on-cross-scale-mechanisms-from-sections-4.24.3">5.4.2
+Multi-Scale AVP Monitoring (Building on Cross-Scale Mechanisms from
+Sections 4.2?4.3)</h3>
+<p><strong>Table 5.2: Telemetry Event Types</strong></p>
+<table>
+<colgroup>
+<col style="width: 17%" />
+<col style="width: 23%" />
+<col style="width: 40%" />
+<col style="width: 18%" />
+</colgroup>
+<thead>
+<tr>
+<th>Scale</th>
+<th>Data Source</th>
+<th>Key Events</th>
+<th>Aggregation Level</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Individual</strong></td>
+<td>Task logs</td>
+<td>Task completion, <span
+class="math inline"><em>P</em><sub>2</sub></span> testing</td>
+<td>Real-time</td>
+</tr>
+<tr>
+<td><strong>Team</strong></td>
+<td>Collaboration records</td>
+<td>Collective unplugging, knowledge flow</td>
+<td>Daily</td>
+</tr>
+<tr>
+<td><strong>Organization</strong></td>
+<td>Drill data</td>
+<td>48h outage, BCI/ICR</td>
+<td>Event-triggered</td>
+</tr>
+</tbody>
+</table>
+<p><em>Note (Goodhart safeguard): This table is for direction &amp;
+quality stratification only; it must not be pushed down as KPIs. Final
+judgment follows the AVP main criterion (see Section 3.0.2). All
+parameters are working assumptions requiring cross-domain/task
+calibration.</em></p>
+<h3 id="capability-vector-ct-modeling">5.4.3 Capability Vector C(t)
+Modeling</h3>
+<p><strong>Conceptual example</strong> (5?10 dimensions; requires domain
+definition):</p>
+<div class="sourceCode" id="cb8"><pre
+class="sourceCode python"><code class="sourceCode python"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="kw">class</span> AbilityVector:</span>
+<span id="cb8-2"><a href="#cb8-2" aria-hidden="true" tabindex="-1"></a>    <span class="kw">def</span> <span class="fu">__init__</span>(<span class="va">self</span>):</span>
+<span id="cb8-3"><a href="#cb8-3" aria-hidden="true" tabindex="-1"></a>        <span class="va">self</span>.problem_decomposition <span class="op">=</span> <span class="fl">0.5</span>  <span class="co"># Problem decomposition</span></span>
+<span id="cb8-4"><a href="#cb8-4" aria-hidden="true" tabindex="-1"></a>        <span class="va">self</span>.implementation_skill <span class="op">=</span> <span class="fl">0.6</span>   <span class="co"># Implementation capability</span></span>
+<span id="cb8-5"><a href="#cb8-5" aria-hidden="true" tabindex="-1"></a>        <span class="va">self</span>.debugging_ability <span class="op">=</span> <span class="fl">0.4</span>      <span class="co"># Debugging capability</span></span>
+<span id="cb8-6"><a href="#cb8-6" aria-hidden="true" tabindex="-1"></a>        <span class="va">self</span>.meta_cognition <span class="op">=</span> <span class="fl">0.5</span>         <span class="co"># Metacognition</span></span>
+<span id="cb8-7"><a href="#cb8-7" aria-hidden="true" tabindex="-1"></a>        <span class="co"># ... other dimensions</span></span></code></pre></div>
+<p><strong>Data sources</strong>:</p>
+<ol type="1">
+<li>Direct measurement: <span
+class="math inline"><em>P</em><sub>2</sub></span> Unplugged Test
+(reference standard)</li>
+<li>Indirect inference: Daily task performance</li>
+<li>Self-report: User self-assessment (auxiliary)</li>
+<li>Peer evaluation: Team mutual assessment (team layer)</li>
+</ol>
+<h3 id="three-level-alert-system">5.4.4 Three-Level Alert System</h3>
+<p><strong>Table 5.3: Alert Mechanism</strong></p>
+<table>
+<colgroup>
+<col style="width: 8%" />
+<col style="width: 31%" />
+<col style="width: 32%" />
+<col style="width: 28%" />
+</colgroup>
+<thead>
+<tr>
+<th>Level</th>
+<th>Trigger Condition</th>
+<th>System Response</th>
+<th>User Experience</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Green</strong></td>
+<td>AVP healthy, <span class="math inline"><em>C</em>(<em>t</em>)</span>
+?</td>
+<td>Continue current strategy</td>
+<td>Normal use</td>
+</tr>
+<tr>
+<td><strong>Yellow</strong></td>
+<td><span class="math inline"><em>C</em>(<em>t</em>)</span> stagnant or
+slightly ?</td>
+<td>Increase friction, slow reduction</td>
+<td>Prompt “capability not improving”</td>
+</tr>
+<tr>
+<td><strong>Red</strong></td>
+<td>Degradation indicators exceed threshold</td>
+<td>Pause reduction, enforce independent week</td>
+<td>Warning “may be forming dependency”</td>
+</tr>
+<tr>
+<td><strong>Black</strong></td>
+<td>AVP test failed</td>
+<td>Trigger L4 intervention, reset path</td>
+<td>Mandatory “capability rebuild mode”</td>
+</tr>
+</tbody>
+</table>
+<p><em>Note (Goodhart safeguard): This table is for direction &amp;
+quality stratification only; it must not be pushed down as KPIs. Final
+judgment follows the AVP main criterion (see Section 3.0.2). All
+parameters are working assumptions requiring cross-domain/task
+calibration.</em></p>
+<h3 id="privacy-protection-design">5.4.5 Privacy Protection Design</h3>
+<p><strong>Core principles</strong>:</p>
+<ul>
+<li><strong>Data minimization</strong>: Record only metadata, not
+content</li>
+<li><strong>Local-first</strong>: <span
+class="math inline"><em>C</em>(<em>t</em>)</span>, <span
+class="math inline"><em>F</em></span>, <span
+class="math inline"><em>S</em>(<em>t</em>)</span> stored on user
+device</li>
+<li><strong>Purpose limitation</strong>: Data used only for capability
+assessment, not for profiling/marketing</li>
+<li><strong>User control</strong>: Can view/export/delete data</li>
+</ul>
+<hr />
+<p>[SECTION CHECK] <strong>Sentences translated</strong>: 30 (1:1 with
+source) <strong>New terms encountered</strong>: None (all from
+established terminology) <strong>Math formulas</strong>: <span
+class="math inline"><em>P</em><sub>2</sub></span>, <span
+class="math inline"><em>C</em>(<em>t</em>)</span>, <span
+class="math inline"><em>F</em></span>, <span
+class="math inline"><em>S</em>(<em>t</em>)</span> (all properly
+LaTeXified in tables) <strong>Tables</strong>: 2 tables with Goodhart
+safeguard notes (all formatted) <strong>Special content</strong>: Python
+code block for capability vector (properly formatted) <strong>Potential
+issues</strong>: None <strong>Fidelity check</strong>: ? Passed - 1:1
+sentence alignment <strong>Chinese character check</strong>: ? No
+Chinese quotes/punctuation</p>
+<hr />
+<h2 id="l4-layer-multi-scale-orchestration-and-ethical-governance">5.5
+L4 Layer: Multi-Scale Orchestration and Ethical Governance</h2>
+<h3 id="core-responsibility-2">5.5.1 Core Responsibility</h3>
+<p>Coordinate individual, team, and organizational-level goals, ensuring
+the system adheres to ethical constraints.</p>
+<h3 id="multi-scale-orchestrator-mso">5.5.2 Multi-Scale Orchestrator
+(MSO)</h3>
+<p><strong>Three-layer strategy management</strong> (building on Chapter
+4):</p>
+<pre><code>Organizational Strategy (O-Strategy)
+? Decompose into team objectives
+Team Strategy (T-Strategy)
+? Decompose into individual objectives
+Individual Strategy (I-Strategy)
+? Generate F(t), S(t) parameters</code></pre>
+<p><strong>Strategy coordination mechanisms</strong>:</p>
+<ol type="1">
+<li><strong>Bottom-up</strong>: Individual capabilities aggregate to
+team capability (considering short-board effects, knowledge flow)</li>
+<li><strong>Top-down</strong>: Organizational goals decompose into
+individual goals (critical teams high standards, general teams
+relatively lenient)</li>
+<li><strong>Conflict resolution</strong>: Long-term resilience &gt;
+short-term efficiency, differentiated strategies</li>
+</ol>
+<h3 id="ethical-governance-framework">5.5.3 Ethical Governance
+Framework</h3>
+<p><strong>Issue 1: Fairness</strong></p>
+<ul>
+<li><strong>Equivalent effort principle</strong>: Adjust task difficulty
+based on capability, ensure equivalent cognitive effort</li>
+<li><strong>Differentiated AVP</strong>: For users with disabilities,
+adjust baseline <span class="math inline"><em>B</em><sub>0</sub></span>
+and <span class="math display"><em>δ</em></span>, but do not lower
+“improvement” requirements</li>
+<li><strong>Exemption scenarios</strong>: Compensatory assistance does
+not require AVP; learning assistance requires AVP</li>
+</ul>
+<p><strong>Issue 2: Transparency and User Control</strong></p>
+<ul>
+<li><strong>Default transparency</strong>: Users see current <span
+class="math inline"><em>S</em>(<em>t</em>)</span>, <span
+class="math inline"><em>F</em>(<em>t</em>)</span>, know why they
+received partial answers</li>
+<li><strong>Tiered control</strong>: L2 can temporarily request more
+help, L3 can disable monitoring, L4 requires user consent</li>
+<li><strong>Exit right</strong>: Can permanently opt out of LSA, use
+traditional AI mode</li>
+</ul>
+<p><strong>Issue 3: Monitoring Boundaries</strong></p>
+<ul>
+<li><strong>Data minimization</strong>, <strong>local-first</strong>,
+<strong>purpose limitation</strong></li>
+</ul>
+<h3 id="global-optimization-objective-conceptual-framework">5.5.4 Global
+Optimization Objective (Conceptual Framework)</h3>
+<p><strong>Multi-objective balancing</strong> (must not be pushed down
+as KPIs):</p>
+<pre><code>objective = w1 ?-- Task quality + 
+            w2 ?-- Capability enhancement + 
+            w3 ?-- User satisfaction + 
+            w4 ?-- AVP pass rate + 
+            w5 ?-- System resilience
+
+Hard constraints:
+- AVP pass rate &gt; 0.7 (working assumption)
+- User satisfaction &gt; 0.6 (avoid frustration)
+- Fairness score &gt; threshold</code></pre>
+<p><strong>Goodhart safeguard</strong>: The objective function is only
+for directional trade-offs; final judgment follows the AVP main
+criterion.</p>
+<hr />
+<p>[SECTION CHECK] <strong>Sentences translated</strong>: 25 (1:1 with
+source) <strong>New terms encountered</strong>:</p>
+<ul>
+<li>Equivalent effort principle</li>
+<li>Short-board effects <strong>Math formulas</strong>: <span
+class="math inline"><em>S</em>(<em>t</em>)</span>, <span
+class="math inline"><em>F</em>(<em>t</em>)</span>, <span
+class="math inline"><em>B</em><sub>0</sub></span>, <span
+class="math display"><em>δ</em></span> (all properly LaTeXified)
+<strong>Tables</strong>: None <strong>Special content</strong>:
+Text-based strategy hierarchy diagram (preserved ASCII formatting)
+<strong>Potential issues</strong>: None <strong>Fidelity check</strong>:
+? Passed - 1:1 sentence alignment <strong>Chinese character
+check</strong>: ? No Chinese quotes/punctuation</li>
+</ul>
+<hr />
+<h2 id="technical-feasibility-and-engineering-challenges">5.6 Technical
+Feasibility and Engineering Challenges</h2>
+<h3 id="technology-stack-adaptability">5.6.1 Technology Stack
+Adaptability</h3>
+<p><strong>Table 5.4: LSA to Existing Technology Mapping</strong></p>
+<table>
+<colgroup>
+<col style="width: 12%" />
+<col style="width: 30%" />
+<col style="width: 43%" />
+<col style="width: 13%" />
+</colgroup>
+<thead>
+<tr>
+<th>LSA Layer</th>
+<th>Core Function</th>
+<th>Available Technologies</th>
+<th>Maturity</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>L1</td>
+<td>Foundation AI</td>
+<td>Mainstream LLMs</td>
+<td>High</td>
+</tr>
+<tr>
+<td>L2</td>
+<td>Output modulation</td>
+<td>Prompt engineering, fine-tuning</td>
+<td>Medium</td>
+</tr>
+<tr>
+<td>L3</td>
+<td>Capability modeling</td>
+<td>Bayesian networks, RL</td>
+<td>Medium-Low</td>
+</tr>
+<tr>
+<td>L4</td>
+<td>Strategy orchestration</td>
+<td>Rule engines</td>
+<td>Medium</td>
+</tr>
+</tbody>
+</table>
+<p><em>Note (Goodhart safeguard): This table is for direction &amp;
+quality stratification only; it must not be pushed down as KPIs. Final
+judgment follows the AVP main criterion (see Section 3.0.2). All
+parameters are working assumptions requiring cross-domain/task
+calibration.</em></p>
+<p><strong>Key technical gaps</strong>:</p>
+<ol type="1">
+<li>Capability vector precise modeling (requires cognitive science
+inspiration)</li>
+<li>Friction intensity automated modulation (requires adaptive
+algorithms)</li>
+<li>Team capability emergence modeling (requires complex network
+theory)</li>
+</ol>
+<h3 id="mvp-implementation-pathway">5.6.2 MVP Implementation
+Pathway</h3>
+<p><strong>Phase 1</strong>: L1 + L2 basic functions (one friction mode
++ preset reduction curve) <strong>Phase 2</strong>: Add L3 monitoring
+(simplified <span class="math inline"><em>C</em>(<em>t</em>)</span>
+vector + basic alerts) <strong>Phase 3</strong>: Team coordination
+functions (T-AVP monitoring + simplified MSO)</p>
+<h3 id="key-engineering-challenges">5.6.3 Key Engineering
+Challenges</h3>
+<ol type="1">
+<li><strong>Real-time performance</strong>: Can L2/L3 computations
+complete within acceptable latency? (Pre-computation, asynchronous
+updates)</li>
+<li><strong>Model alignment</strong>: How to make L1 understand
+“moderate help” semantics? (RLHF, prompt engineering)</li>
+<li><strong>Data cold start</strong>: How to initialize new users?
+(Quick assessment, conservative initialization)</li>
+<li><strong>User acceptance</strong>: Will users accept “incomplete
+answers”? (Gradual introduction, transparent communication)</li>
+</ol>
+<hr />
+<p>[SECTION CHECK] <strong>Sentences translated</strong>: 16 (1:1 with
+source) <strong>New terms encountered</strong>:</p>
+<ul>
+<li>Cold start (technical term)</li>
+<li>MVP (Minimum Viable Product) <strong>Math formulas</strong>: <span
+class="math inline"><em>C</em>(<em>t</em>)</span> (properly LaTeXified)
+<strong>Tables</strong>: 1 table with Goodhart safeguard note (all
+formatted) <strong>Special content</strong>: Table with technology
+maturity levels <strong>Potential issues</strong>: None <strong>Fidelity
+check</strong>: ? Passed - 1:1 sentence alignment <strong>Chinese
+character check</strong>: ? No Chinese quotes/punctuation</li>
+</ul>
+<hr />
+<h2 id="core-contributions-of-this-chapter-1">5.7 Core Contributions of
+This Chapter</h2>
+<h3 id="bridge-from-theory-to-implementation">Bridge from Theory to
+Implementation</h3>
+<ul>
+<li>First complete architecture proposal for CET theory engineering</li>
+<li>Four-layer separation design (L1?L4), clear responsibilities,
+supports independent upgrades</li>
+<li>Clear layer interface contracts, supports parallel development by
+multiple teams</li>
+</ul>
+<h3 id="key-module-design">Key Module Design</h3>
+<ul>
+<li><strong>CFE</strong>: Implements beneficial friction, provides
+multi-strategy space</li>
+<li><strong>SGS</strong>: Implements systematic support reduction (S4 ?
+S1 ? S0), introduces fallback and minimum support mechanisms</li>
+<li><strong>AVP-TM</strong>: Continuous capability monitoring, supports
+multi-scale AVP</li>
+<li><strong>MSO</strong>: Cross-scale coordination, integrates fairness
+constraints</li>
+</ul>
+<h3 id="engineerable-pathway">Engineerable Pathway</h3>
+<ul>
+<li>Provides MVP implementation direction (from L1 + L2 to complete four
+layers)</li>
+<li>Clarifies technology stack mapping and maturity assessment</li>
+<li>Identifies key engineering challenges and conceptual solution
+directions</li>
+</ul>
+<h3 id="open-questions">Open Questions</h3>
+<ol type="1">
+<li>Does an optimal friction parameter exist? (Requires large-scale
+experiments)</li>
+<li>Can capability vectors be precisely modeled? (Requires
+interdisciplinary research)</li>
+<li><dl>
+<dt>What is the theoretical foundation for multi-scale coordination?
+(Requires complex systems theory)</dt>
+<dd>
+Limitations, Falsification Paths, and Future Directions
+</dd>
+</dl></li>
+</ol>
+<h2 id="six-major-limitations-of-the-theory">6.1 Six Major Limitations
+of the Theory</h2>
+<h3 id="scale-boundaries">6.1.1 Scale Boundaries</h3>
+<p>CET focuses on the “individual ? team ? organization ? society”
+four-scale system but insufficiently addresses <strong>more
+microscopic</strong> (neurophysiological) and <strong>more
+macroscopic</strong> (cross-cultural/cross-generational) mechanisms. At
+the neural level: Does not deeply explore AI use’s impact on brain
+plasticity. Cross-culturally: Cases mainly from WEIRD societies;
+“independent capability” standards may carry cultural bias.
+Generationally: Requires 10?20 year longitudinal studies to verify
+generational divide hypotheses; S-AVP predictions carry high
+uncertainty.</p>
+<p><strong>Boundary statement</strong>:</p>
+<ul>
+<li>? Core applicability: Individual cognitive capability, small teams
+(5?50 people), single organizations (&lt;1000 people), 10-year window
+period (working assumption)</li>
+<li>? Cautious extension: Cross-cultural application, large-scale
+organizations, cross-generational prediction</li>
+<li>?– Explicitly inapplicable: Neurophysiological mechanisms,
+compensatory exoskeletons, purely instrumental tasks</li>
+</ul>
+<h3 id="task-type-restrictions">6.1.2 Task Type Restrictions</h3>
+<p>CET targets <strong>cognitively intensive, learnable tasks</strong>;
+applicability to physical/creative/social tasks is limited. Procedural
+cognitive tasks (programming, writing, mathematics) have high
+applicability; capability can be clearly defined. Creative tasks
+(artistic creation, scientific discovery) have medium applicability;
+capability mixes with inspiration; AVP is difficult to quantify.
+High-risk tasks (flying, medical emergency response) are not applicable;
+Unplugged Tests may bring unacceptable risks.</p>
+<h3 id="measurement-challenges">6.1.3 Measurement Challenges</h3>
+<p>Concepts proposed by CET (such as <span
+class="math inline"><em>C</em>(<em>t</em>)</span> capability vector,
+cognitive friction intensity <span
+class="math inline"><em>F</em></span>) are theoretically clear but
+<strong>extremely difficult to measure precisely</strong> in practice.
+Capability vector: Number of dimensions (5? 50? 500?) undefined;
+correlations between different dimensions need exploration. Friction
+intensity: How to objectively measure “cognitive effort”? Unplugged
+window: <span class="math inline"><em>W</em> = 4</span><span
+class="math inline">8</span> weeks based on experiential inference;
+optimal window may vary by task/individual.</p>
+<h3 id="parameter-uncertainty">6.1.4 Parameter Uncertainty</h3>
+<p>All quantitative parameters are <strong>conceptual working
+models</strong>: <span class="math display">$$\delta$ $\geq$
+0.3,$\mathrm{SD}$$</span> or 10% (working assumption), success rate
+50?70% (working assumption), <span
+class="math inline"><em>W</em> = 4</span><span
+class="math inline">8</span> weeks (default 6 weeks, working
+assumption). These parameters are based on reasonable inferences from
+cognitive psychology and educational measurement literature but require
+cross-domain calibration and empirical validation. Optimal parameters
+for different domains (programming vs. writing vs. mathematics) may
+differ significantly.</p>
+<h3 id="technology-dependence">6.1.5 Technology Dependence</h3>
+<p>CET theory itself depends on the stability and accessibility of AI
+technology. Measurement dependence: AVP/EML implementation depends on AI
+tools existing; if API changes/service interruptions/costs skyrocket,
+measurement is affected. Capability definition dependence: When AI
+capabilities improve, capability boundaries need redefinition (e.g., if
+AI can fully autonomously program by 2030, does human capability shift
+to “system architecture”?). Social dependence: Large-scale AVP
+assessment requires social resource investment, but society may value
+“collaborating with AI” more than “independent capability.”</p>
+<h3 id="cultural-embeddedness">6.1.6 Cultural Embeddedness</h3>
+<p>CET’s “capability construction” goal implies a specific <strong>value
+judgment</strong>?“independent capability” is worth pursuing. But this
+value judgment is <strong>culturally embedded</strong>, primarily
+reflecting WEIRD societies’ cognitive traditions. Western
+individualistic cultures value independence; East Asian collectivist
+cultures may view “depending on others” as a virtue of team spirit.
+Cross-cultural AVP implementation may encounter value conflicts.</p>
+<p><strong>Transparent acknowledgment</strong>: We acknowledge that CET
+theory’s value judgments are culturally embedded. The theory’s
+applicability boundaries and universality claims require caution.
+Cross-cultural validation is an important direction for future
+research.</p>
+<h2 id="eight-falsifiable-hypotheses-and-their-falsification-paths">6.2
+Eight Falsifiable Hypotheses and Their Falsification Paths</h2>
+<p>CET theory’s scientific nature lies in its
+<strong>falsifiability</strong>. We explicitly propose 8 core hypotheses
+with clear falsification conditions.</p>
+<p><strong>Metacognitive principle</strong>: We <strong>expect</strong>
+at least some hypotheses to be falsified?this is not failure but a mark
+of scientific progress.</p>
+<h3 id="core-hypotheses-overview">Core Hypotheses Overview</h3>
+<p><strong>H1: AVP-Basic Hypothesis</strong></p>
+<ul>
+<li><strong>Statement</strong>: In procedural cognitive tasks, through
+AI tools designed with beneficial friction (50?70% success rate, working
+assumption) + systematic support reduction ($S_4 <span
+class="math inline">→</span> S_1$), after collaborating for <span
+class="math inline"><em>W</em></span> weeks, users’ independent
+performance within the unplugged window will significantly exceed
+baseline ($P_2 <span class="math inline">≥</span> B_0 + <span
+class="math inline"><em>δ</em></span>$).</li>
+<li><strong>Falsification condition</strong>: Under rigorous RCT design,
+experimental group and control group show no significant difference in
+<span class="math inline"><em>P</em><sub>2</sub></span> performance
+(effect size &lt; 0.2), or <span
+class="math inline"><em>P</em><sub>2</sub> &lt; <em>B</em><sub>0</sub></span>.</li>
+<li><strong>Validation method</strong>: 2?–2 factorial RCT, $N <span
+class="math inline">≥</span> 200$, multi-domain replication.</li>
+</ul>
+<p><strong>H2: Beneficial Friction Hypothesis</strong></p>
+<ul>
+<li><strong>Statement</strong>: An “optimal challenge zone” exists
+(50?70% success rate, working assumption); within this zone, user
+capability enhancement (<span
+class="math inline"><em>P</em><sub>2</sub> − <em>B</em><sub>0</sub></span>)
+is maximized.</li>
+<li><strong>Falsification condition</strong>: Prove friction intensity
+and capability enhancement have a linear relationship (no inverted-U
+curve), or optimal zone significantly deviates from 50?70%.</li>
+<li><strong>Validation method</strong>: Multi-arm trial, 5?7 friction
+levels, $N <span class="math inline">≥</span> 300$.</li>
+</ul>
+<p><strong>H3: Systematic Reduction Hypothesis</strong></p>
+<ul>
+<li><strong>Statement</strong>: Systematic support reduction ($S_4 <span
+class="math inline">→</span> S_1 <span class="math inline">→</span>
+S_0$) outperforms fixed support; systematic reduction group has
+significantly higher AVP pass rate and long-term retention.</li>
+<li><strong>Falsification condition</strong>: Fixed support group <span
+class="math inline"><em>P</em><sub>2</sub></span> performance not
+inferior to reduction group.</li>
+<li><strong>Validation method</strong>: 3?–2 factorial experiment, $N
+<span class="math inline">≥</span> 240$.</li>
+</ul>
+<p><strong>H4: Team Capability Polarization Hypothesis</strong></p>
+<ul>
+<li><strong>Statement</strong>: Under AI use without EML constraints,
+capability polarization emerges within teams; T-AVP declines.</li>
+<li><strong>Falsification condition</strong>: Within-team capability
+variance shows no significant change, or low-capability individuals also
+gain enhancement.</li>
+<li><strong>Validation method</strong>: Natural experiment, 50?100
+teams, 6?12 months.</li>
+</ul>
+<p><strong>H5: Organizational Resilience Hypothesis</strong></p>
+<ul>
+<li><strong>Statement</strong>: Organizations with O-AVP &lt; 0.70
+(alert threshold, working assumption) have significantly longer recovery
+times after AI disruption.</li>
+<li><strong>Falsification condition</strong>: Find organizations with
+O-AVP &lt; 0.70 but rapid recovery (&lt;12h).</li>
+<li><strong>Validation method</strong>: 48h drill or natural experiment,
+20+ organizations, 12?24 months.</li>
+</ul>
+<p><strong>H6: Friction Modulation Hypothesis</strong></p>
+<ul>
+<li><strong>Statement</strong>: L2 layer’s dynamic friction calibration
+engine (CFE) outperforms fixed friction.</li>
+<li><strong>Falsification condition</strong>: Fixed friction effect not
+inferior to dynamic adjustment, or dynamic adjustment costs exceed
+benefits.</li>
+<li><strong>Validation method</strong>: A/B testing, $N <span
+class="math inline">≥</span> 300$, 12 weeks.</li>
+</ul>
+<p><strong>H7: Capability Vector Hypothesis</strong></p>
+<ul>
+<li><strong>Statement</strong>: User cognitive capability can be
+effectively characterized by a low-dimensional vector (&lt;20
+dimensions).</li>
+<li><strong>Falsification condition</strong>: Capability is essentially
+high-dimensional, nonlinear, incompressible, or capability vector cannot
+predict independent performance (explained variance &lt; 10%).</li>
+<li><strong>Validation method</strong>: Dimensionality reduction
+analysis + predictive modeling, $N <span class="math inline">≥</span>
+1000$, 6?12 months.</li>
+</ul>
+<p><strong>H8: Generational Capability Divide Hypothesis</strong></p>
+<ul>
+<li><strong>Statement</strong>: <span
+class="math inline"><em>T</em><sub>2</sub></span> generation (born after
+2015) will have significantly lower independent capability without AI
+than <span class="math inline"><em>T</em><sub>0</sub></span> generation
+(1980?2000).</li>
+<li><strong>Falsification condition</strong>: 2035?2040 longitudinal
+data show no significant capability difference between <span
+class="math inline"><em>T</em><sub>2</sub></span> and <span
+class="math inline"><em>T</em><sub>0</sub></span> generations (Cohen’s d
+&lt; 0.3).</li>
+<li><strong>Validation method</strong>: Longitudinal cohort study,
+tracking from 2025 to 2040, 15?20 years.</li>
+</ul>
+<h2 id="future-research-agenda-three-time-scales">6.3 Future Research
+Agenda: Three Time Scales</h2>
+<h3 id="short-term-research-13-years">6.3.1 Short-Term Research (1?3
+Years)</h3>
+<p><strong>Priority P0</strong>: AVP protocol standardization, EML
+parameter experimental optimization, small-scale LSA prototype.</p>
+<ul>
+<li>Cross-domain calibration (5 domains: programming, writing,
+mathematics, etc.)</li>
+<li>Reliability and validity validation</li>
+<li>Open-source toolkit release</li>
+</ul>
+<h3 id="medium-term-research-35-years">6.3.2 Medium-Term Research (3?5
+Years)</h3>
+<p>Team and organizational-level empirical research (T-AVP/O-AVP
+validation), cross-cultural adaptability research, neuroscience
+integration.</p>
+<ul>
+<li>Collaborate with 50?100 teams/20?50 organizations</li>
+<li>Comparative study of at least 3 cultural groups</li>
+<li>fMRI research on neural impacts of AI use</li>
+</ul>
+<h3 id="long-term-research-510-years">6.3.3 Long-Term Research (5?10+
+Years)</h3>
+<p>Generational longitudinal research (validating H8 hypothesis), AI
+capability evolution’s theoretical adaptation, societal-level
+intervention research.</p>
+<ul>
+<li>Track <span class="math inline"><em>T</em><sub>0</sub></span>/<span
+class="math inline"><em>T</em><sub>1</sub></span>/<span
+class="math inline"><em>T</em><sub>2</sub></span> three generations from
+2025 to 2040</li>
+<li>Update “core human capabilities” definition every 5 years</li>
+<li>Policy experiments: educational reform intervention effect
+assessment</li>
+</ul>
+<h2 id="open-science-commitment">6.4 Open Science Commitment</h2>
+<h3 id="ethical-principles">Ethical Principles</h3>
+<ol type="1">
+<li><strong>Informed consent</strong>: All AVP tests must obtain
+participant informed consent</li>
+<li><strong>No harm principle</strong>: Unplugged Tests must not be used
+for high-risk tasks</li>
+<li><strong>Privacy protection</strong>: AVP results are personal
+privacy; must not be used for employment/educational discrimination</li>
+<li><strong>Fairness principle</strong>: For individuals with
+disabilities, adjust task format without lowering challenge intensity;
+assessment based on relative improvement</li>
+<li><strong>Right to withdraw</strong>: Participants can exit research
+at any time</li>
+</ol>
+<p><strong>Fairness principle (equivalent effort)</strong>:</p>
+<ol type="1">
+<li>Adjust <strong>task format</strong> without lowering
+<strong>challenge intensity</strong></li>
+<li>Assessment based on <strong>relative improvement</strong> rather
+than absolute level</li>
+<li>(If involving accessibility) <strong>Challenge budget
+conservation</strong></li>
+</ol>
+<h3 id="open-science-commitment-1">Open Science Commitment</h3>
+<ol type="1">
+<li><strong>Data openness</strong>: Anonymized datasets publicly
+released (complying with privacy regulations)</li>
+<li><strong>Method transparency</strong>: Research protocols
+pre-registered, statistical code open-sourced (GitHub)</li>
+<li><strong>Tool open-source</strong>: AVP measurement software, LSA
+reference implementation, question banks open-sourced</li>
+<li><strong>Collaboration invitation</strong>: Welcome independent teams
+to replicate, cross-culturally validate, critically examine</li>
+</ol>
+<h2
+id="conclusion-the-life-of-theory-lies-in-critique-and-evolution">6.5
+Conclusion: The Life of Theory Lies in Critique and Evolution</h2>
+<p>CET theory was born in 2025?a critical moment when AI capabilities
+exploded and human cognition faced reconstruction. We propose this
+theory not because we believe it is “perfect” or “final,” but because
+<strong>there is an urgent need now for a falsifiable, systematic
+framework</strong> to understand and guide the future of human-AI
+symbiosis.</p>
+<p>The six major limitations revealed in this chapter remind us: CET is
+a product of specific technological, cultural, and epistemological
+contexts. Its value lies not in “eternal correctness” but in:</p>
+<ol type="1">
+<li><strong>Providing falsifiable predictions</strong>: 8 core
+hypotheses all have clear falsification conditions</li>
+<li><strong>Acknowledging uncertainty</strong>: All parameters are
+marked as “working assumptions, require calibration”</li>
+<li><strong>Inviting critique</strong>: We expect to be falsified rather
+than fear it</li>
+<li><strong>Pointing research directions</strong>: Three time-scale
+research agendas pave the way for subsequent workers</li>
+<li><strong>Maintaining evolutionary capacity</strong>: The theoretical
+architecture allows updating with evidence</li>
+</ol>
+<p><strong>Final appeal</strong>:</p>
+<p>If you are a <strong>researcher</strong>: Challenge CET hypotheses;
+use rigorous empirical research to falsify or validate.</p>
+<p>If you are a <strong>developer</strong>: Integrate EML principles
+into AI tool design; measure and publicly disclose product AVP
+performance.</p>
+<p>If you are an <strong>educator/manager</strong>: Pilot AVP assessment
+in organizations; balance efficiency with the long-term value of
+capability construction.</p>
+<p>If you are a <strong>policymaker</strong>: Pay attention to
+CET-revealed long-term risks (generational divide, tragedy of the
+cognitive commons); support interdisciplinary longitudinal research.</p>
+<p><strong>Scientific theories are not scriptures but tools.</strong>
+CET’s greatest value lies not in “providing answers” but in “asking the
+right questions.” Even if some of CET’s hypotheses are ultimately
+falsified, it will have fulfilled its mission?pushing us to think more
+deeply about the future of human-AI coexistence.</p>
+<dl>
+<dt><strong>The life of theory lies in being discussed, examined, and
+transcended.</strong> We look forward to that day.</dt>
+<dd>
+Parameter Registry (SSOT)
+</dd>
+</dl>
+<p><strong>Description</strong>: This table serves as the Single Source
+of Truth (SSOT) for all parameters throughout the paper. If
+cross-chapter parameter inconsistencies are found, this table takes
+precedence and other chapters should be corrected accordingly.</p>
+<table>
+<colgroup>
+<col style="width: 14%" />
+<col style="width: 17%" />
+<col style="width: 16%" />
+<col style="width: 14%" />
+<col style="width: 19%" />
+<col style="width: 17%" />
+</colgroup>
+<thead>
+<tr>
+<th>Parameter Symbol</th>
+<th>Default Specification</th>
+<th>Maintenance Location</th>
+<th>First Definition</th>
+<th>Cross-Chapter References</th>
+<th>Calibration Direction</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>AVP Criterion</strong></td>
+<td>$P_2 <span class="math inline">≥</span> B_0 + <span
+class="math inline"><em>δ</em></span>$</td>
+<td>Section 3.0.2</td>
+<td>Section 3.0.2</td>
+<td>Throughout</td>
+<td>-</td>
+</tr>
+<tr>
+<td><strong><span class="math display"><em>δ</em></span>
+Threshold</strong></td>
+<td><span class="math display">$$\geq$ 0.3\,$\mathrm{SD}$$</span> or 10%
+(working assumption; requires cross-domain/task calibration)</td>
+<td>Section 3.0.2</td>
+<td>Section 3.0.2</td>
+<td>Throughout</td>
+<td>Procedural tasks 0.2?0.3; Creative tasks 0.4?0.5</td>
+</tr>
+<tr>
+<td><strong>W Window</strong></td>
+<td>4?8 weeks (default 6 weeks; working assumption)</td>
+<td>Section 3.0.2</td>
+<td>Section 3.0.2</td>
+<td>3.1/4.1/Appendix D</td>
+<td>Fast skills 4 weeks; Complex skills 8?12 weeks</td>
+</tr>
+<tr>
+<td><strong>Optimal Challenge Zone</strong></td>
+<td>50<span class="math display">?</span>70% success rate (working
+assumption; cross-domain/task calibrated; population-level; individual
+calibration required)</td>
+<td>Section 3.2.1</td>
+<td>Section 3.2.1</td>
+<td>5.2/Appendix D</td>
+<td>Individual adaptation; task-specific calibration</td>
+</tr>
+<tr>
+<td><strong><span class="math inline"><em>S</em><sub>0</sub></span>
+Starting Point</strong></td>
+<td>0.8 (80% support; working assumption)</td>
+<td>Section 3.3.1</td>
+<td>Section 3.3.1</td>
+<td>5.3</td>
+<td>High-risk tasks 0.6; Novice-friendly 0.9</td>
+</tr>
+<tr>
+<td><strong><span class="math inline"><em>S</em><sub>min</sub></span>
+Lower Bound</strong></td>
+<td><span class="math inline"> ≈ 0.2</span> (working assumption;
+requires calibration)</td>
+<td>Section 3.3.2</td>
+<td>Section 3.3.2</td>
+<td>5.3.3</td>
+<td>Experts ?0.1; Novices ?0.3</td>
+</tr>
+<tr>
+<td><strong>Reduction Rate <span
+class="math inline"><em>λ</em></span></strong></td>
+<td>Task-specific (working assumption)</td>
+<td>Section 3.3.1</td>
+<td>Section 3.3.1</td>
+<td>5.3</td>
+<td>Linear/exponential/S-curve optimization</td>
+</tr>
+<tr>
+<td><strong>T-AVP Criterion</strong></td>
+<td><span class="math inline">$P_{2,$</span>$} <span
+class="math inline">≥</span> B_{0,<span class="math inline">team</span>}
++ <span class="math inline"><em>δ</em></span>_{<span
+class="math inline">team</span>}$</td>
+<td>Section 4.1.3</td>
+<td>Section 4.1.3</td>
+<td>4.1</td>
+<td>-</td>
+</tr>
+<tr>
+<td>**<span class="math display">$$\delta$_{$\mathrm{team}$}$
+Threshold** | $$</span>$ 0.3,<span class="math inline">SD</span>$
+(working assumption; domain-calibrated)</td>
+<td>Section 4.1.3</td>
+<td>Section 4.1.3</td>
+<td>4.1</td>
+<td>Larger teams/critical tasks may require <span
+class="math display">$$\geq$ 0.5\,$\mathrm{SD}$$</span></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>O-AVP Weighting</strong></td>
+<td><span class="math display">$$\mathrm{BCI}$\times0.4 +
+$\mathrm{ICR}$\times0.6$ (working assumption; sensitivity test) |
+Section 4.2.2 | Section 4.2.2 | 4.2/6.2 | Weight sweep &amp; ablation |
+| **O-AVP Threshold** | Alert $$</span>$ 0.70$, Target $<span
+class="math inline">≥</span> 0.85$ (working assumption)</td>
+<td>Section 4.2.3</td>
+<td>Section 4.2.3</td>
+<td>4.2/6.2</td>
+<td>Adjust by industry risk tolerance</td>
+</tr>
+<tr>
+<td><strong>48h Exercise Window</strong></td>
+<td>48 hours (adjustable 24/72h; working assumption)</td>
+<td>Section 4.2.2</td>
+<td>Section 4.2.2</td>
+<td>4.2</td>
+<td>Adjust by business criticality</td>
+</tr>
+<tr>
+<td><strong>Generational Window</strong></td>
+<td>10 years (2025?2035; conceptual placeholder)</td>
+<td>Section 4.3.2</td>
+<td>Section 4.3.2</td>
+<td>6.3.3</td>
+<td>Longitudinal study calibration; cross-cultural validation</td>
+</tr>
+<tr>
+<td><strong>Ability Vector Dimensions</strong></td>
+<td>5?20 dimensions (exploratory hypothesis)</td>
+<td>Section 5.4.3</td>
+<td>Section 5.4.3</td>
+<td>5.4</td>
+<td>Domain definition; IRT modeling</td>
+</tr>
+<tr>
+<td><strong>Alert Threshold</strong></td>
+<td>Green/Yellow/Red/Black (working assumption)</td>
+<td>Section 5.4.4</td>
+<td>Section 5.4.4</td>
+<td>5.4</td>
+<td>Adjust by risk tolerance</td>
+</tr>
+</tbody>
+</table>
+<p><em>Note (Goodhart safeguard): This table/grading is for
+<strong>directional and stratified</strong> purposes only; <strong>must
+not be cascaded into KPIs</strong>. Final judgment follows the
+<strong>AVP main criterion (see Section 3.0.2)</strong>.</em></p>
+<p><strong>Usage Rules</strong>:</p>
+<ol type="1">
+<li><strong>Modification Process</strong>: If any parameter’s default
+value needs adjustment, it must first be modified in the corresponding
+“Maintenance Location” section, then this table updated</li>
+<li><strong>Citation Format</strong>: When referencing parameters, use
+“(see Section X.Y, Parameter Registry Appendix B)”</li>
+<li><strong>Version Control</strong>: This table updates synchronously
+with the main text, version number consistent with paper version</li>
+<li><dl>
+<dt><strong>Specification Conservation Commitment</strong>: If
+cross-chapter parameter inconsistencies are found, this table takes
+precedence and other chapters should be corrected accordingly</dt>
+<dd>
+Selected Case Studies
+</dd>
+</dl></li>
+</ol>
+<h3 id="case-1-programming-education-platform-success-case">Case 1:
+Programming Education Platform (Success Case)</h3>
+<p><strong>Background</strong>: An online programming education platform
+designed an AI-assisted learning system for Python beginners, with 100
+students (aged 18?25), 8-week learning cycle, aiming to master basic
+Python programming skills.</p>
+<p><strong>AVP Test Results</strong>:</p>
+<p><span class="math inline"><em>B</em><sub>0</sub></span> (baseline):
+Completed 3 programming tasks without AI assistance, average score
+62/100 Collaboration period (8 weeks): Used EML-designed AI teaching
+assistant W (unplugged window): 6 weeks completely without AI <span
+class="math inline"><em>P</em><sub>2</sub></span> (post-unplugged):
+Completed equivalent tasks, average score 78/100
+<strong>Judgment</strong>: Define the capability increment as
+<strong><span
+class="math inline"><em>Δ</em><em>C</em> = <em>P</em><sub>2</sub> − <em>B</em><sub>0</sub></span></strong>.
+?C = <span class="math inline"><em>P</em><sub>2</sub></span> - <span
+class="math inline"><em>B</em><sub>0</sub></span> = 16 points &gt; <span
+class="math display"><em>δ</em></span>(10 points, <span
+class="math inline"> ≈ 0.3 </span>$$) ? <strong>AVP Passed</strong></p>
+<p><strong>EML Analysis</strong>:</p>
+<p><strong>Beneficial friction</strong>: AI did not provide direct code,
+but: - Weeks 1?2: Provided code framework, students filled core logic
+(completeness friction) - Weeks 3?4: Only gave algorithmic ideas,
+students implemented independently (abstraction friction) - Weeks 5?6:
+Students tried for 15 minutes before AI intervened (delay friction) -
+Maintained success rate 55?65% (close to target 50<span
+class="math display">?</span>70%) - Systematic support reduction:</p>
+<ul>
+<li>Adopted S-curve reduction: <span
+class="math inline"><em>S</em><sub>0</sub></span>=0.8 ? slow reduction
+in first 2 weeks ? rapid reduction in middle ? later approaching <span
+class="math inline"><em>S</em><sub>min</sub></span>=0.2</li>
+<li>Fallback mechanism: 2 students triggered fallback due to consecutive
+failures, temporarily increased support then recovered</li>
+</ul>
+<p><strong>Success Factors</strong>:</p>
+<ol type="1">
+<li><strong>Friction and Reduction Synergy</strong>: Not using friction
+or reduction alone, but implementing both simultaneously with
+complementary effects</li>
+<li><strong>Personalized Adjustment</strong>: Dynamically adjusted
+friction intensity and reduction speed based on students’ C(t) (ability
+vector)</li>
+<li><strong>Safety Net Mechanism</strong>: <span
+class="math inline"><em>S</em><sub>min</sub></span>=0.2 ensured students
+wouldn’t be completely lost, enhancing confidence</li>
+<li><strong>Sufficient Unplugged Window</strong>: 6-week window was
+sufficient for ability to stabilize and internalize</li>
+</ol>
+<p><strong>Transferable Insights</strong>:</p>
+<ul>
+<li>EML dual conditions (friction + reduction) are <strong>jointly
+necessary</strong>, neither can be omitted</li>
+<li>50<span class="math display">?</span>70% success rate (working
+assumption) is the key balance point: challenging but not
+frustrating</li>
+<li>S-curve reduction outperforms linear: adapts to learning curve’s
+non-linear characteristics</li>
+<li>Personalized adjustment is more effective than fixed strategies (but
+higher implementation cost)</li>
+</ul>
+<p><strong>Red Flag Warning</strong>: Don’t mistake “reducing AI
+assistance” for “lowering teaching quality.” Friction is to promote
+active learning, not to deliberately make things difficult for students.
+If teams resist, start with “partial tasks” or “advanced students” as
+pilot.</p>
+<h3
+id="case-2-software-team-comparative-experiment-team-level-comparison">Case
+2: Software Team Comparative Experiment (Team-Level Comparison)</h3>
+<p><strong>Background</strong>: Two software development teams at a tech
+company (8 people each, comparable abilities), 6-month AI-assisted
+programming experiment. Group A (experimental): implemented “Friday
+No-AI Day” policy; Group B (control): unlimited use of AI programming
+assistants.</p>
+<p><strong>AVP Test Results</strong>:</p>
+<ul>
+<li><p>Individual level (I-AVP):</p></li>
+<li><p>Group A: All 8 people passed I-AVP ($P_2 <span
+class="math inline">≥</span> B_0 + <span
+class="math inline"><em>δ</em></span>$)</p></li>
+<li><p>Group B: Only 3 passed, 5 failed (<span
+class="math inline"><em>P</em><sub>2</sub> &lt; <em>B</em><sub>0</sub></span>
+or <span
+class="math inline"><em>P</em><sub>2</sub> ≈ <em>B</em><sub>0</sub></span>)</p></li>
+<li><p>Team level (T-AVP):</p></li>
+<li><p>Group A: After 3 days unplugged, team independently completed
+medium-scale feature (<span class="math inline">$P_{2,$</span><span
+class="math inline">$}=80$</span> points &gt; <span
+class="math inline">$B_{0,$</span><span
+class="math inline">$}=68$</span> points+<span
+class="math display"><em>δ</em></span>) ? <strong>T-AVP
+Passed</strong></p></li>
+<li><p>Group B: After 3 days unplugged, team efficiency significantly
+declined (<span class="math inline">$P_{2,$</span><span
+class="math inline">$}=55$</span> points &lt; <span
+class="math inline">$B_{0,$</span><span
+class="math inline">$}=65$</span> points) ? <strong>T-AVP
+Failed</strong></p></li>
+</ul>
+<p><strong>Failure Patterns (Group B)</strong>:</p>
+<ol type="1">
+<li><strong>Capability Polarization</strong>: 3 senior members
+maintained ability, 5 juniors completely dependent on AI, team overall
+fragile</li>
+<li><strong>Knowledge Loss</strong>: Team no longer shared experience
+internally (all asked AI), tacit knowledge not transmitted</li>
+<li><strong>Poor Architecture Understanding</strong>: Over-reliance on
+AI-generated code, insufficient understanding of overall system,
+difficult to locate bugs when they occurred</li>
+</ol>
+<p><strong>Quantitative Evidence</strong>:</p>
+<ul>
+<li>Group A “interpersonal code review”: Average 48 times/person over 6
+months</li>
+<li>Group B “interpersonal code review”: Average 12 times/person over 6
+months</li>
+<li>Group A Slack technical discussions: 15 posts/day average</li>
+<li>Group B Slack technical discussions: 5 posts/day average</li>
+</ul>
+<p><strong>Transferable Insights</strong>:</p>
+<ol type="1">
+<li><strong>“No-AI Day” is a simple and effective T-AVP safeguard
+mechanism</strong>: Low cost (policy only), highly operable (fixed
+weekly day), minimal side effects (no impact on overall efficiency)</li>
+<li><strong>Team capability <span class="math inline">≠</span> sum of
+individual capabilities</strong>: I-AVP passed <span
+class="math inline">≠</span> T-AVP necessarily passed (emergence)</li>
+<li><strong>Junior members are T-AVP’s vulnerability point</strong>:
+Most prone to dependency, need special protection (e.g., disable AI for
+first 3 months)</li>
+<li><strong>Interpersonal communication is the foundation of team
+resilience</strong>: AI cannot replace “tacit knowledge” transmission;
+code review, technical sharing sessions, pair programming become more
+valuable in the AI era</li>
+</ol>
+<p><strong>Management Decision</strong>: Based on this experiment, the
+company decided: ? Company-wide rollout of “Friday No-AI Day” ? New
+employees disabled AI for first 3 months (build basic capabilities) ?
+Quarterly T-AVP exercises (simulate AI downtime scenarios) ? Performance
+evaluation added “interpersonal collaboration” dimension.</p>
+<dl>
+<dt><strong>Red Flag Warning</strong>: Don’t understand “Friday No-AI
+Day” as “punishment” or “going backwards.” Correct positioning: this is
+a <strong>capability training day</strong>, similar to “weight training”
+at the gym. If teams resist, start with “monthly” to reduce frequency,
+or choose non-critical tasks for unplugged testing.</dt>
+<dd>
+AVP Measurement Protocol (Simplified Version)
+</dd>
+</dl>
+<h3 id="d.1-pre-measurement-checklist">D.1 Pre-Measurement
+Checklist</h3>
+<p><strong>Applicability Confirmation</strong>:</p>
+<ul class="task-list">
+<li><label><input type="checkbox" />Task type: Cognitive-intensive,
+learnable (non-purely instrumental tasks)</label></li>
+<li><label><input type="checkbox" />Independent completion has value
+(non-compensatory exoskeleton scenarios, see Section 3.0.6 Boundary
+Conditions Anchor B5)</label></li>
+<li><label><input type="checkbox" />Unplugged window can be set (no
+high-risk consequences)</label></li>
+</ul>
+<p><strong>Baseline Design</strong>:</p>
+<ul class="task-list">
+<li><label><input type="checkbox" />Design baseline tasks (moderate
+difficulty, completion time 30?120 minutes)</label></li>
+<li><label><input type="checkbox" />Recruit participants (minimum N=30,
+recommended $N <span class="math inline">≥</span> 50$)</label></li>
+<li><label><input type="checkbox" />Record: <span
+class="math inline"><em>B</em><sub>0</sub></span> score, completion
+time, subjective difficulty (1?10 scale)</label></li>
+<li><label><input type="checkbox" />Questionnaire: Cognitive load
+(NASA-TLX), task motivation</label></li>
+</ul>
+<p><strong>Parallel Test Preparation</strong>:</p>
+<ul class="task-list">
+<li><label><input type="checkbox" />Ensure task equivalence (IRT
+calibration or expert evaluation)</label></li>
+<li><label><input type="checkbox" />Prepare $<span
+class="math inline">≥</span> 2$ sets of backup tasks (prevent
+leakage)</label></li>
+<li><label><input type="checkbox" />Pilot test verify difficulty
+consistency (pilot $N <span class="math inline">≥</span>
+10$)</label></li>
+<li><label><input type="checkbox" />Calculate inter-rater reliability
+(target <strong>ICC ? 0.75</strong>, working assumption); if ICC &lt;
+0.75: retrain raters or refine the rubric.</label></li>
+</ul>
+<p><strong>Parameter Determination</strong>:</p>
+<ul class="task-list">
+<li><label><input type="checkbox" /><span
+class="math display"><em>δ</em></span>: <span
+class="math display">$$\geq$ 0.3\,$\mathrm{SD}$$</span> or 10% (working
+assumption; requires cross-domain/task calibration)</label></li>
+<li><label><input type="checkbox" />W window: 4?8 weeks (default 6
+weeks; working assumption)</label></li>
+<li><label><input type="checkbox" />Follow-up time: Recommend testing 3
+months after <span class="math inline"><em>T</em><sub>3</sub></span>
+(retention assessment; optional)</label></li>
+<li><label><input type="checkbox" />Ethics review: Obtain IRB/ethics
+committee approval</label></li>
+</ul>
+<h3 id="d.2-measurement-execution-protocol">D.2 Measurement Execution
+Protocol</h3>
+<p><strong>Phase 1: Baseline Measurement (<span
+class="math inline"><em>T</em><sub>0</sub></span> - Week 0)</strong></p>
+<ul>
+<li>Participants complete standard tasks without AI assistance</li>
+<li>Record: Raw scores, completion time, error types</li>
+<li>Questionnaire: Subjective difficulty, cognitive load (NASA-TLX),
+self-efficacy</li>
+<li>Scoring: By $<span class="math inline">≥</span> 2$ independent
+raters blind to experimental hypothesis</li>
+<li>Calculate inter-rater reliability (target <strong>ICC ?
+0.75</strong>, working assumption); if ICC &lt; 0.75: retrain raters or
+refine the rubric.</li>
+<li>Take average as <span
+class="math inline"><em>B</em><sub>0</sub></span></li>
+<li>Quality control: Check ceiling/floor effects (if &gt;80% or &lt;20%
+reach extreme scores, adjust difficulty)</li>
+</ul>
+<p><strong>Phase 2: Training Period (<span
+class="math inline"><em>T</em><sub>1</sub></span>?<span
+class="math inline"><em>T</em><sub>2</sub></span> - Weeks
+1?8)</strong></p>
+<ul>
+<li><p>Experimental group: EML conditions</p></li>
+<li><p>Beneficial friction: Target success rate 50<span
+class="math display">?</span>70% (working assumption; cross-domain/task
+calibrated; individual adaptation required)</p></li>
+<li><p>Systematic reduction: <span
+class="math inline"><em>S</em>(<em>t</em>)</span> from 0.8?0 according
+to reduction curve</p></li>
+<li><p>Bi-weekly embedded micro-tests (10% tasks without
+support)</p></li>
+<li><p>Control group: Standard AI assistance or no AI</p></li>
+<li><p>No friction design (complete support)</p></li>
+<li><p>No reduction mechanism (<span
+class="math inline"><em>S</em>(<em>t</em>)</span> constant)</p></li>
+<li><p>Record data: Usage frequency, help requests, weekly task volume,
+weekly success rate, user satisfaction (bi-weekly)</p></li>
+<li><p>Fidelity check execution:</p></li>
+<li><p>Confirm experimental group friction intensity at 50<span
+class="math display">?</span>70% (allow ?5% fluctuation)</p></li>
+<li><p>Confirm reduction curve executed as planned</p></li>
+<li><p>Monitor control group for accidental friction
+introduction</p></li>
+</ul>
+<p><strong>Phase 3: Unplugged Window (W - Weeks 9?14, default 6
+weeks)</strong></p>
+<ul>
+<li>Completely disable AI assistance (technical blocking +
+self-report)</li>
+<li>Can continue daily tasks, but no system support</li>
+<li>Monitoring:</li>
+<li>Weekly self-report (whether AI was used in violation)</li>
+<li>Behavioral log sampling (e.g., code commit records, writing trace
+analysis)</li>
+<li>Violation handling:</li>
+<li>Minor violations (1?2 times, non-critical tasks): Record but retain
+data, sensitivity analysis</li>
+<li>Major violations ($<span class="math inline">≥</span> 3$ times or
+critical tasks): Exclude participant data</li>
+</ul>
+<p><strong>Phase 4: Post-test (<span
+class="math inline"><em>T</em><sub>3</sub></span> - After unplugged
+window)</strong></p>
+<ul>
+<li>Use equivalent parallel tests (same difficulty as <span
+class="math inline"><em>T</em><sub>0</sub></span> but different
+content)</li>
+<li>Scoring: By $<span class="math inline">≥</span> 2$ independent
+raters blind to experimental hypothesis</li>
+<li>Calculate <span class="math inline"><em>P</em><sub>2</sub></span>,
+determine AVP result:</li>
+<li>$P_2 <span class="math inline">≥</span> B_0 + <span
+class="math inline"><em>δ</em></span>$: Success (Cognitive
+Endosymbiosis)</li>
+<li><span
+class="math inline"><em>P</em><sub>2</sub> ≈ <em>B</em><sub>0</sub></span>:
+Neutral</li>
+<li><span
+class="math inline"><em>P</em><sub>2</sub> &lt; <em>B</em><sub>0</sub></span>:
+Failure (Cognitive Exoskeleton)</li>
+</ul>
+<h3 id="d.3-key-considerations">D.3 Key Considerations</h3>
+<p><strong>Equivalence Assurance</strong>:</p>
+<ul>
+<li><span class="math inline"><em>T</em><sub>0</sub></span> and <span
+class="math inline"><em>T</em><sub>3</sub></span> tests have consistent
+difficulty (IRT calibration or expert evaluation)</li>
+<li>Different content (prevent practice effects)</li>
+<li>Same testing environment (time, location, instructions)</li>
+</ul>
+<p><strong>Blind Rating Requirements</strong>:</p>
+<ul>
+<li>Raters unaware of participant group (experimental/control)</li>
+<li>Raters unaware of test time point (<span
+class="math inline"><em>T</em><sub>0</sub></span>/<span
+class="math inline"><em>T</em><sub>3</sub></span>)</li>
+<li>Scoring criteria predetermined and trained</li>
+</ul>
+<p><strong>Violation Handling</strong>:</p>
+<ul>
+<li>Minor violations: Retain data, mark as “violation,” exclude in
+sensitivity analysis</li>
+<li>Major violations: Direct exclusion, not included in final
+analysis</li>
+</ul>
+<p><strong>Attrition Management</strong>:</p>
+<ul>
+<li>Intent-to-treat analysis (ITT): Retain all randomized participant
+data</li>
+<li>Per-protocol analysis (PP): Only analyze participants completing
+full process</li>
+<li>If attrition rate &gt;30%: Analyze causes, may need to shorten W or
+increase incentives</li>
+</ul>
+<p><strong>Ethical Considerations</strong>:</p>
+<ul>
+<li>Informed consent: Participants understand experiment purpose and
+unplugged testing</li>
+<li>No harm principle: Unplugged testing not for high-risk tasks</li>
+<li>Privacy protection: AVP results confidential, not for
+employment/education discrimination</li>
+<li><dl>
+<dt>Right to withdraw: Participants can exit research at any time</dt>
+<dd>
+Frequently Asked Questions (FAQ)
+</dd>
+</dl></li>
+</ul>
+<p><strong>Q1: Is AVP applicable to all AI tools?</strong></p>
+<p>No. AVP only applies to “capability-enhancing” human?AI
+collaboration, not “compensatory exoskeletons” (see Section 3.0.6
+Boundary Conditions Anchor B5).</p>
+<p><strong>Applicable Scenarios</strong>:</p>
+<ul>
+<li>? Learning tools (e.g., programming assistants, writing tutors)</li>
+<li>? Skill training (e.g., design software, data analysis tools)</li>
+<li>? Cognitive enhancement (e.g., decision support systems)</li>
+</ul>
+<p><strong>Non-Applicable Scenarios</strong>:</p>
+<ul>
+<li>?– Disability assistance (e.g., screen readers, prosthetic
+control)</li>
+<li>?– Beyond physiological limits (e.g., night vision devices,
+gravity-assist exoskeletons)</li>
+<li>?– Purely instrumental tasks (e.g., calculator for basic arithmetic,
+no capability-building goal)</li>
+</ul>
+<p><strong>Judgment Standard</strong>: If the tool’s goal is
+“compensation” rather than “enhancement,” then AVP is not
+applicable.</p>
+<p><strong>Q2: How to determine the <span
+class="math display"><em>δ</em></span> threshold?</strong></p>
+<p><span class="math display"><em>δ</em></span> (minimum meaningful lift
+threshold) has a default working assumption of <span
+class="math display">$$\geq$ 0.3\,$\mathrm{SD}$$</span> or 10%, but
+needs calibration based on domain characteristics:</p>
+<p><strong>General Principles</strong>:</p>
+<ul>
+<li><strong>Statistical/practical significance</strong>: 0.3 SD is
+typically considered a “small-to-medium effect” in psychometrics, with
+practical meaning</li>
+<li><strong>Measurement error tolerance</strong>: Avoids mistaking
+measurement noise for capability enhancement</li>
+<li><strong>Cross-domain comparability</strong>: Relative thresholds (SD
+or percentage) adapt to different tasks</li>
+</ul>
+<p><strong>Domain Differences</strong> (working assumption; requires
+empirical validation):</p>
+<ul>
+<li><strong>Cognitive skills</strong> (e.g., programming, writing):
+<span class="math display">$$\delta$ $\geq$ 0.3\,$\mathrm{SD}$$</span>
+or 10%</li>
+<li><strong>Motor skills</strong> (e.g., typing speed): May require
+larger threshold (<span class="math display">$$\delta$ $\geq$
+0.5\,$\mathrm{SD}$$</span>) because muscle memory is more stable</li>
+<li><strong>Creative tasks</strong> (e.g., artistic creation): May
+require qualitative assessment rather than single <span
+class="math display"><em>δ</em></span></li>
+</ul>
+<p><strong>Calibration Process</strong>:</p>
+<ol type="1">
+<li>Pilot study: Small sample testing to determine preliminary
+parameters</li>
+<li>Sensitivity analysis: Test impact of <span
+class="math display"><em>δ</em></span> changes on judgment results</li>
+<li>Domain expert consultation: Adjust based on practical
+experience</li>
+<li>Iterative optimization: Adjust parameters based on feedback</li>
+</ol>
+<p><strong>Q3: How to choose the unplugged window W?</strong></p>
+<p>W (unplugged window) has a default working assumption of 4?8 weeks
+(default 6 weeks), but needs adjustment based on task complexity:</p>
+<p><strong>Task Differences</strong> (working assumption; requires
+empirical validation):</p>
+<ul>
+<li><strong>Fast skills</strong> (e.g., math calculation, simple
+programming): W=4 weeks may be sufficient</li>
+<li><strong>Complex skills</strong> (e.g., second language learning,
+advanced programming): W=8?12 weeks</li>
+<li><strong>Professional abilities</strong> (e.g., surgery,
+architectural design): W may require months or even years</li>
+</ul>
+<p><strong>Selection Criteria</strong>:</p>
+<ul>
+<li><strong>Capability stability</strong>: W needs to be long enough for
+ability to transition from “short-term memory” to “long-term
+retention”</li>
+<li><strong>Environmental factor control</strong>: W should not be too
+long, otherwise confounding variables increase (e.g., other learning,
+life changes)</li>
+<li><strong>Practical feasibility</strong>: Consider participant
+attrition rate, research resources</li>
+</ul>
+<p><strong>Red Flag</strong>: If W is too short (&lt;2 weeks), may only
+measure short-term memory residue, unable to verify true capability
+internalization. If W is too long (&gt;12 weeks), environmental factors
+confound, difficult to attribute to AI collaboration.</p>
+<p><strong>Q4: Why are compensatory exoskeletons not applicable to
+AVP?</strong></p>
+<p>Compensatory exoskeletons (e.g., disability assistance devices, tools
+beyond physiological limits) have fundamentally different goals from
+capability-enhancing AI:</p>
+<p><strong>Compensatory Exoskeletons</strong>:</p>
+<ul>
+<li>Goal: Compensate for missing or impaired functions</li>
+<li>Expectation: Users continue to depend on tools (this is the design
+goal, not a defect)</li>
+<li>Evaluation standard: Whether tools enable users to achieve
+“equivalent function” (rather than “capability enhancement”)</li>
+<li>Examples: Blind people using screen readers, amputees using
+prosthetics, elderly using walkers</li>
+</ul>
+<p><strong>Capability-Enhancing AI</strong>:</p>
+<ul>
+<li>Goal: Promote user capability growth</li>
+<li>Expectation: Users gradually become independent (this is the design
+goal)</li>
+<li>Evaluation standard: Whether capability improves after unplugging
+(AVP)</li>
+<li>Examples: Learning programming, improving writing, enhancing
+decision-making</li>
+</ul>
+<p><strong>Why Not Applicable to AVP</strong>:</p>
+<ul>
+<li>“Unplugged testing” for compensatory tools is unreasonable (e.g.,
+asking blind people to remove screen readers to read)</li>
+<li>Compensatory tools’ goal is not “independence,” but “functional
+equivalence”</li>
+</ul>
+<p><strong>Fairness Principle</strong> (see Section 3.0.6):</p>
+<ul>
+<li>For individuals who truly need assistive tools (e.g., screen reader
+users), adjust <strong>task format</strong> without reducing
+<strong>challenge intensity</strong></li>
+<li>Evaluation based on <strong>relative improvement</strong> rather
+than absolute level</li>
+<li>AVP’s <span class="math display"><em>δ</em></span> threshold can be
+personalized (e.g., based on individual’s <span
+class="math inline"><em>B</em><sub>0</sub></span>)</li>
+</ul>
+<p><strong>Q5: How to avoid the Goodhart’s Law trap?</strong></p>
+<p>Goodhart’s Law: “When a measure becomes a target, it ceases to be a
+good measure.” If AVP is misused as a KPI, it may lead to:</p>
+<p><strong>Risk Scenarios</strong>:</p>
+<ul>
+<li>A company uses AVP for employee promotion evaluation ? employees
+artificially manipulate baseline <span
+class="math inline"><em>B</em><sub>0</sub></span> (intentionally low
+scores), use AI during unplugged period ? AVP completely fails</li>
+<li>An educational institution uses AVP for teacher performance
+evaluation ? teachers only teach “easy-to-improve” skills, ignoring
+important but difficult-to-achieve-short-term capabilities</li>
+</ul>
+<p><strong>Goodhart Safeguard Mechanisms</strong> (see Section 3.0.2
+Note 2, Section 5.5.1):</p>
+<ol type="1">
+<li><strong>Correct AVP Positioning</strong>:</li>
+</ol>
+<ul>
+<li>AVP is an <strong>acceptance criterion</strong>, not a
+<strong>management tool</strong></li>
+<li>AVP is for <strong>quality judgment</strong>, not <strong>benefit
+distribution</strong></li>
+</ul>
+<ol start="2" type="1">
+<li><strong>Non-KPI Grading</strong>:</li>
+</ol>
+<ul>
+<li>AVP grading (Basic/Retention/Transfer) is only for <strong>quality
+stratification</strong></li>
+<li>Prohibit using AVP scores for personnel assessment, performance
+ranking, resource allocation</li>
+<li>Any scenario involving benefit distribution must not use AVP as the
+sole criterion</li>
+</ul>
+<ol start="3" type="1">
+<li><strong>Fixed Footnote Template</strong> (use under all threshold
+tables):</li>
+</ol>
+<blockquote>
+<p><em>Note (Goodhart safeguard): This table/grading is for
+<strong>directional and stratified</strong> purposes only; <strong>must
+not be cascaded into KPIs</strong>. Final judgment follows the
+<strong>AVP main criterion (see Section 3.0.2)</strong>.</em></p>
+</blockquote>
+<ol start="4" type="1">
+<li><strong>Separation of Monitoring and Warning</strong>:</li>
+</ol>
+<ul>
+<li>Monitoring data (e.g., C(t) ability vector) is only for system
+improvement</li>
+<li>Not linked to personal benefits</li>
+<li>Anonymized processing to protect user privacy</li>
+</ul>
+<p><strong>Correct AVP Usage</strong>:</p>
+<ul>
+<li>? For evaluating AI tool design quality</li>
+<li>? For research verification of theoretical hypotheses</li>
+<li>? For educational institutions to evaluate teaching methods</li>
+</ul>
+<p><strong>Incorrect AVP Usage</strong>:</p>
+<ul>
+<li>?– For employee performance evaluation</li>
+<li>?– For student ranking/class assignment</li>
+<li>?– For AI tool marketing KPIs # References</li>
+</ul>
+<!-- TODO: fill from References.md or in-text refs -->
+</body>
+</html>
