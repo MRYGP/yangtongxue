@@ -1,0 +1,27 @@
+[WARN] copies/EN_full_refs.md missing: S4\s*→\s*S1(?:\s*→\s*S0)?, 50–70%, 4–8\s*weeks, Cohen.?s d\s*≥\s*0\.3, \$P_{2,\\mathrm\{team\}} \\ge B_{0,\\mathrm\{team\}} \+ \\delta\$, BCI×0\.4\s*\+\s*ICR×0\.6
+[WARN] copies\EN_full_appendixB.md missing: S4\s*→\s*S1(?:\s*→\s*S0)?, 50–70%, Cohen.?s d\s*≥\s*0\.3, \$P_{2,\\mathrm\{team\}} \\ge B_{0,\\mathrm\{team\}} \+ \\delta\$, BCI×0\.4\s*\+\s*ICR×0\.6
+[WARN] copies\EN_full_appendixC.md missing: S4\s*→\s*S1(?:\s*→\s*S0)?, 50–70%, 4–8\s*weeks, Cohen.?s d\s*≥\s*0\.3, \$P_{2,\\mathrm\{team\}} \\ge B_{0,\\mathrm\{team\}} \+ \\delta\$, BCI×0\.4\s*\+\s*ICR×0\.6
+[WARN] copies\EN_full_appendixD.md missing: S4\s*→\s*S1(?:\s*→\s*S0)?, 50–70%, Cohen.?s d\s*≥\s*0\.3, \$P_{2,\\mathrm\{team\}} \\ge B_{0,\\mathrm\{team\}} \+ \\delta\$, BCI×0\.4\s*\+\s*ICR×0\.6
+[WARN] copies\EN_full_appendixE.md missing: S4\s*→\s*S1(?:\s*→\s*S0)?, 50–70%, Cohen.?s d\s*≥\s*0\.3, \$P_{2,\\mathrm\{team\}} \\ge B_{0,\\mathrm\{team\}} \+ \\delta\$, BCI×0\.4\s*\+\s*ICR×0\.6
+[WARN] copies\EN_full_appendix_seed.md missing: S4\s*→\s*S1(?:\s*→\s*S0)?, 50–70%, Cohen.?s d\s*≥\s*0\.3, \$P_{2,\\mathrm\{team\}} \\ge B_{0,\\mathrm\{team\}} \+ \\delta\$, BCI×0\.4\s*\+\s*ICR×0\.6
+[WARN] copies\EN_full_ch04.md missing: 4–8\s*weeks, Cohen.?s d\s*≥\s*0\.3, \$P_{2,\\mathrm\{team\}} \\ge B_{0,\\mathrm\{team\}} \+ \\delta\$, BCI×0\.4\s*\+\s*ICR×0\.6
+[WARN] copies\EN_full_ch05.md missing: 4–8\s*weeks, Cohen.?s d\s*≥\s*0\.3, \$P_{2,\\mathrm\{team\}} \\ge B_{0,\\mathrm\{team\}} \+ \\delta\$, BCI×0\.4\s*\+\s*ICR×0\.6
+[WARN] copies\EN_full_ch06.md missing: S4\s*→\s*S1(?:\s*→\s*S0)?, 4–8\s*weeks, Cohen.?s d\s*≥\s*0\.3, \$P_{2,\\mathrm\{team\}} \\ge B_{0,\\mathrm\{team\}} \+ \\delta\$, BCI×0\.4\s*\+\s*ICR×0\.6
+[WARN] copies/EN_full_refs.md missing: S4\s*→\s*S1(?:\s*→\s*S0)?, 50–70%, 4–8\s*weeks, Cohen.?s d\s*≥\s*0\.3, \$P_{2,\\mathrm\{team\}} \\ge B_{0,\\mathrm\{team\}} \+ \\delta\$, BCI×0\.4\s*\+\s*ICR×0\.6
+[WARN] copies\EN_full_appendixB.md missing: S4\s*→\s*S1(?:\s*→\s*S0)?, 50–70%, Cohen.?s d\s*≥\s*0\.3, \$P_{2,\\mathrm\{team\}} \\ge B_{0,\\mathrm\{team\}} \+ \\delta\$, BCI×0\.4\s*\+\s*ICR×0\.6
+[WARN] copies\EN_full_appendixC.md missing: S4\s*→\s*S1(?:\s*→\s*S0)?, 50–70%, 4–8\s*weeks, Cohen.?s d\s*≥\s*0\.3, \$P_{2,\\mathrm\{team\}} \\ge B_{0,\\mathrm\{team\}} \+ \\delta\$, BCI×0\.4\s*\+\s*ICR×0\.6
+[WARN] copies\EN_full_appendixD.md missing: S4\s*→\s*S1(?:\s*→\s*S0)?, 50–70%, Cohen.?s d\s*≥\s*0\.3, \$P_{2,\\mathrm\{team\}} \\ge B_{0,\\mathrm\{team\}} \+ \\delta\$, BCI×0\.4\s*\+\s*ICR×0\.6
+[WARN] copies\EN_full_appendixE.md missing: S4\s*→\s*S1(?:\s*→\s*S0)?, 50–70%, Cohen.?s d\s*≥\s*0\.3, \$P_{2,\\mathrm\{team\}} \\ge B_{0,\\mathrm\{team\}} \+ \\delta\$, BCI×0\.4\s*\+\s*ICR×0\.6
+[WARN] copies\EN_full_appendix_seed.md missing: S4\s*→\s*S1(?:\s*→\s*S0)?, 50–70%, Cohen.?s d\s*≥\s*0\.3, \$P_{2,\\mathrm\{team\}} \\ge B_{0,\\mathrm\{team\}} \+ \\delta\$, BCI×0\.4\s*\+\s*ICR×0\.6
+[WARN] copies\EN_full_ch04.md missing: 4–8\s*weeks, Cohen.?s d\s*≥\s*0\.3, \$P_{2,\\mathrm\{team\}} \\ge B_{0,\\mathrm\{team\}} \+ \\delta\$, BCI×0\.4\s*\+\s*ICR×0\.6
+[WARN] copies\EN_full_ch05.md missing: 4–8\s*weeks, Cohen.?s d\s*≥\s*0\.3, \$P_{2,\\mathrm\{team\}} \\ge B_{0,\\mathrm\{team\}} \+ \\delta\$, BCI×0\.4\s*\+\s*ICR×0\.6
+[WARN] copies\EN_full_ch06.md missing: S4\s*→\s*S1(?:\s*→\s*S0)?, 4–8\s*weeks, Cohen.?s d\s*≥\s*0\.3, \$P_{2,\\mathrm\{team\}} \\ge B_{0,\\mathrm\{team\}} \+ \\delta\$, BCI×0\.4\s*\+\s*ICR×0\.6
+[WARN] copies/EN_full_refs.md missing: S4\s*→\s*S1(?:\s*→\s*S0)?, 50–70%, 4–8\s*weeks, Cohen.?s d\s*≥\s*0\.3, \$P_{2,\\mathrm\{team\}} \\ge B_{0,\\mathrm\{team\}} \+ \\delta\$, BCI×0\.4\s*\+\s*ICR×0\.6
+[WARN] copies\EN_full_appendixB.md missing: S4\s*→\s*S1(?:\s*→\s*S0)?, 50–70%, Cohen.?s d\s*≥\s*0\.3, \$P_{2,\\mathrm\{team\}} \\ge B_{0,\\mathrm\{team\}} \+ \\delta\$, BCI×0\.4\s*\+\s*ICR×0\.6
+[WARN] copies\EN_full_appendixC.md missing: S4\s*→\s*S1(?:\s*→\s*S0)?, 50–70%, 4–8\s*weeks, Cohen.?s d\s*≥\s*0\.3, \$P_{2,\\mathrm\{team\}} \\ge B_{0,\\mathrm\{team\}} \+ \\delta\$, BCI×0\.4\s*\+\s*ICR×0\.6
+[WARN] copies\EN_full_appendixD.md missing: S4\s*→\s*S1(?:\s*→\s*S0)?, 50–70%, Cohen.?s d\s*≥\s*0\.3, \$P_{2,\\mathrm\{team\}} \\ge B_{0,\\mathrm\{team\}} \+ \\delta\$, BCI×0\.4\s*\+\s*ICR×0\.6
+[WARN] copies\EN_full_appendixE.md missing: S4\s*→\s*S1(?:\s*→\s*S0)?, 50–70%, Cohen.?s d\s*≥\s*0\.3, \$P_{2,\\mathrm\{team\}} \\ge B_{0,\\mathrm\{team\}} \+ \\delta\$, BCI×0\.4\s*\+\s*ICR×0\.6
+[WARN] copies\EN_full_appendix_seed.md missing: S4\s*→\s*S1(?:\s*→\s*S0)?, 50–70%, Cohen.?s d\s*≥\s*0\.3, \$P_{2,\\mathrm\{team\}} \\ge B_{0,\\mathrm\{team\}} \+ \\delta\$, BCI×0\.4\s*\+\s*ICR×0\.6
+[WARN] copies\EN_full_ch04.md missing: 4–8\s*weeks, Cohen.?s d\s*≥\s*0\.3, \$P_{2,\\mathrm\{team\}} \\ge B_{0,\\mathrm\{team\}} \+ \\delta\$, BCI×0\.4\s*\+\s*ICR×0\.6
+[WARN] copies\EN_full_ch05.md missing: 4–8\s*weeks, Cohen.?s d\s*≥\s*0\.3, \$P_{2,\\mathrm\{team\}} \\ge B_{0,\\mathrm\{team\}} \+ \\delta\$, BCI×0\.4\s*\+\s*ICR×0\.6
+[WARN] copies\EN_full_ch06.md missing: S4\s*→\s*S1(?:\s*→\s*S0)?, 4–8\s*weeks, Cohen.?s d\s*≥\s*0\.3, \$P_{2,\\mathrm\{team\}} \\ge B_{0,\\mathrm\{team\}} \+ \\delta\$, BCI×0\.4\s*\+\s*ICR×0\.6
