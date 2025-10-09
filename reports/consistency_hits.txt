@@ -1,0 +1,999 @@
+0_raw\AppendixA.md:23:A pathological state where users form permanent reliance on AI and cannot function independently. Characteristics: ① Habitual reliance even for simple tasks ② Loss of transfer capability ③ Weak metacognition ④ AVP failure (P₂ < B₀). Prevention mechanisms: beneficial friction + systematic support reduction + periodic Unplugged Tests. First appearance: Section 3.3.
+0_raw\AppendixA.md:47:**Statement**: In procedural cognitive tasks, AI tools designed with beneficial friction (50–70% success rate, working assumption) + systematic support reduction (S4→S1→S0) will result in users' independent performance significantly exceeding baseline after W weeks of collaboration (P₂ ≥ B₀ + δ; see §3.0.2).
+0_raw\AppendixA.md:67:**Statement**: Systematic support reduction (S4→S1→S0) outperforms fixed support; systematic reduction group has significantly higher AVP pass rate and long-term retention.
+0_raw\AppendixA.md:93:### Cognitive Endosymbiosis (认知内共生)
+0_raw\AppendixA.md:95:An AI-as-cognitive-partner collaboration pattern that promotes independent capability enhancement through beneficial friction and systematic support reduction. Characteristics: ① Beneficial Cognitive Friction ② Systematic Support Reduction ③ AVP validation passed (P₂ ≥ B₀ + δ). First appearance: Section 1.3, complete definition: Section 3.0.3 (EML definition Anchor B2). Contrast: Cognitive Exoskeleton (pathological pattern).
+0_raw\AppendixA.md:95:An AI-as-cognitive-partner collaboration pattern that promotes independent capability enhancement through beneficial friction and systematic support reduction. Characteristics: ① Beneficial Cognitive Friction ② Systematic Support Reduction ③ AVP validation passed (P₂ ≥ B₀ + δ). First appearance: Section 1.3, complete definition: Section 3.0.3 (EML definition Anchor B2). Contrast: Cognitive Exoskeleton (pathological pattern).
+0_raw\AppendixA.md:95:An AI-as-cognitive-partner collaboration pattern that promotes independent capability enhancement through beneficial friction and systematic support reduction. Characteristics: ① Beneficial Cognitive Friction ② Systematic Support Reduction ③ AVP validation passed (P₂ ≥ B₀ + δ). First appearance: Section 1.3, complete definition: Section 3.0.3 (EML definition Anchor B2). Contrast: Cognitive Exoskeleton (pathological pattern).
+0_raw\AppendixA.md:95:An AI-as-cognitive-partner collaboration pattern that promotes independent capability enhancement through beneficial friction and systematic support reduction. Characteristics: ① Beneficial Cognitive Friction ② Systematic Support Reduction ③ AVP validation passed (P₂ ≥ B₀ + δ). First appearance: Section 1.3, complete definition: Section 3.0.3 (EML definition Anchor B2). Contrast: Cognitive Exoskeleton (pathological pattern).
+0_raw\AppendixA.md:97:### Cognitive Exoskeleton (认知外骨骼)
+0_raw\AppendixA.md:99:A pathological pattern where over-reliance on AI leads to independent capability degradation. Characteristics: ① Zero-friction design ② No support reduction ③ AVP failure (P₂ < B₀). Users perform well during collaboration (P₁ high) but capability declines after unplugging (P₂ < B₀). First appearance: Section 1.2, detailed definition: Section 3.0.6. Contrast: Cognitive Endosymbiosis (target pattern).
+0_raw\AppendixA.md:107:Design necessary conditions for constituting Cognitive Endosymbiosis: ① Beneficial Cognitive Friction (optimal challenge zone, 50–70% success rate, working assumption) ② Systematic Support Reduction (S4→S1→S0). These two constitute jointly sufficient design conditions, but ultimately still require AVP (P₂ ≥ B₀ + δ) as the necessary acceptance criterion. First appearance: Section 1.3, complete definition: Section 3.0.3 (EML definition Anchor B2).
+0_raw\AppendixA.md:107:Design necessary conditions for constituting Cognitive Endosymbiosis: ① Beneficial Cognitive Friction (optimal challenge zone, 50–70% success rate, working assumption) ② Systematic Support Reduction (S4→S1→S0). These two constitute jointly sufficient design conditions, but ultimately still require AVP (P₂ ≥ B₀ + δ) as the necessary acceptance criterion. First appearance: Section 1.3, complete definition: Section 3.0.3 (EML definition Anchor B2).
+0_raw\AppendixA.md:107:Design necessary conditions for constituting Cognitive Endosymbiosis: ① Beneficial Cognitive Friction (optimal challenge zone, 50–70% success rate, working assumption) ② Systematic Support Reduction (S4→S1→S0). These two constitute jointly sufficient design conditions, but ultimately still require AVP (P₂ ≥ B₀ + δ) as the necessary acceptance criterion. First appearance: Section 1.3, complete definition: Section 3.0.3 (EML definition Anchor B2).
+0_raw\AppendixA.md:109:### Partner-like Agency (伙伴式主体性)
+0_raw\AppendixA.md:121:### Beneficial Cognitive Friction (有益认知摩擦)
+0_raw\AppendixA.md:125:### Systematic Support Reduction (系统性支持削减)
+0_raw\AppendixA.md:205:### Layered Symbiosis Architecture (分层共生架构, LSA)
+0_raw\ARVIX2025AEN.md:1:# Human Capability Construction and Cognitive Resilience in the AI Era: A Theory of Cognitive Endosymbiosis Based on the Antifragility Validation Principle
+0_raw\ARVIX2025AEN.md:13:Large language models and other AI tools are profoundly reshaping human work practices, yet their long-term impact on independent capabilities remains unclear. This study proposes the Cognitive Endosymbiosis Theory (CET), which measures whether independent capabilities are enhanced or degraded by AI assistance through the "Antifragility Validation Principle" (AVP). The research establishes a five-anchor measurement framework (B1-B5) and proposes design principles through the "Endosymbiotic Minimal Law" (EML), which promotes capability internalization via beneficial friction (50$\text{–}$70% success rate, working assumption) and systematic support reduction (S4$\rightarrow$S1$\rightarrow$S0). The core criterion: $P_2 \geq B_0 + \delta$ (post-unplugged capability must exceed baseline). The theory presents eight falsifiable hypotheses, explicitly defines applicability boundaries, and commits to open science validation (see Appendix B; Section 3.0 anchor texts).
+0_raw\ARVIX2025AEN.md:13:Large language models and other AI tools are profoundly reshaping human work practices, yet their long-term impact on independent capabilities remains unclear. This study proposes the Cognitive Endosymbiosis Theory (CET), which measures whether independent capabilities are enhanced or degraded by AI assistance through the "Antifragility Validation Principle" (AVP). The research establishes a five-anchor measurement framework (B1-B5) and proposes design principles through the "Endosymbiotic Minimal Law" (EML), which promotes capability internalization via beneficial friction (50$\text{–}$70% success rate, working assumption) and systematic support reduction (S4$\rightarrow$S1$\rightarrow$S0). The core criterion: $P_2 \geq B_0 + \delta$ (post-unplugged capability must exceed baseline). The theory presents eight falsifiable hypotheses, explicitly defines applicability boundaries, and commits to open science validation (see Appendix B; Section 3.0 anchor texts).
+0_raw\ARVIX2025AEN.md:15:**Keywords**: Cognitive Endosymbiosis; Cognitive Exoskeleton; Antifragility Validation; Beneficial Cognitive Friction; Human-AI Collaboration; Cognitive Sustainability
+0_raw\ARVIX2025AEN.md:15:**Keywords**: Cognitive Endosymbiosis; Cognitive Exoskeleton; Antifragility Validation; Beneficial Cognitive Friction; Human-AI Collaboration; Cognitive Sustainability
+0_raw\ARVIX2025AEN.md:15:**Keywords**: Cognitive Endosymbiosis; Cognitive Exoskeleton; Antifragility Validation; Beneficial Cognitive Friction; Human-AI Collaboration; Cognitive Sustainability
+0_raw\ARVIX2025AEN.md:36:- 3.2 Beneficial Cognitive Friction Mechanism
+0_raw\ARVIX2025AEN.md:37:- 3.3 Systematic Support Reduction
+0_raw\ARVIX2025AEN.md:38:- 3.4 Partner-like Agency
+0_raw\ARVIX2025AEN.md:85:- **Cognitive Exoskeleton mode**: Independent performance significantly declines ($P_2 < B_0$), permanent AI dependency
+0_raw\ARVIX2025AEN.md:86:- **Cognitive Endosymbiosis mode**: Independent performance exceeds original level ($P_2 \geq B_0 + \delta$), AI use strengthens underlying capabilities
+0_raw\ARVIX2025AEN.md:106:This study proposes the Cognitive Endosymbiosis Theory (CET), filling the theoretical gaps outlined above:
+0_raw\ARVIX2025AEN.md:118:- $P_2 \geq B_0 + \delta$: Success (Cognitive Endosymbiosis)
+0_raw\ARVIX2025AEN.md:120:- $P_2 < B_0$: Failure (Cognitive Exoskeleton)
+0_raw\ARVIX2025AEN.md:124:> **Endosymbiotic Minimal Law (EML)**: The necessary design conditions for constituting "Cognitive Endosymbiosis" are:
+0_raw\ARVIX2025AEN.md:126:> (1) **Beneficial Cognitive Friction**: Placing users in the optimal challenge zone (50$\text{–}$70% success rate, working assumption; individual adaptation required)
+0_raw\ARVIX2025AEN.md:128:> (2) **Systematic Support Reduction**: AI support intensity gradually decreases from S4$\rightarrow$S1$\rightarrow$S0 according to a reduction curve
+0_raw\ARVIX2025AEN.md:134:### 1.3.3 AI Role Reconstruction: Partner-like Agency
+0_raw\ARVIX2025AEN.md:136:Reshaping AI from a passive tool into a cognitive endosymbiont with **"Partner-like Agency"** (see §3.4; Term map), including three operationalizable anchors:
+0_raw\ARVIX2025AEN.md:139:2. **Scaffolding fadeout**: Follows systematic support reduction curve
+0_raw\ARVIX2025AEN.md:142:### 1.3.4 Technical Implementation: Layered Symbiosis Architecture (LSA)
+0_raw\ARVIX2025AEN.md:150:**Cognitive Exoskeleton vs Cognitive Endosymbiosis Core Comparison**:
+0_raw\ARVIX2025AEN.md:150:**Cognitive Exoskeleton vs Cognitive Endosymbiosis Core Comparison**:
+0_raw\ARVIX2025AEN.md:152:| Dimension          | Cognitive Exoskeleton  | Cognitive Endosymbiosis         |
+0_raw\ARVIX2025AEN.md:152:| Dimension          | Cognitive Exoskeleton  | Cognitive Endosymbiosis         |
+0_raw\ARVIX2025BEN.md:32:**CET's reconstruction**: From "functional parity" to "process parity"—not only "does the tool help complete tasks" but also "does tool use promote capability enhancement." AVP supplies a falsifiable boundary: $P_2 \geq B_0 + \delta$ (benign) vs. $P_2 < B_0$ (pathological). EML's systematic support reduction (S4$\rightarrow$S1$\rightarrow$S0) helps ensure extension is temporary scaffolding rather than a permanent crutch.
+0_raw\ARVIX2025BEN.md:36:**Automation paradox** (Bainbridge, 1983): The more perfect the automation, the worse operators' capabilities when intervention is needed. Aviation case (Air France Flight 447): Pilots operated normally under autopilot ($P_1$ high) but lacked manual proficiency when the system failed ($P_2$ low). This "permanent support → capability degradation" pattern is the "Cognitive Exoskeleton" CET warns against.
+0_raw\ARVIX2025BEN.md:38:**Scaffolding theory** (Wood et al., 1976; Vygotsky, 1978): Effective instructional support is temporary, with systematic support reduction (S4$\rightarrow$S1$\rightarrow$S0).
+0_raw\ARVIX2025BEN.md:41:**Systematic support reduction (S4$\rightarrow$S1$\rightarrow$S0)**: Reduce support as capability improves.
+0_raw\ARVIX2025BEN.md:44:**Comparative insight**: Automation paradox (permanent support → degradation) vs. scaffolding (systematic reduction → independence) jointly support EML Condition 2 (systematic support reduction).
+0_raw\ARVIX2025BEN.md:60:1. **Negative-warning convergence**: Cognitive offloading (GPS), automation (pilot skills), neuroplasticity (use-dependent atrophy)—three independent lines all highlight "permanent dependency → capability atrophy," supporting CET's critique of the Cognitive Exoskeleton.
+0_raw\ARVIX2025BEN.md:61:2. **Positive-path convergence**: Scaffolding (pedagogy), desirable difficulties (cognitive psychology), neuroplasticity (taxi drivers)—all point to "moderate challenge + systematic support reduction (S4$\rightarrow$S1$\rightarrow$S0)," supporting EML's two conditions.
+0_raw\ARVIX2025C.md:185:**认知内共生（Cognitive Endosymbiosis）**
+0_raw\ARVIX2025C.md:188:**认知外骨骼（Cognitive Exoskeleton）**
+0_raw\ARVIX2025C.md:197:**伙伴式主体性（Partner-like Agency）**
+0_raw\ARVIX2025C.md:205:**有益认知摩擦（Beneficial Cognitive Friction）**
+0_raw\ARVIX2025C.md:208:**系统性支持削减（Systematic Support Reduction）**
+0_raw\ARVIX2025C.md:265:**LSA分层架构（Layered Symbiosis Architecture）**
+0_raw\ARVIX2025CEN.md:3:This chapter systematically explicates the core mechanisms of CET: How is the AVP criterion operationalized? What is the internal logic of EML's conditions? How are the two unified through Partner-like Agency?
+0_raw\ARVIX2025CEN.md:21:| Success-rate target | Quantitative target for beneficial cognitive friction | 50$\text{–}$70% (working assumption; population-level; individual calibration required) |
+0_raw\ARVIX2025CEN.md:32:> **Endosymbiotic Minimal Law (EML).** The **necessary design conditions** for constituting "Cognitive Endosymbiosis" are:
+0_raw\ARVIX2025CEN.md:33:> (1) **Beneficial Cognitive Friction:** Place users in the **optimal challenge zone** (population-level working assumption: 50$\text{–}$70% success rate; individual adaptation required);
+0_raw\ARVIX2025CEN.md:34:> (2) **Systematic Support Reduction:** Decrease AI support intensity from S4→S1→S0 according to a **reduction curve**.
+0_raw\ARVIX2025CEN.md:66:$P_2 \geq B_0 + \delta$: Success (Cognitive Endosymbiosis);
+0_raw\ARVIX2025CEN.md:68:$P_2 < B_0$: Failure (Cognitive Exoskeleton).
+0_raw\ARVIX2025CEN.md:79:## 3.2 Beneficial Cognitive Friction Mechanism
+0_raw\ARVIX2025CEN.md:107:## 3.3 Systematic Support Reduction
+0_raw\ARVIX2025CEN.md:148:## 3.4 Partner-like Agency: Reconstructing AI's Role
+0_raw\ARVIX2025CEN.md:176:Partner-like Agency **does not imply anthropomorphization**. We require AI to **functionally** promote growth, not to mimic human traits.
+0_raw\ARVIX2025CEN.md:183:## 3.5 Cognitive Exoskeleton: Warning Signals
+0_raw\ARVIX2025CEN.md:207:3) **Role reconstruction:** Partner-like Agency reframes AI's function;
+0_raw\ARVIX2025CEN.md:210:**Logical completeness.** **AVP (evaluation) + EML (design) + Partner-like Agency (foundation)** form CET's core architecture: AVP answers **what is good**, EML answers **how to achieve**, Partner-like Agency answers **why it is effective**.
+0_raw\ARVIX2025CEN.md:210:**Logical completeness.** **AVP (evaluation) + EML (design) + Partner-like Agency (foundation)** form CET's core architecture: AVP answers **what is good**, EML answers **how to achieve**, Partner-like Agency answers **why it is effective**.
+0_raw\ARVIX2025DEN.md:53:- Systematic support reduction:
+0_raw\ARVIX2025DEN.md:194:- $P_2 \geq B_0 + \delta$: Success (Cognitive Endosymbiosis)
+0_raw\ARVIX2025DEN.md:196:- $P_2 < B_0$: Failure (Cognitive Exoskeleton)
+0_raw\CETG1.md:146:本研究提出**分层共生架构**（Layered Symbiosis Architecture, LSA）作为技术承载。第一章仅概述核心结构，详细实现见第五章：
+0_raw\CETG10.md:21:**Methods**: This paper proposes a Cognitive Capability Building and Assessment Theory (abbreviated as "this theory"), comprising three core mechanisms: (1) Antifragility Validation Principle (AVP)—verifying whether collaboration enhances independent capability through "unplugged tests" (criterion: P₂≥B₀+δ, δ≥0.3 SD or 10%, working hypothesis, requires cross-domain/task calibration); (2) Endosymbiotic Minimal Law (EML)—designing beneficial cognitive friction (50-70% success rate, working hypothesis, requires cross-domain/task calibration) and systematic support reduction (S4→S1); (3) Partner-like Agency—positioning AI as a cognitive partner. The theory adopts an interdisciplinary synthesis approach, integrating research from cognitive psychology, educational technology, organizational behavior, and AI ethics, validated through literature analysis, case studies, and conceptual modeling.
+0_raw\CETG10.md:21:**Methods**: This paper proposes a Cognitive Capability Building and Assessment Theory (abbreviated as "this theory"), comprising three core mechanisms: (1) Antifragility Validation Principle (AVP)—verifying whether collaboration enhances independent capability through "unplugged tests" (criterion: P₂≥B₀+δ, δ≥0.3 SD or 10%, working hypothesis, requires cross-domain/task calibration); (2) Endosymbiotic Minimal Law (EML)—designing beneficial cognitive friction (50-70% success rate, working hypothesis, requires cross-domain/task calibration) and systematic support reduction (S4→S1); (3) Partner-like Agency—positioning AI as a cognitive partner. The theory adopts an interdisciplinary synthesis approach, integrating research from cognitive psychology, educational technology, organizational behavior, and AI ethics, validated through literature analysis, case studies, and conceptual modeling.
+0_raw\CETG10.md:21:**Methods**: This paper proposes a Cognitive Capability Building and Assessment Theory (abbreviated as "this theory"), comprising three core mechanisms: (1) Antifragility Validation Principle (AVP)—verifying whether collaboration enhances independent capability through "unplugged tests" (criterion: P₂≥B₀+δ, δ≥0.3 SD or 10%, working hypothesis, requires cross-domain/task calibration); (2) Endosymbiotic Minimal Law (EML)—designing beneficial cognitive friction (50-70% success rate, working hypothesis, requires cross-domain/task calibration) and systematic support reduction (S4→S1); (3) Partner-like Agency—positioning AI as a cognitive partner. The theory adopts an interdisciplinary synthesis approach, integrating research from cognitive psychology, educational technology, organizational behavior, and AI ethics, validated through literature analysis, case studies, and conceptual modeling.
+0_raw\CETG10.md:23:**Results**: This paper establishes a four-layer cross-scale validation system (Individual I-AVP, Team T-AVP, Organizational O-AVP dual-threshold model: alert ≥0.70, target ≥0.85, working hypothesis, requires cross-domain/task calibration, Societal S-AVP), identifies two contrasting patterns—"cognitive exoskeleton" (over-reliance leading to capability degradation) versus "cognitive endosymbiosis" (continuous capability enhancement)—and designs a Layered Symbiosis Architecture (LSA) as an engineering implementation pathway. Through case analyses across three domains (writing, programming, team collaboration), the theory's explanatory and predictive power is validated. The study explicitly articulates six major limitations and eight falsifiable hypotheses (H1-H8), providing clear pathways for subsequent empirical research.
+0_raw\CETG10.md:23:**Results**: This paper establishes a four-layer cross-scale validation system (Individual I-AVP, Team T-AVP, Organizational O-AVP dual-threshold model: alert ≥0.70, target ≥0.85, working hypothesis, requires cross-domain/task calibration, Societal S-AVP), identifies two contrasting patterns—"cognitive exoskeleton" (over-reliance leading to capability degradation) versus "cognitive endosymbiosis" (continuous capability enhancement)—and designs a Layered Symbiosis Architecture (LSA) as an engineering implementation pathway. Through case analyses across three domains (writing, programming, team collaboration), the theory's explanatory and predictive power is validated. The study explicitly articulates six major limitations and eight falsifiable hypotheses (H1-H8), providing clear pathways for subsequent empirical research.
+0_raw\CETG10.md:23:**Results**: This paper establishes a four-layer cross-scale validation system (Individual I-AVP, Team T-AVP, Organizational O-AVP dual-threshold model: alert ≥0.70, target ≥0.85, working hypothesis, requires cross-domain/task calibration, Societal S-AVP), identifies two contrasting patterns—"cognitive exoskeleton" (over-reliance leading to capability degradation) versus "cognitive endosymbiosis" (continuous capability enhancement)—and designs a Layered Symbiosis Architecture (LSA) as an engineering implementation pathway. Through case analyses across three domains (writing, programming, team collaboration), the theory's explanatory and predictive power is validated. The study explicitly articulates six major limitations and eight falsifiable hypotheses (H1-H8), providing clear pathways for subsequent empirical research.
+0_raw\CETG3.md:214:EML的第一个设计必要条件是**有益认知摩擦**(Beneficial Cognitive Friction)。本节将阐释为什么"适度困难"是必要的,以及如何将其量化为可操作的设计参数。
+0_raw\CETG3.md:294:EML的第二个设计必要条件是**系统性支持削减**(Systematic Support Reduction)。本节阐释为什么支持必须削减,以及如何科学地实施削减。
+0_raw\CETG3.md:389:前两节聚焦"做什么"(AVP判据)和"怎么做"(EML条件),本节转向"为什么这样做有效"的哲学基础。我们提出**伙伴式主体性**(Partner-like Agency)作为认知内共生的本体论支柱。
+0_raw\CETG3.md:405:**CET提出的新范式:伙伴式主体性(Partner-like Agency)**
+0_raw\CETG5.md:5:本章提出**分层共生架构**（Layered Symbiosis Architecture, LSA）——一个将CET理论转化为可工程化系统的设计框架。LSA不是某个具体产品的蓝图，而是一套**设计原则和架构模式**，可应用于各类AI辅助工具（学习平台、编程助手、写作工具、决策支持系统等）的开发。
+0_raw\CETG5.md:24:| **LSA**             | Layered Symbiosis Architecture (分层共生架构) | 全局     |
+0_raw\CETG7.md:100:| **LSA**    | Layered Symbiosis Architecture     | 分层共生架构       | 1.3节    |
+0_raw\CETG7.md:181:| 认知内共生       | Cognitive Endosymbiosis            | -    | AI作为伙伴，通过摩擦与削减促进能力提升 | 3.0.4节 |
+0_raw\CETG7.md:182:| 认知外骨骼       | Cognitive Exoskeleton              | -    | 过度依赖AI导致独立能力退化的病理模式   | 3.0.6节 |
+0_raw\CETG7.md:185:| 伙伴式主体性     | Partner-like Agency                | -    | AI作为认知伙伴的理想角色定位           | 3.4节   |
+0_raw\CETG7.md:186:| 有益认知摩擦     | Beneficial Cognitive Friction      | -    | 适度挑战（50-70%成功率）促进能力增长   | 3.2节   |
+0_raw\CETG7.md:187:| 系统性支持削减   | Systematic Support Reduction       | -    | AI支持强度按曲线递减（S4→S1）          | 3.3节   |
+0_raw\CETG9.md:1128:**认知内共生（Cognitive Endosymbiosis）**
+0_raw\CETG9.md:1135:**认知外骨骼（Cognitive Exoskeleton）**
+0_raw\CETG9.md:1155:**伙伴式主体性（Partner-like Agency）**
+0_raw\CETG9.md:1161:**有益认知摩擦（Beneficial Cognitive Friction）**
+0_raw\CETG9.md:1168:**系统性支持削减（Systematic Support Reduction）**
+0_raw\CETG9.md:1242:| LSA    | Layered Symbiosis Architecture                      | 分层共生架构                             | 1.3节    |
+0_raw\Chapter 4.md:12:**Key mechanisms**: Beneficial friction (50–70% success rate, working assumption) + Systematic support reduction (S4→S1→S0)
+0_raw\Chapter 5+6.md:3:The first four chapters established the theoretical foundation of CET; this chapter addresses the engineering question: How do we design an AI system that naturally conforms to EML principles? This chapter proposes the **Layered Symbiosis Architecture (LSA)**—a design framework that translates CET theory into engineerable systems.
+0_raw\Chapter 5+6.md:73:- Layered Symbiosis Architecture (LSA) - first occurrence with full name
+0_raw\Chapter 5+6.md:85:Given a user request and L1's raw output, how do we modulate it to satisfy EML Condition 1 (Beneficial Cognitive Friction)?
+0_raw\Chapter 5+6.md:139:Implements EML Condition 2 (Systematic Support Reduction), gradually decreasing from S4 → S1 → S0.
+0_raw\Chapter 5+6.md:369:- **SGS**: Implements systematic support reduction (S4 → S1 → S0), introduces fallback and minimum support mechanisms
+0_raw\Chapter 5+6.md:431:- **Statement**: In procedural cognitive tasks, through AI tools designed with beneficial friction (50–70% success rate, working assumption) + systematic support reduction ($S_4 \to S_1$), after collaborating for $W$ weeks, users' independent performance within the unplugged window will significantly exceed baseline ($P_2 \geq B_0 + \delta$).
+0_raw\Chapter 5+6.md:443:- **Statement**: Systematic support reduction ($S_4 \to S_1 \to S_0$) outperforms fixed support; systematic reduction group has significantly higher AVP pass rate and long-term retention.
+copies\CN_full_ch01.md:146:本研究提出**分层共生架构**（Layered Symbiosis Architecture, LSA）作为技术承载。第一章仅概述核心结构，详细实现见第五章：
+copies\CN_full_ch02.md:21:**Methods**: This paper proposes a Cognitive Capability Building and Assessment Theory (abbreviated as "this theory"), comprising three core mechanisms: (1) Antifragility Validation Principle (AVP)—verifying whether collaboration enhances independent capability through "unplugged tests" (criterion: P₂≥B₀+δ, δ≥0.3 SD or 10%, working hypothesis, requires cross-domain/task calibration); (2) Endosymbiotic Minimal Law (EML)—designing beneficial cognitive friction (50-70% success rate, working hypothesis, requires cross-domain/task calibration) and systematic support reduction (S4→S1); (3) Partner-like Agency—positioning AI as a cognitive partner. The theory adopts an interdisciplinary synthesis approach, integrating research from cognitive psychology, educational technology, organizational behavior, and AI ethics, validated through literature analysis, case studies, and conceptual modeling.
+copies\CN_full_ch02.md:21:**Methods**: This paper proposes a Cognitive Capability Building and Assessment Theory (abbreviated as "this theory"), comprising three core mechanisms: (1) Antifragility Validation Principle (AVP)—verifying whether collaboration enhances independent capability through "unplugged tests" (criterion: P₂≥B₀+δ, δ≥0.3 SD or 10%, working hypothesis, requires cross-domain/task calibration); (2) Endosymbiotic Minimal Law (EML)—designing beneficial cognitive friction (50-70% success rate, working hypothesis, requires cross-domain/task calibration) and systematic support reduction (S4→S1); (3) Partner-like Agency—positioning AI as a cognitive partner. The theory adopts an interdisciplinary synthesis approach, integrating research from cognitive psychology, educational technology, organizational behavior, and AI ethics, validated through literature analysis, case studies, and conceptual modeling.
+copies\CN_full_ch02.md:21:**Methods**: This paper proposes a Cognitive Capability Building and Assessment Theory (abbreviated as "this theory"), comprising three core mechanisms: (1) Antifragility Validation Principle (AVP)—verifying whether collaboration enhances independent capability through "unplugged tests" (criterion: P₂≥B₀+δ, δ≥0.3 SD or 10%, working hypothesis, requires cross-domain/task calibration); (2) Endosymbiotic Minimal Law (EML)—designing beneficial cognitive friction (50-70% success rate, working hypothesis, requires cross-domain/task calibration) and systematic support reduction (S4→S1); (3) Partner-like Agency—positioning AI as a cognitive partner. The theory adopts an interdisciplinary synthesis approach, integrating research from cognitive psychology, educational technology, organizational behavior, and AI ethics, validated through literature analysis, case studies, and conceptual modeling.
+copies\CN_full_ch02.md:23:**Results**: This paper establishes a four-layer cross-scale validation system (Individual I-AVP, Team T-AVP, Organizational O-AVP dual-threshold model: alert ≥0.70, target ≥0.85, working hypothesis, requires cross-domain/task calibration, Societal S-AVP), identifies two contrasting patterns—"cognitive exoskeleton" (over-reliance leading to capability degradation) versus "cognitive endosymbiosis" (continuous capability enhancement)—and designs a Layered Symbiosis Architecture (LSA) as an engineering implementation pathway. Through case analyses across three domains (writing, programming, team collaboration), the theory's explanatory and predictive power is validated. The study explicitly articulates six major limitations and eight falsifiable hypotheses (H1-H8), providing clear pathways for subsequent empirical research.
+copies\CN_full_ch02.md:23:**Results**: This paper establishes a four-layer cross-scale validation system (Individual I-AVP, Team T-AVP, Organizational O-AVP dual-threshold model: alert ≥0.70, target ≥0.85, working hypothesis, requires cross-domain/task calibration, Societal S-AVP), identifies two contrasting patterns—"cognitive exoskeleton" (over-reliance leading to capability degradation) versus "cognitive endosymbiosis" (continuous capability enhancement)—and designs a Layered Symbiosis Architecture (LSA) as an engineering implementation pathway. Through case analyses across three domains (writing, programming, team collaboration), the theory's explanatory and predictive power is validated. The study explicitly articulates six major limitations and eight falsifiable hypotheses (H1-H8), providing clear pathways for subsequent empirical research.
+copies\CN_full_ch02.md:23:**Results**: This paper establishes a four-layer cross-scale validation system (Individual I-AVP, Team T-AVP, Organizational O-AVP dual-threshold model: alert ≥0.70, target ≥0.85, working hypothesis, requires cross-domain/task calibration, Societal S-AVP), identifies two contrasting patterns—"cognitive exoskeleton" (over-reliance leading to capability degradation) versus "cognitive endosymbiosis" (continuous capability enhancement)—and designs a Layered Symbiosis Architecture (LSA) as an engineering implementation pathway. Through case analyses across three domains (writing, programming, team collaboration), the theory's explanatory and predictive power is validated. The study explicitly articulates six major limitations and eight falsifiable hypotheses (H1-H8), providing clear pathways for subsequent empirical research.
+copies\CN_full_ch04.md:214:EML的第一个设计必要条件是**有益认知摩擦**(Beneficial Cognitive Friction)。本节将阐释为什么"适度困难"是必要的,以及如何将其量化为可操作的设计参数。
+copies\CN_full_ch04.md:294:EML的第二个设计必要条件是**系统性支持削减**(Systematic Support Reduction)。本节阐释为什么支持必须削减,以及如何科学地实施削减。
+copies\CN_full_ch04.md:389:前两节聚焦"做什么"(AVP判据)和"怎么做"(EML条件),本节转向"为什么这样做有效"的哲学基础。我们提出**伙伴式主体性**(Partner-like Agency)作为认知内共生的本体论支柱。
+copies\CN_full_ch04.md:405:**CET提出的新范式:伙伴式主体性(Partner-like Agency)**
+copies\CN_full_ch06.md:5:本章提出**分层共生架构**（Layered Symbiosis Architecture, LSA）——一个将CET理论转化为可工程化系统的设计框架。LSA不是某个具体产品的蓝图，而是一套**设计原则和架构模式**，可应用于各类AI辅助工具（学习平台、编程助手、写作工具、决策支持系统等）的开发。
+copies\CN_full_ch06.md:24:| **LSA**             | Layered Symbiosis Architecture (分层共生架构) | 全局     |
+copies\CN_full_ch08.md:100:| **LSA**    | Layered Symbiosis Architecture     | 分层共生架构       | 1.3节    |
+copies\CN_full_ch08.md:181:| 认知内共生       | Cognitive Endosymbiosis            | -    | AI作为伙伴，通过摩擦与削减促进能力提升 | 3.0.4节 |
+copies\CN_full_ch08.md:182:| 认知外骨骼       | Cognitive Exoskeleton              | -    | 过度依赖AI导致独立能力退化的病理模式   | 3.0.6节 |
+copies\CN_full_ch08.md:185:| 伙伴式主体性     | Partner-like Agency                | -    | AI作为认知伙伴的理想角色定位           | 3.4节   |
+copies\CN_full_ch08.md:186:| 有益认知摩擦     | Beneficial Cognitive Friction      | -    | 适度挑战（50-70%成功率）促进能力增长   | 3.2节   |
+copies\CN_full_ch08.md:187:| 系统性支持削减   | Systematic Support Reduction       | -    | AI支持强度按曲线递减（S4→S1）          | 3.3节   |
+copies\CN_full_ch10.md:1128:**认知内共生（Cognitive Endosymbiosis）**
+copies\CN_full_ch10.md:1135:**认知外骨骼（Cognitive Exoskeleton）**
+copies\CN_full_ch10.md:1155:**伙伴式主体性（Partner-like Agency）**
+copies\CN_full_ch10.md:1161:**有益认知摩擦（Beneficial Cognitive Friction）**
+copies\CN_full_ch10.md:1168:**系统性支持削减（Systematic Support Reduction）**
+copies\CN_full_ch10.md:1242:| LSA    | Layered Symbiosis Architecture                      | 分层共生架构                             | 1.3节    |
+copies\EN_concise_main.md:1253:**è®¤çŸ¥å†…å…±ç”Ÿï¼ˆCognitive Endosymbiosisï¼‰**
+copies\EN_concise_main.md:1256:**è®¤çŸ¥å¤–éª¨éª¼ï¼ˆCognitive Exoskeletonï¼‰**
+copies\EN_concise_main.md:1265:**ä¼™ä¼´å¼ä¸»ä½“æ€§ï¼ˆPartner-like Agencyï¼‰**
+copies\EN_concise_main.md:1273:**æœ‰ç›Šè®¤çŸ¥æ‘©æ“¦ï¼ˆBeneficial Cognitive Frictionï¼‰**
+copies\EN_concise_main.md:1276:**ç³»ç»Ÿæ€§æ”¯æŒå‰Šå‡ï¼ˆSystematic Support Reductionï¼‰**
+copies\EN_concise_main.md:1333:**LSAåˆ†å±‚æž¶æž„ï¼ˆLayered Symbiosis Architectureï¼‰**
+copies\EN_full_appendix_seed.md:53:- Systematic support reduction:
+copies\EN_full_appendix_seed.md:194:- $P_2 \geq B_0 + \delta$: Success (Cognitive Endosymbiosis)
+copies\EN_full_appendix_seed.md:196:- $P_2 < B_0$: Failure (Cognitive Exoskeleton)
+copies\EN_full_ch04.md:12:**Key mechanisms**: Beneficial friction (50–70% success rate, working assumption) + Systematic support reduction (S4→S1→S0)
+copies\EN_full_ch05.md:3:The first four chapters established the theoretical foundation of CET; this chapter addresses the engineering question: How do we design an AI system that naturally conforms to EML principles? This chapter proposes the **Layered Symbiosis Architecture (LSA)**—a design framework that translates CET theory into engineerable systems.
+copies\EN_full_ch05.md:73:- Layered Symbiosis Architecture (LSA) - first occurrence with full name
+copies\EN_full_ch05.md:85:Given a user request and L1's raw output, how do we modulate it to satisfy EML Condition 1 (Beneficial Cognitive Friction)?
+copies\EN_full_ch05.md:139:Implements EML Condition 2 (Systematic Support Reduction), gradually decreasing from S4 → S1 → S0.
+copies\EN_full_ch05.md:369:- **SGS**: Implements systematic support reduction (S4 → S1 → S0), introduces fallback and minimum support mechanisms
+copies\EN_full_ch05.md:431:- **Statement**: In procedural cognitive tasks, through AI tools designed with beneficial friction (50–70% success rate, working assumption) + systematic support reduction ($S_4 \to S_1$), after collaborating for $W$ weeks, users' independent performance within the unplugged window will significantly exceed baseline ($P_2 \geq B_0 + \delta$).
+copies\EN_full_ch05.md:443:- **Statement**: Systematic support reduction ($S_4 \to S_1 \to S_0$) outperforms fixed support; systematic reduction group has significantly higher AVP pass rate and long-term retention.
+copies\EN_full_ch06.md:3:The first four chapters established the theoretical foundation of CET; this chapter addresses the engineering question: How do we design an AI system that naturally conforms to EML principles? This chapter proposes the **Layered Symbiosis Architecture (LSA)**—a design framework that translates CET theory into engineerable systems.
+copies\EN_full_ch06.md:73:- Layered Symbiosis Architecture (LSA) - first occurrence with full name
+copies\EN_full_ch06.md:85:Given a user request and L1's raw output, how do we modulate it to satisfy EML Condition 1 (Beneficial Cognitive Friction)?
+copies\EN_full_ch06.md:139:Implements EML Condition 2 (Systematic Support Reduction), gradually decreasing from S4 → S1 → S0.
+copies\EN_full_ch06.md:369:- **SGS**: Implements systematic support reduction (S4 → S1 → S0), introduces fallback and minimum support mechanisms
+copies\EN_full_ch06.md:431:- **Statement**: In procedural cognitive tasks, through AI tools designed with beneficial friction (50–70% success rate, working assumption) + systematic support reduction ($S_4 \to S_1$), after collaborating for $W$ weeks, users' independent performance within the unplugged window will significantly exceed baseline ($P_2 \geq B_0 + \delta$).
+copies\EN_full_ch06.md:443:- **Statement**: Systematic support reduction ($S_4 \to S_1 \to S_0$) outperforms fixed support; systematic reduction group has significantly higher AVP pass rate and long-term retention.
+copies\EN_full_part_A.md:1:# Human Capability Construction and Cognitive Resilience in the AI Era: A Theory of Cognitive Endosymbiosis Based on the Antifragility Validation Principle
+copies\EN_full_part_A.md:13:Large language models and other AI tools are profoundly reshaping human work practices, yet their long-term impact on independent capabilities remains unclear. This study proposes the Cognitive Endosymbiosis Theory (CET), which measures whether independent capabilities are enhanced or degraded by AI assistance through the "Antifragility Validation Principle" (AVP). The research establishes a five-anchor measurement framework (B1-B5) and proposes design principles through the "Endosymbiotic Minimal Law" (EML), which promotes capability internalization via beneficial friction (50$\text{–}$70% success rate, working assumption) and systematic support reduction (S4$\rightarrow$S1$\rightarrow$S0). The core criterion: $P_2 \geq B_0 + \delta$ (post-unplugged capability must exceed baseline). The theory presents eight falsifiable hypotheses, explicitly defines applicability boundaries, and commits to open science validation (see Appendix B; Section 3.0 anchor texts).
+copies\EN_full_part_A.md:13:Large language models and other AI tools are profoundly reshaping human work practices, yet their long-term impact on independent capabilities remains unclear. This study proposes the Cognitive Endosymbiosis Theory (CET), which measures whether independent capabilities are enhanced or degraded by AI assistance through the "Antifragility Validation Principle" (AVP). The research establishes a five-anchor measurement framework (B1-B5) and proposes design principles through the "Endosymbiotic Minimal Law" (EML), which promotes capability internalization via beneficial friction (50$\text{–}$70% success rate, working assumption) and systematic support reduction (S4$\rightarrow$S1$\rightarrow$S0). The core criterion: $P_2 \geq B_0 + \delta$ (post-unplugged capability must exceed baseline). The theory presents eight falsifiable hypotheses, explicitly defines applicability boundaries, and commits to open science validation (see Appendix B; Section 3.0 anchor texts).
+copies\EN_full_part_A.md:15:**Keywords**: Cognitive Endosymbiosis; Cognitive Exoskeleton; Antifragility Validation; Beneficial Cognitive Friction; Human-AI Collaboration; Cognitive Sustainability
+copies\EN_full_part_A.md:15:**Keywords**: Cognitive Endosymbiosis; Cognitive Exoskeleton; Antifragility Validation; Beneficial Cognitive Friction; Human-AI Collaboration; Cognitive Sustainability
+copies\EN_full_part_A.md:15:**Keywords**: Cognitive Endosymbiosis; Cognitive Exoskeleton; Antifragility Validation; Beneficial Cognitive Friction; Human-AI Collaboration; Cognitive Sustainability
+copies\EN_full_part_A.md:36:- 3.2 Beneficial Cognitive Friction Mechanism
+copies\EN_full_part_A.md:37:- 3.3 Systematic Support Reduction
+copies\EN_full_part_A.md:38:- 3.4 Partner-like Agency
+copies\EN_full_part_A.md:85:- **Cognitive Exoskeleton mode**: Independent performance significantly declines ($P_2 < B_0$), permanent AI dependency
+copies\EN_full_part_A.md:86:- **Cognitive Endosymbiosis mode**: Independent performance exceeds original level ($P_2 \geq B_0 + \delta$), AI use strengthens underlying capabilities
+copies\EN_full_part_A.md:106:This study proposes the Cognitive Endosymbiosis Theory (CET), filling the theoretical gaps outlined above:
+copies\EN_full_part_A.md:118:- $P_2 \geq B_0 + \delta$: Success (Cognitive Endosymbiosis)
+copies\EN_full_part_A.md:120:- $P_2 < B_0$: Failure (Cognitive Exoskeleton)
+copies\EN_full_part_A.md:124:> **Endosymbiotic Minimal Law (EML)**: The necessary design conditions for constituting "Cognitive Endosymbiosis" are:
+copies\EN_full_part_A.md:126:> (1) **Beneficial Cognitive Friction**: Placing users in the optimal challenge zone (50$\text{–}$70% success rate, working assumption; individual adaptation required)
+copies\EN_full_part_A.md:128:> (2) **Systematic Support Reduction**: AI support intensity gradually decreases from S4$\rightarrow$S1$\rightarrow$S0 according to a reduction curve
+copies\EN_full_part_A.md:134:### 1.3.3 AI Role Reconstruction: Partner-like Agency
+copies\EN_full_part_A.md:136:Reshaping AI from a passive tool into a cognitive endosymbiont with **"Partner-like Agency"** (see §3.4; Term map), including three operationalizable anchors:
+copies\EN_full_part_A.md:139:2. **Scaffolding fadeout**: Follows systematic support reduction curve
+copies\EN_full_part_A.md:142:### 1.3.4 Technical Implementation: Layered Symbiosis Architecture (LSA)
+copies\EN_full_part_A.md:150:**Cognitive Exoskeleton vs Cognitive Endosymbiosis Core Comparison**:
+copies\EN_full_part_A.md:150:**Cognitive Exoskeleton vs Cognitive Endosymbiosis Core Comparison**:
+copies\EN_full_part_A.md:152:| Dimension          | Cognitive Exoskeleton  | Cognitive Endosymbiosis         |
+copies\EN_full_part_A.md:152:| Dimension          | Cognitive Exoskeleton  | Cognitive Endosymbiosis         |
+copies\EN_full_part_B.md:32:**CET's reconstruction**: From "functional parity" to "process parity"—not only "does the tool help complete tasks" but also "does tool use promote capability enhancement." AVP supplies a falsifiable boundary: $P_2 \geq B_0 + \delta$ (benign) vs. $P_2 < B_0$ (pathological). EML's systematic support reduction (S4$\rightarrow$S1$\rightarrow$S0) helps ensure extension is temporary scaffolding rather than a permanent crutch.
+copies\EN_full_part_B.md:36:**Automation paradox** (Bainbridge, 1983): The more perfect the automation, the worse operators' capabilities when intervention is needed. Aviation case (Air France Flight 447): Pilots operated normally under autopilot ($P_1$ high) but lacked manual proficiency when the system failed ($P_2$ low). This "permanent support → capability degradation" pattern is the "Cognitive Exoskeleton" CET warns against.
+copies\EN_full_part_B.md:38:**Scaffolding theory** (Wood et al., 1976; Vygotsky, 1978): Effective instructional support is temporary, with systematic support reduction (S4$\rightarrow$S1$\rightarrow$S0).
+copies\EN_full_part_B.md:41:**Systematic support reduction (S4$\rightarrow$S1$\rightarrow$S0)**: Reduce support as capability improves.
+copies\EN_full_part_B.md:44:**Comparative insight**: Automation paradox (permanent support → degradation) vs. scaffolding (systematic reduction → independence) jointly support EML Condition 2 (systematic support reduction).
+copies\EN_full_part_B.md:60:1. **Negative-warning convergence**: Cognitive offloading (GPS), automation (pilot skills), neuroplasticity (use-dependent atrophy)—three independent lines all highlight "permanent dependency → capability atrophy," supporting CET's critique of the Cognitive Exoskeleton.
+copies\EN_full_part_B.md:61:2. **Positive-path convergence**: Scaffolding (pedagogy), desirable difficulties (cognitive psychology), neuroplasticity (taxi drivers)—all point to "moderate challenge + systematic support reduction (S4$\rightarrow$S1$\rightarrow$S0)," supporting EML's two conditions.
+copies\EN_full_part_C.md:3:This chapter systematically explicates the core mechanisms of CET: How is the AVP criterion operationalized? What is the internal logic of EML's conditions? How are the two unified through Partner-like Agency?
+copies\EN_full_part_C.md:21:| Success-rate target | Quantitative target for beneficial cognitive friction | 50$\text{–}$70% (working assumption; population-level; individual calibration required) |
+copies\EN_full_part_C.md:32:> **Endosymbiotic Minimal Law (EML).** The **necessary design conditions** for constituting "Cognitive Endosymbiosis" are:
+copies\EN_full_part_C.md:33:> (1) **Beneficial Cognitive Friction:** Place users in the **optimal challenge zone** (population-level working assumption: 50$\text{–}$70% success rate; individual adaptation required);
+copies\EN_full_part_C.md:34:> (2) **Systematic Support Reduction:** Decrease AI support intensity from S4→S1→S0 according to a **reduction curve**.
+copies\EN_full_part_C.md:66:$P_2 \geq B_0 + \delta$: Success (Cognitive Endosymbiosis);
+copies\EN_full_part_C.md:68:$P_2 < B_0$: Failure (Cognitive Exoskeleton).
+copies\EN_full_part_C.md:79:## 3.2 Beneficial Cognitive Friction Mechanism
+copies\EN_full_part_C.md:107:## 3.3 Systematic Support Reduction
+copies\EN_full_part_C.md:148:## 3.4 Partner-like Agency: Reconstructing AI's Role
+copies\EN_full_part_C.md:176:Partner-like Agency **does not imply anthropomorphization**. We require AI to **functionally** promote growth, not to mimic human traits.
+copies\EN_full_part_C.md:183:## 3.5 Cognitive Exoskeleton: Warning Signals
+copies\EN_full_part_C.md:207:3) **Role reconstruction:** Partner-like Agency reframes AI's function;
+copies\EN_full_part_C.md:210:**Logical completeness.** **AVP (evaluation) + EML (design) + Partner-like Agency (foundation)** form CET's core architecture: AVP answers **what is good**, EML answers **how to achieve**, Partner-like Agency answers **why it is effective**.
+copies\EN_full_part_C.md:210:**Logical completeness.** **AVP (evaluation) + EML (design) + Partner-like Agency (foundation)** form CET's core architecture: AVP answers **what is good**, EML answers **how to achieve**, Partner-like Agency answers **why it is effective**.
+0_raw\AppendixA.md:47:**Statement**: In procedural cognitive tasks, AI tools designed with beneficial friction (50–70% success rate, working assumption) + systematic support reduction (S4→S1→S0) will result in users' independent performance significantly exceeding baseline after W weeks of collaboration (P₂ ≥ B₀ + δ; see §3.0.2).
+0_raw\AppendixA.md:57:**Statement**: An "optimal challenge zone" exists (50–70% success rate, working assumption); within this zone, user capability enhancement (P₂ - B₀) is maximized.
+0_raw\AppendixA.md:59:**Falsification condition**: Prove friction intensity and capability enhancement have a linear relationship (no inverted-U curve), or optimal zone significantly deviates from 50–70%.
+0_raw\AppendixA.md:103:An assessment standard that uses the Unplugged Test to verify whether human-AI collaboration promotes independent capability. Core criterion: P₂ ≥ B₀ + δ, where B₀ is baseline capability, P₂ is independent performance after unplugging, and δ is minimum meaningful lift threshold (Cohen's d ≥ 0.3 or relative improvement ≥ 10%, working assumption). P₁ (collaboration performance) does not participate in final judgment. First appearance: Section 1.3, complete definition: Section 3.0.2 (AVP definition Anchor B1).
+0_raw\AppendixA.md:103:An assessment standard that uses the Unplugged Test to verify whether human-AI collaboration promotes independent capability. Core criterion: P₂ ≥ B₀ + δ, where B₀ is baseline capability, P₂ is independent performance after unplugging, and δ is minimum meaningful lift threshold (Cohen's d ≥ 0.3 or relative improvement ≥ 10%, working assumption). P₁ (collaboration performance) does not participate in final judgment. First appearance: Section 1.3, complete definition: Section 3.0.2 (AVP definition Anchor B1).
+0_raw\AppendixA.md:107:Design necessary conditions for constituting Cognitive Endosymbiosis: ① Beneficial Cognitive Friction (optimal challenge zone, 50–70% success rate, working assumption) ② Systematic Support Reduction (S4→S1→S0). These two constitute jointly sufficient design conditions, but ultimately still require AVP (P₂ ≥ B₀ + δ) as the necessary acceptance criterion. First appearance: Section 1.3, complete definition: Section 3.0.3 (EML definition Anchor B2).
+0_raw\AppendixA.md:115:A standardized testing method that measures independent capability in an AI-free environment. Key elements: ① Equivalence (same task difficulty) ② Unplugged window W (4–8 weeks, default 6 weeks, working assumption) ③ Violation monitoring. Purpose: validate whether AI collaboration promotes capability internalization. First appearance: Section 3.1, measurement protocol: Appendix D.
+0_raw\AppendixA.md:123:A design strategy where moderate challenge (target success rate 50–70%, working assumption; requires cross-domain/task calibration; individual adaptation required) promotes capability growth. Three types: ① Completeness friction (leave blanks for users to fill) ② Abstraction friction (provide concepts rather than steps) ③ Delayed-feedback friction (delay feedback to enforce independent thinking). Theoretical foundation: flow theory + Zone of Proximal Development (ZPD). First appearance: Section 3.2.
+0_raw\AppendixA.md:131:To promote long-term retention and transfer, the system should adaptively adjust task difficulty/prompt intensity to a 50–70% success rate (working assumption; requires cross-domain/task calibration; population-level; individual calibration required). >85% approaches offloading, <30% risks frustration, 50–70% optimal balance. Theoretical source: Vygotsky's Zone of Proximal Development (ZPD). First appearance: Section 3.2, definition anchor: Section 3.0.5 (B4).
+0_raw\AppendixA.md:131:To promote long-term retention and transfer, the system should adaptively adjust task difficulty/prompt intensity to a 50–70% success rate (working assumption; requires cross-domain/task calibration; population-level; individual calibration required). >85% approaches offloading, <30% risks frustration, 50–70% optimal balance. Theoretical source: Vygotsky's Zone of Proximal Development (ZPD). First appearance: Section 3.2, definition anchor: Section 3.0.5 (B4).
+0_raw\AppendixA.md:163:User's independent task performance after the unplugged window (W = 4–8 weeks, default 6 weeks; working assumption), the core indicator of AVP validation. Measurement requirements: equivalent parallel test, AI-free environment, blind evaluation. Judgment: P₂ ≥ B₀ + δ is success. First appearance: Section 3.0.2.
+0_raw\AppendixA.md:167:The minimum threshold for judging whether capability improvement is meaningful. Working assumption: Cohen's d ≥ 0.3 or relative improvement ≥ 10% (requires cross-domain/task calibration). Selection basis: ① Statistical significance (small-to-medium effect) ② Measurement error tolerance ③ Cross-domain comparability. Different tasks may require adjustment: high-risk tasks Cohen's d ≥ 0.5, low-risk tasks ≥ 0.2. First appearance: Section 3.0.2, calibration: Section 3.1.
+0_raw\AppendixA.md:167:The minimum threshold for judging whether capability improvement is meaningful. Working assumption: Cohen's d ≥ 0.3 or relative improvement ≥ 10% (requires cross-domain/task calibration). Selection basis: ① Statistical significance (small-to-medium effect) ② Measurement error tolerance ③ Cross-domain comparability. Different tasks may require adjustment: high-risk tasks Cohen's d ≥ 0.5, low-risk tasks ≥ 0.2. First appearance: Section 3.0.2, calibration: Section 3.1.
+0_raw\AppendixA.md:171:The time window for complete cessation of AI use, used to measure whether capability is internalized. Working assumption: 4–8 weeks (default 6 weeks; requires cross-domain/task calibration). Selection basis: balance capability stability with environmental factor control. Different tasks may require adjustment: fast skills 4 weeks, complex skills 8–12 weeks, professional capabilities several months. First appearance: Section 3.0.2, calibration: Section 3.1.
+0_raw\AppendixA.md:183:Individual-level antifragility validation. Core criterion: P₂ ≥ B₀ + δ. Applicable scenarios: learning tools, skill training, personal productivity tools. Measurement method: standard Unplugged Test (W = 4–8 weeks). This is CET's foundational scale; other scales extend from this. First appearance: Section 4.1.
+0_raw\AppendixA.md:187:Team-level antifragility validation. Core criterion: P₂,team ≥ B₀,team + δ_team (Cohen's d ≥ 0.3; population-level; working assumption). Key finding: even when all members pass I-AVP, team level may still fail (emergence). Failure modes: capability polarization, tacit knowledge loss, role rigidity. Measurement method: collective Unplugged Test (W = 4–8 weeks). First appearance: Section 4.1.
+0_raw\AppendixA.md:187:Team-level antifragility validation. Core criterion: P₂,team ≥ B₀,team + δ_team (Cohen's d ≥ 0.3; population-level; working assumption). Key finding: even when all members pass I-AVP, team level may still fail (emergence). Failure modes: capability polarization, tacit knowledge loss, role rigidity. Measurement method: collective Unplugged Test (W = 4–8 weeks). First appearance: Section 4.1.
+0_raw\AppendixA.md:211:Cognitive Friction Engine, an L2 layer module of LSA. Function: dynamically adjust AI response's completeness, abstraction, and delay based on user capability, maintaining 50–70% success rate (working assumption). Strategies: ① Completeness friction (partial answers) ② Abstraction friction (conceptual guidance) ③ Delayed-feedback friction (delayed feedback) ④ Adaptive friction (adjust based on C(t)). First appearance: Section 5.2.
+0_raw\ARVIX2025A.md:15:大语言模型等AI工具正深刻改变人类工作方式，但其对独立能力的长期影响尚不明确。本研究提出认知能力迁移理论（CET），通过“反脆弱性验证原则”（AVP）测量独立能力是否因AI辅助而提升或退化。研究建立了五层认知锚点（B1-B5）测量框架，提出“内共生最小法则"（EML）设计原则，通过有益摩擦（50-70%成功率，工作假设）和系统性支持削减（S4→S1→0）促进能力内化。核心判据：$P_2 \geq B_0 + \delta$（拔线后能力需超越基线）。理论提出8个可证伪假说，明确适用边界，承诺开放科学验证。
+0_raw\ARVIX2025A.md:125:> （1）**有益认知摩擦**：使用户处于最优挑战区（成功率50-70%，工作假设，个体自适应）
+0_raw\ARVIX2025A.md:154:| 认知摩擦 | 最小化 | 优化（50-70%） |
+0_raw\ARVIX2025A.md:177:1. 所有量化参数（$\delta \geq 0.3SD$、成功率50-70%、W=4–8周）均为**概念工作模型**，基于认知心理学和教育测量学文献的合理推断，需跨领域校准和实证检验。
+0_raw\ARVIX2025A.md:248:**最优挑战区**：Vygotsky的最近发展区（ZPD）启发CET量化为**50-70%成功率**（工作假设，群体级，个体需动态校准）。<30%过度挫败，>85%接近卸载，50-70%最优平衡。
+0_raw\ARVIX2025A.md:248:**最优挑战区**：Vygotsky的最近发展区（ZPD）启发CET量化为**50-70%成功率**（工作假设，群体级，个体需动态校准）。<30%过度挫败，>85%接近卸载，50-70%最优平衡。
+0_raw\ARVIX2025A.md:250:**CET的转化**：神经科学和认知训练证据转化为三个可操作设计旋钮——①摩擦旋钮（50-70%成功率），②削减旋钮（S4→S1→0），③验证闭环（$P_2 \geq B_0 + \delta$）。
+0_raw\ARVIX2025A.md:286:| **成功率目标** | 有益认知摩擦的量化目标 | 50-70%（工作假设，需跨领域/任务校准，群体级，个体需校准） |
+0_raw\ARVIX2025A.md:300:> （1）**有益认知摩擦**：使用户处于**最优挑战区**（群体级工作假设成功率50-70%，个体自适应）；
+0_raw\ARVIX2025A.md:317:**成功率50-70%**（工作假设，随任务与个体校准）；
+0_raw\ARVIX2025A.md:365:### 3.2.2 最优挑战区：50-70%成功率
+0_raw\ARVIX2025A.md:367:**Vygotsky的最近发展区（ZPD）的启发**：CET将其量化为**最优挑战区**——目标成功率50-70%（工作假设，需跨领域/任务校准，群体级，个体需动态校准）。
+0_raw\ARVIX2025A.md:372:- **50-70%**：最优平衡——足够挑战但不致挫败
+0_raw\ARVIX2025A.md:375:**个体差异调整**：50-70%是**群体级目标**，个体的最优区间需根据基础能力、动机水平、任务焦虑、实时状态进行自适应调整。
+0_raw\ARVIX2025B.md:9:**核心判据**：$P_2 \geq B_0 + \delta$（拔线后能力超越基线） **关键机制**：有益摩擦（50-70%成功率，工作假设）+ 系统性支持削减（S4→S1→0） **适用场景**：学习工具、技能训练、个人生产力工具
+0_raw\ARVIX2025B.md:300:- 目标：维持在50-70%区间（工作假设）
+0_raw\ARVIX2025B.md:310:# 目标区间：50-70%（工作假设）
+0_raw\ARVIX2025BEN.md:52:**Optimal challenge zone**: Inspired by the Zone of Proximal Development (ZPD), CET quantifies a 50–70% success rate (working assumption, population-level, with individual calibration). <30% risks frustration; >85% approaches offloading; 50–70% balances difficulty and growth.
+0_raw\ARVIX2025BEN.md:52:**Optimal challenge zone**: Inspired by the Zone of Proximal Development (ZPD), CET quantifies a 50–70% success rate (working assumption, population-level, with individual calibration). <30% risks frustration; >85% approaches offloading; 50–70% balances difficulty and growth.
+0_raw\ARVIX2025BEN.md:54:**CET's transformation**: Converts evidence into three design knobs—① friction (50–70% success rate, working assumption), ② reduction (S4$\rightarrow$S1$\rightarrow$S0), ③ validation ($P_2 \geq B_0 + \delta$).
+0_raw\ARVIX2025C.md:25:所有量化参数均为**概念工作模型**：$\delta \geq 0.3SD$或10%（工作假设）、成功率50-70%（工作假设）、W=4-8周（默认6周，工作假设）。这些参数基于认知心理学和教育测量学文献的合理推断，但需跨领域校准和实证检验。不同领域（编程vs写作vs数学）的最优参数可能显著不同。
+0_raw\ARVIX2025C.md:47:- **声明**：在程序性认知任务中，通过有益摩擦（50-70%成功率，工作假设）+ 系统性支持削减（$S_4 \to S_1$）设计的AI工具，协作W周后，用户在拔线窗口内的独立表现将显著优于基线（$P_2 \geq B_0 + \delta$）。
+0_raw\ARVIX2025C.md:53:- **声明**：存在“最优挑战区"（50-70%成功率，工作假设），在此区间内用户能力提升（$P_2$-$B_0$）最大化。
+0_raw\ARVIX2025C.md:54:- **证伪条件**：证明摩擦强度与能力提升呈线性关系（无倒U曲线），或最优区间显著偏离50-70%。
+0_raw\ARVIX2025C.md:195:构成认知内共生的设计必要条件：①有益认知摩擦（最优挑战区，成功率50-70%，工作假设）②系统性支持削减（$S_4 \to S_1 \to 0$）。二者为联合充分的设计条件，但最终需AVP（$P_2 \geq B_0 + \delta$）作为验收必要条件。首次出现：1.3节，完整定义：3.0.3节（EML定义锚点B2）。
+0_raw\ARVIX2025C.md:206:适度挑战（目标成功率50-70%，工作假设，需跨领域/任务校准，个体需自适应）促进能力增长的设计策略。三种类型：①完整性摩擦（留空白让用户填充）②抽象性摩擦（提供概念而非步骤）③延迟性摩擦（延迟反馈强制独立思考）。理论基础：心流理论+最近发展区（ZPD）。首次出现：3.2节。
+0_raw\ARVIX2025C.md:212:为促成长期保持与迁移，系统应将任务难度/提示强度自适应调至成功率50-70%（工作假设，需跨领域/任务校准，群体级，个体需校准）。>85%近似卸载，<30%易致挫败，50-70%最优平衡。理论来源：Vygotsky的最近发展区（ZPD）。首次出现：3.2节，定义锚点：3.0.5节（B4）。
+0_raw\ARVIX2025C.md:212:为促成长期保持与迁移，系统应将任务难度/提示强度自适应调至成功率50-70%（工作假设，需跨领域/任务校准，群体级，个体需校准）。>85%近似卸载，<30%易致挫败，50-70%最优平衡。理论来源：Vygotsky的最近发展区（ZPD）。首次出现：3.2节，定义锚点：3.0.5节（B4）。
+0_raw\ARVIX2025C.md:269:认知摩擦引擎，LSA的L2层模块。功能：根据用户能力动态调整AI响应的完整性、抽象性、延迟性，维持50-70%成功率（工作假设）。策略：①完整性摩擦（部分答案）②抽象性摩擦（概念指导）③延迟性摩擦（延迟反馈）④自适应摩擦（根据C(t)调整）。首次出现：5.2节。
+0_raw\ARVIX2025CEN.md:19:| $W$ | Unplugged window duration | Working assumption: 4–8 weeks (default 6 weeks; requires cross-domain/task calibration) |
+0_raw\ARVIX2025D.md:10:| **最优挑战区** | 50-70%成功率（工作假设，需跨领域/任务校准，群体级，个体需校准） | 3.2.1节 | 3.2.1节 | 5.2/附录D | 个体自适应；任务特定校准 |
+0_raw\ARVIX2025D.md:50:- 维持成功率55-65%（接近目标50-70%）
+0_raw\ARVIX2025D.md:66:- 50-70%成功率（工作假设）是关键平衡点：既有挑战又不挫败
+0_raw\ARVIX2025D.md:160:- 有益摩擦：目标成功率50-70%（工作假设，需跨领域/任务校准，个体需自适应）
+0_raw\ARVIX2025D.md:173:- 确认实验组摩擦强度在50-70%（允许±5%波动）
+0_raw\ARVIX2025DEN.md:9:| **W Window** | 4–8 weeks (default 6 weeks; working assumption) | Section 3.0.2 | Section 3.0.2 | 3.1/4.1/Appendix D | Fast skills 4 weeks; Complex skills 8–12 weeks |
+0_raw\ARVIX2025DEN.md:141:- [ ] W window: 4–8 weeks (default 6 weeks; working assumption)
+0_raw\ARVIX2025DEN.md:275:W (unplugged window) has a default working assumption of 4–8 weeks (default 6 weeks), but needs adjustment based on task complexity:
+0_raw\CETG1.md:120:> （1）**有益认知摩擦**：使用户处于**最优挑战区**（成功率50-70%，工作假设，需跨领域/任务校准，个体自适应）
+0_raw\CETG1.md:157:| 认知摩擦  | 最小化       | 优化（50-70%，工作假设） |
+0_raw\CETG1.md:190:1. 本文使用的所有量化参数（如δ≥0.3 SD 或 10%，成功率50-70%，拔线窗口W=4-8周，默认6周）均为**概念工作模型**，基于认知心理学和教育测量学文献的合理推断，但需要跨领域校准和实证检验。
+0_raw\CETG10.md:7:**研究方法**：本文提出认知能力建构与评估理论（简称"本理论"），核心包括三大机制：（1）反脆弱性验证原则（AVP）——通过"拔线测试"检验协作是否促进独立能力（判据：P₂≥B₀+δ：≥0.3 SD 或 10%（工作假设，需跨领域/任务校准） SD 或 10%，工作假设，需跨领域/任务校准）；（2）内共生最小法则（EML）——设计有益认知摩擦（50-70%成功率，工作假设，需跨领域/任务校准）与系统性支持削减（S4→S1）；（3）伙伴式主体性——AI作为认知伙伴的角色定位。理论采用跨学科综合方法，整合认知心理学、教育技术、组织行为学和AI伦理的研究成果，并通过文献分析、案例研究和概念建模进行验证。
+0_raw\CETG10.md:21:**Methods**: This paper proposes a Cognitive Capability Building and Assessment Theory (abbreviated as "this theory"), comprising three core mechanisms: (1) Antifragility Validation Principle (AVP)—verifying whether collaboration enhances independent capability through "unplugged tests" (criterion: P₂≥B₀+δ, δ≥0.3 SD or 10%, working hypothesis, requires cross-domain/task calibration); (2) Endosymbiotic Minimal Law (EML)—designing beneficial cognitive friction (50-70% success rate, working hypothesis, requires cross-domain/task calibration) and systematic support reduction (S4→S1); (3) Partner-like Agency—positioning AI as a cognitive partner. The theory adopts an interdisciplinary synthesis approach, integrating research from cognitive psychology, educational technology, organizational behavior, and AI ethics, validated through literature analysis, case studies, and conceptual modeling.
+0_raw\CETG2.md:206:认知负荷理论（Cognitive Load Theory,Sweller, 1988）和教育心理学研究提示,学习任务的成功率50-70%（工作假设，需跨领域/任务校准）**区间时,学习效果最优（工作假设，需跨领域/任务校准，基于多个独立研究的方向性证据）:
+0_raw\CETG2.md:209:- **50-70%成功率**:适度困难,促进深度加工和模式学习
+0_raw\CETG2.md:228:1. **摩擦旋钮**:通过自适应算法将任务难度维持在**成功率50-70%**的最优挑战区（工作假设，需跨领域/任务校准，个体需动态校准）
+0_raw\CETG2.md:251:| **神经可塑性与训练**<br>(2.4节) | 用进废退的双向性；最优挑战区（50-70%）；挑战是必要条件       | • EML条件1（有益认知摩擦）<br>• 适度挑战的神经机制     | 实证（神经+行为） |
+0_raw\CETG2.md:289:- 条件1:有益认知摩擦（目标成功率50-70%，工作假设，需跨领域/任务校准，需动态调整）
+0_raw\CETG3.md:27:| **成功率目标** | 有益认知摩擦的量化目标 | 50-70%（工作假设，需跨领域/任务校准）（工作假设，需跨领域/任务校准，群体级，个体需校准） |
+0_raw\CETG3.md:41:> （1）**有益认知摩擦**：使用户处于**最优挑战区**（群体级工作假设成功率 50–70%，个体自适应）；
+0_raw\CETG3.md:57:> **最优挑战区**：为促成长期保持与迁移，系统应将任务难度/提示强度自适应调至**成功率 50–70%**（工作假设，随任务与个体校准）；>85% 近似卸载、<30% 易致挫败。
+0_raw\CETG3.md:187:- **认知技能**(如编程、写作):d≥0.3 SD或≥10%相对提升
+0_raw\CETG3.md:234:### 3.2.2 最优挑战区:50-70%成功率的量化目标
+0_raw\CETG3.md:240:> 目标成功率50-70%（工作假设，需跨领域/任务校准）**（工作假设，需跨领域/任务校准，群体级，个体需动态校准）
+0_raw\CETG3.md:246:- **50-70%**:最优平衡——足够挑战但不致挫败
+0_raw\CETG3.md:252:50-70%是**群体级目标**,个体的最优区间需要根据以下因素自适应调整:
+0_raw\CETG3.md:268:- 保持在目标区间50-70%
+0_raw\CETG5.md:252:1. **有益认知摩擦**：任务成功率50-70%（工作假设，需跨领域/任务校准，群体级，个体自适应），动态调整
+0_raw\CETG5.md:321:- 目标：维持在50-70%区间（工作假设，需校准）
+0_raw\CETG5.md:337:# 目标区间：50-70%（群体级工作假设）
+0_raw\CETG5.md:1334:**当前状态**：使用启发式规则（50-70%成功率，工作假设）
+0_raw\CETG6.md:96:> CET的核心洞察(认知卸载→能力退化)可能在多种任务中成立,但AVP/EML的具体操作化需要针对任务类型进行调整。本论文提供的测量协议和参数(如50-70%成功率,工作假设)主要基于程序性认知任务的证据。
+0_raw\CETG6.md:526:在程序性认知任务中,通过有益摩擦(F=50-70%成功率,工作假设)
+0_raw\CETG6.md:542:执行忠实度:记录EML条件的达成率(如削减曲线按计划执行比例、观察到的实际成功率是否落在50–70%区间)。
+0_raw\CETG6.md:567:存在一个"最优挑战区"(50-70%成功率,工作假设),在此区间内,
+0_raw\CETG6.md:573:- 或证明最优区间显著偏离50-70%(如最优点在20%或90%)
+0_raw\CETG6.md:582:- 倒U型曲线,峰值在50-70%区间(工作假设)
+0_raw\CETG6.md:612:- 削减组>固定组(Cohen's d ≥ 0.3)
+0_raw\CETG6.md:825:**目标**: 确定"50-70%成功率"、"S4→S1削减"是否最优(工作假设)
+0_raw\CETG7.md:36:> （1）**有益认知摩擦**：使用户处于**最优挑战区**（群体级工作假设成功率50–70%，需跨领域/任务校准，个体自适应）
+0_raw\CETG7.md:62:> **最优挑战区**：为促成长期保持与迁移，系统应将任务难度/提示强度自适应调至**成功率50–70%**（工作假设，需跨领域/任务校准，随任务与个体校准）；>85%近似卸载、<30%易致挫败。
+0_raw\CETG7.md:82:| **最优挑战区**   | 成功率区间 | 50-70%（工作假设，需跨领域/任务校准）<br>（工作假设，需跨领域/任务校准）              | 心流理论+最近发展区(ZPD)   | 个体自适应；<br>任务特定校准；<br>文化敏感性调整             |
+0_raw\CETG7.md:186:| 有益认知摩擦     | Beneficial Cognitive Friction      | -    | 适度挑战（50-70%成功率）促进能力增长   | 3.2节   |
+0_raw\CETG7.md:225:| **最优挑战区**    | 50-70%成功率<br>（工作假设，需跨领域/任务校准）         | 3.2.1节  | 3.2.1节  | 5.2/附录A       |
+0_raw\CETG8.md:36:| **摩擦策略** | 零摩擦（即时满足）<br>成功率>85%  | 有益摩擦（适度挑战）<br>成功率50-70%* |
+0_raw\CETG8.md:167:│    │      - 有益摩擦（50-70%成功率）*
+0_raw\CETG9.md:115:- 有益摩擦：目标成功率50-70%（工作假设，需跨领域/任务校准）*
+0_raw\CETG9.md:130:• 确认实验组摩擦强度在50-70%（允许±5%波动）
+0_raw\CETG9.md:345:- ✓ 50-70%成功率来自**心流理论**和**最近发展区**的跨领域类比
+0_raw\CETG9.md:661:- **目标成功率50-70%（工作假设，需跨领域/任务校准）（工作假设，需跨领域/任务校准，实际监测：60%左右波动）
+0_raw\CETG9.md:720:- 关键：保持50-70%成功率，避免过度挫败
+0_raw\CETG9.md:745:- 建议：专家用户提高目标成功率50-70%（工作假设，需跨领域/任务校准）上限（工作假设，需跨领域/任务校准），或增加任务难度
+0_raw\CETG9.md:961:- 借鉴了Vygotsky的最近发展区（ZPD）概念（50-70%挑战区）
+0_raw\CETG9.md:983:> CET回应：监测成功率（目标50-70%区间，工作假设，需跨领域/任务校准）和能力向量C(t)的变化趋势。
+0_raw\CETG9.md:1151:- **核心定义**：构成认知内共生的设计必要条件：①有益认知摩擦（50-70%成功率） ②系统性支持削减（S4→S1）（见3.0.3节EML定义锚点B2）
+0_raw\CETG9.md:1163:- **核心定义**：适度挑战（目标成功率50-70%，工作假设，需跨领域/任务校准）促进能力增长的设计策略
+0_raw\Chapter 4.md:12:**Key mechanisms**: Beneficial friction (50–70% success rate, working assumption) + Systematic support reduction (S4→S1→S0)
+0_raw\Chapter 5+6.md:110:- Target: Maintain 50–70% range (working assumption)
+0_raw\Chapter 5+6.md:120:# Target range: 50–70% (working assumption)
+0_raw\Chapter 5+6.md:409:All quantitative parameters are **conceptual working models**: $\delta \geq 0.3,\mathrm{SD}$ or 10% (working assumption), success rate 50–70% (working assumption), $W = 4\text{–}8$ weeks (default 6 weeks, working assumption). These parameters are based on reasonable inferences from cognitive psychology and educational measurement literature but require cross-domain calibration and empirical validation. Optimal parameters for different domains (programming vs. writing vs. mathematics) may differ significantly.
+0_raw\Chapter 5+6.md:431:- **Statement**: In procedural cognitive tasks, through AI tools designed with beneficial friction (50–70% success rate, working assumption) + systematic support reduction ($S_4 \to S_1$), after collaborating for $W$ weeks, users' independent performance within the unplugged window will significantly exceed baseline ($P_2 \geq B_0 + \delta$).
+0_raw\Chapter 5+6.md:437:- **Statement**: An "optimal challenge zone" exists (50–70% success rate, working assumption); within this zone, user capability enhancement ($P_2 - B_0$) is maximized.
+0_raw\Chapter 5+6.md:438:- **Falsification condition**: Prove friction intensity and capability enhancement have a linear relationship (no inverted-U curve), or optimal zone significantly deviates from 50–70%.
+copies\CN_full_ch01.md:120:> （1）**有益认知摩擦**：使用户处于**最优挑战区**（成功率50-70%，工作假设，需跨领域/任务校准，个体自适应）
+copies\CN_full_ch01.md:157:| 认知摩擦  | 最小化       | 优化（50-70%，工作假设） |
+copies\CN_full_ch01.md:190:1. 本文使用的所有量化参数（如δ≥0.3 SD 或 10%，成功率50-70%，拔线窗口W=4-8周，默认6周）均为**概念工作模型**，基于认知心理学和教育测量学文献的合理推断，但需要跨领域校准和实证检验。
+copies\CN_full_ch02.md:7:**研究方法**：本文提出认知能力建构与评估理论（简称"本理论"），核心包括三大机制：（1）反脆弱性验证原则（AVP）——通过"拔线测试"检验协作是否促进独立能力（判据：P₂≥B₀+δ：≥0.3 SD 或 10%（工作假设，需跨领域/任务校准） SD 或 10%，工作假设，需跨领域/任务校准）；（2）内共生最小法则（EML）——设计有益认知摩擦（50-70%成功率，工作假设，需跨领域/任务校准）与系统性支持削减（S4→S1）；（3）伙伴式主体性——AI作为认知伙伴的角色定位。理论采用跨学科综合方法，整合认知心理学、教育技术、组织行为学和AI伦理的研究成果，并通过文献分析、案例研究和概念建模进行验证。
+copies\CN_full_ch02.md:21:**Methods**: This paper proposes a Cognitive Capability Building and Assessment Theory (abbreviated as "this theory"), comprising three core mechanisms: (1) Antifragility Validation Principle (AVP)—verifying whether collaboration enhances independent capability through "unplugged tests" (criterion: P₂≥B₀+δ, δ≥0.3 SD or 10%, working hypothesis, requires cross-domain/task calibration); (2) Endosymbiotic Minimal Law (EML)—designing beneficial cognitive friction (50-70% success rate, working hypothesis, requires cross-domain/task calibration) and systematic support reduction (S4→S1); (3) Partner-like Agency—positioning AI as a cognitive partner. The theory adopts an interdisciplinary synthesis approach, integrating research from cognitive psychology, educational technology, organizational behavior, and AI ethics, validated through literature analysis, case studies, and conceptual modeling.
+copies\CN_full_ch03.md:206:认知负荷理论（Cognitive Load Theory,Sweller, 1988）和教育心理学研究提示,学习任务的成功率50-70%（工作假设，需跨领域/任务校准）**区间时,学习效果最优（工作假设，需跨领域/任务校准，基于多个独立研究的方向性证据）:
+copies\CN_full_ch03.md:209:- **50-70%成功率**:适度困难,促进深度加工和模式学习
+copies\CN_full_ch03.md:228:1. **摩擦旋钮**:通过自适应算法将任务难度维持在**成功率50-70%**的最优挑战区（工作假设，需跨领域/任务校准，个体需动态校准）
+copies\CN_full_ch03.md:251:| **神经可塑性与训练**<br>(2.4节) | 用进废退的双向性；最优挑战区（50-70%）；挑战是必要条件       | • EML条件1（有益认知摩擦）<br>• 适度挑战的神经机制     | 实证（神经+行为） |
+copies\CN_full_ch03.md:289:- 条件1:有益认知摩擦（目标成功率50-70%，工作假设，需跨领域/任务校准，需动态调整）
+copies\CN_full_ch04.md:27:| **成功率目标** | 有益认知摩擦的量化目标 | 50-70%（工作假设，需跨领域/任务校准）（工作假设，需跨领域/任务校准，群体级，个体需校准） |
+copies\CN_full_ch04.md:41:> （1）**有益认知摩擦**：使用户处于**最优挑战区**（群体级工作假设成功率 50–70%，个体自适应）；
+copies\CN_full_ch04.md:57:> **最优挑战区**：为促成长期保持与迁移，系统应将任务难度/提示强度自适应调至**成功率 50–70%**（工作假设，随任务与个体校准）；>85% 近似卸载、<30% 易致挫败。
+copies\CN_full_ch04.md:187:- **认知技能**(如编程、写作):d≥0.3 SD或≥10%相对提升
+copies\CN_full_ch04.md:234:### 3.2.2 最优挑战区:50-70%成功率的量化目标
+copies\CN_full_ch04.md:240:> 目标成功率50-70%（工作假设，需跨领域/任务校准）**（工作假设，需跨领域/任务校准，群体级，个体需动态校准）
+copies\CN_full_ch04.md:246:- **50-70%**:最优平衡——足够挑战但不致挫败
+copies\CN_full_ch04.md:252:50-70%是**群体级目标**,个体的最优区间需要根据以下因素自适应调整:
+copies\CN_full_ch04.md:268:- 保持在目标区间50-70%
+copies\CN_full_ch06.md:252:1. **有益认知摩擦**：任务成功率50-70%（工作假设，需跨领域/任务校准，群体级，个体自适应），动态调整
+copies\CN_full_ch06.md:321:- 目标：维持在50-70%区间（工作假设，需校准）
+copies\CN_full_ch06.md:337:# 目标区间：50-70%（群体级工作假设）
+copies\CN_full_ch06.md:1334:**当前状态**：使用启发式规则（50-70%成功率，工作假设）
+copies\CN_full_ch07.md:96:> CET的核心洞察(认知卸载→能力退化)可能在多种任务中成立,但AVP/EML的具体操作化需要针对任务类型进行调整。本论文提供的测量协议和参数(如50-70%成功率,工作假设)主要基于程序性认知任务的证据。
+copies\CN_full_ch07.md:526:在程序性认知任务中,通过有益摩擦(F=50-70%成功率,工作假设)
+copies\CN_full_ch07.md:542:执行忠实度:记录EML条件的达成率(如削减曲线按计划执行比例、观察到的实际成功率是否落在50–70%区间)。
+copies\CN_full_ch07.md:567:存在一个"最优挑战区"(50-70%成功率,工作假设),在此区间内,
+copies\CN_full_ch07.md:573:- 或证明最优区间显著偏离50-70%(如最优点在20%或90%)
+copies\CN_full_ch07.md:582:- 倒U型曲线,峰值在50-70%区间(工作假设)
+copies\CN_full_ch07.md:612:- 削减组>固定组(Cohen's d ≥ 0.3)
+copies\CN_full_ch07.md:825:**目标**: 确定"50-70%成功率"、"S4→S1削减"是否最优(工作假设)
+copies\CN_full_ch08.md:36:> （1）**有益认知摩擦**：使用户处于**最优挑战区**（群体级工作假设成功率50–70%，需跨领域/任务校准，个体自适应）
+copies\CN_full_ch08.md:62:> **最优挑战区**：为促成长期保持与迁移，系统应将任务难度/提示强度自适应调至**成功率50–70%**（工作假设，需跨领域/任务校准，随任务与个体校准）；>85%近似卸载、<30%易致挫败。
+copies\CN_full_ch08.md:82:| **最优挑战区**   | 成功率区间 | 50-70%（工作假设，需跨领域/任务校准）<br>（工作假设，需跨领域/任务校准）              | 心流理论+最近发展区(ZPD)   | 个体自适应；<br>任务特定校准；<br>文化敏感性调整             |
+copies\CN_full_ch08.md:186:| 有益认知摩擦     | Beneficial Cognitive Friction      | -    | 适度挑战（50-70%成功率）促进能力增长   | 3.2节   |
+copies\CN_full_ch08.md:225:| **最优挑战区**    | 50-70%成功率<br>（工作假设，需跨领域/任务校准）         | 3.2.1节  | 3.2.1节  | 5.2/附录A       |
+copies\CN_full_ch09.md:36:| **摩擦策略** | 零摩擦（即时满足）<br>成功率>85%  | 有益摩擦（适度挑战）<br>成功率50-70%* |
+copies\CN_full_ch09.md:167:│    │      - 有益摩擦（50-70%成功率）*
+copies\CN_full_ch10.md:115:- 有益摩擦：目标成功率50-70%（工作假设，需跨领域/任务校准）*
+copies\CN_full_ch10.md:130:• 确认实验组摩擦强度在50-70%（允许±5%波动）
+copies\CN_full_ch10.md:345:- ✓ 50-70%成功率来自**心流理论**和**最近发展区**的跨领域类比
+copies\CN_full_ch10.md:661:- **目标成功率50-70%（工作假设，需跨领域/任务校准）（工作假设，需跨领域/任务校准，实际监测：60%左右波动）
+copies\CN_full_ch10.md:720:- 关键：保持50-70%成功率，避免过度挫败
+copies\CN_full_ch10.md:745:- 建议：专家用户提高目标成功率50-70%（工作假设，需跨领域/任务校准）上限（工作假设，需跨领域/任务校准），或增加任务难度
+copies\CN_full_ch10.md:961:- 借鉴了Vygotsky的最近发展区（ZPD）概念（50-70%挑战区）
+copies\CN_full_ch10.md:983:> CET回应：监测成功率（目标50-70%区间，工作假设，需跨领域/任务校准）和能力向量C(t)的变化趋势。
+copies\CN_full_ch10.md:1151:- **核心定义**：构成认知内共生的设计必要条件：①有益认知摩擦（50-70%成功率） ②系统性支持削减（S4→S1）（见3.0.3节EML定义锚点B2）
+copies\CN_full_ch10.md:1163:- **核心定义**：适度挑战（目标成功率50-70%，工作假设，需跨领域/任务校准）促进能力增长的设计策略
+copies\EN_concise_main.md:15:å¤§è¯­è¨€æ¨¡åž‹ç­‰AIå·¥å…·æ­£æ·±åˆ»æ”¹å˜äººç±»å·¥ä½œæ–¹å¼ï¼Œä½†å…¶å¯¹ç‹¬ç«‹èƒ½åŠ›çš„é•¿æœŸå½±å“å°šä¸æ˜Žç¡®ã€‚æœ¬ç ”ç©¶æå‡ºè®¤çŸ¥èƒ½åŠ›è¿ç§»ç†è®ºï¼ˆCETï¼‰ï¼Œé€šè¿‡â€œåè„†å¼±æ€§éªŒè¯åŽŸåˆ™â€ï¼ˆAVPï¼‰æµ‹é‡ç‹¬ç«‹èƒ½åŠ›æ˜¯å¦å› AIè¾…åŠ©è€Œæå‡æˆ–é€€åŒ–ã€‚ç ”ç©¶å»ºç«‹äº†äº”å±‚è®¤çŸ¥é”šç‚¹ï¼ˆB1-B5ï¼‰æµ‹é‡æ¡†æž¶ï¼Œæå‡ºâ€œå†…å…±ç”Ÿæœ€å°æ³•åˆ™"ï¼ˆEMLï¼‰è®¾è®¡åŽŸåˆ™ï¼Œé€šè¿‡æœ‰ç›Šæ‘©æ“¦ï¼ˆ50-70%æˆåŠŸçŽ‡ï¼Œå·¥ä½œå‡è®¾ï¼‰å’Œç³»ç»Ÿæ€§æ”¯æŒå‰Šå‡ï¼ˆS4â†’S1â†’0ï¼‰ä¿ƒè¿›èƒ½åŠ›å†…åŒ–ã€‚æ ¸å¿ƒåˆ¤æ®ï¼š$P_2 \geq B_0 + \delta$ï¼ˆæ‹”çº¿åŽèƒ½åŠ›éœ€è¶…è¶ŠåŸºçº¿ï¼‰ã€‚ç†è®ºæå‡º8ä¸ªå¯è¯ä¼ªå‡è¯´ï¼Œæ˜Žç¡®é€‚ç”¨è¾¹ç•Œï¼Œæ‰¿è¯ºå¼€æ”¾ç§‘å­¦éªŒè¯ã€‚
+copies\EN_concise_main.md:125:> ï¼ˆ1ï¼‰**æœ‰ç›Šè®¤çŸ¥æ‘©æ“¦**ï¼šä½¿ç”¨æˆ·å¤„äºŽæœ€ä¼˜æŒ‘æˆ˜åŒºï¼ˆæˆåŠŸçŽ‡50-70%ï¼Œå·¥ä½œå‡è®¾ï¼Œä¸ªä½“è‡ªé€‚åº”ï¼‰
+copies\EN_concise_main.md:154:| è®¤çŸ¥æ‘©æ“¦ | æœ€å°åŒ– | ä¼˜åŒ–ï¼ˆ50-70%ï¼‰ |
+copies\EN_concise_main.md:177:1. æ‰€æœ‰é‡åŒ–å‚æ•°ï¼ˆ$\delta \geq 0.3SD$ã€æˆåŠŸçŽ‡50-70%ã€W=4â€“8å‘¨ï¼‰å‡ä¸º**æ¦‚å¿µå·¥ä½œæ¨¡åž‹**ï¼ŒåŸºäºŽè®¤çŸ¥å¿ƒç†å­¦å’Œæ•™è‚²æµ‹é‡å­¦æ–‡çŒ®çš„åˆç†æŽ¨æ–­ï¼Œéœ€è·¨é¢†åŸŸæ ¡å‡†å’Œå®žè¯æ£€éªŒã€‚
+copies\EN_concise_main.md:248:**æœ€ä¼˜æŒ‘æˆ˜åŒº**ï¼šVygotskyçš„æœ€è¿‘å‘å±•åŒºï¼ˆZPDï¼‰å¯å‘CETé‡åŒ–ä¸º**50-70%æˆåŠŸçŽ‡**ï¼ˆå·¥ä½œå‡è®¾ï¼Œç¾¤ä½“çº§ï¼Œä¸ªä½“éœ€åŠ¨æ€æ ¡å‡†ï¼‰ã€‚<30%è¿‡åº¦æŒ«è´¥ï¼Œ>85%æŽ¥è¿‘å¸è½½ï¼Œ50-70%æœ€ä¼˜å¹³è¡¡ã€‚
+copies\EN_concise_main.md:248:**æœ€ä¼˜æŒ‘æˆ˜åŒº**ï¼šVygotskyçš„æœ€è¿‘å‘å±•åŒºï¼ˆZPDï¼‰å¯å‘CETé‡åŒ–ä¸º**50-70%æˆåŠŸçŽ‡**ï¼ˆå·¥ä½œå‡è®¾ï¼Œç¾¤ä½“çº§ï¼Œä¸ªä½“éœ€åŠ¨æ€æ ¡å‡†ï¼‰ã€‚<30%è¿‡åº¦æŒ«è´¥ï¼Œ>85%æŽ¥è¿‘å¸è½½ï¼Œ50-70%æœ€ä¼˜å¹³è¡¡ã€‚
+copies\EN_concise_main.md:250:**CETçš„è½¬åŒ–**ï¼šç¥žç»ç§‘å­¦å’Œè®¤çŸ¥è®­ç»ƒè¯æ®è½¬åŒ–ä¸ºä¸‰ä¸ªå¯æ“ä½œè®¾è®¡æ—‹é’®â€”â€”â‘ æ‘©æ“¦æ—‹é’®ï¼ˆ50-70%æˆåŠŸçŽ‡ï¼‰ï¼Œâ‘¡å‰Šå‡æ—‹é’®ï¼ˆS4â†’S1â†’0ï¼‰ï¼Œâ‘¢éªŒè¯é—­çŽ¯ï¼ˆ$P_2 \geq B_0 + \delta$ï¼‰ã€‚
+copies\EN_concise_main.md:286:| **æˆåŠŸçŽ‡ç›®æ ‡** | æœ‰ç›Šè®¤çŸ¥æ‘©æ“¦çš„é‡åŒ–ç›®æ ‡ | 50-70%ï¼ˆå·¥ä½œå‡è®¾ï¼Œéœ€è·¨é¢†åŸŸ/ä»»åŠ¡æ ¡å‡†ï¼Œç¾¤ä½“çº§ï¼Œä¸ªä½“éœ€æ ¡å‡†ï¼‰ |
+copies\EN_concise_main.md:300:> ï¼ˆ1ï¼‰**æœ‰ç›Šè®¤çŸ¥æ‘©æ“¦**ï¼šä½¿ç”¨æˆ·å¤„äºŽ**æœ€ä¼˜æŒ‘æˆ˜åŒº**ï¼ˆç¾¤ä½“çº§å·¥ä½œå‡è®¾æˆåŠŸçŽ‡50-70%ï¼Œä¸ªä½“è‡ªé€‚åº”ï¼‰ï¼›
+copies\EN_concise_main.md:317:**æˆåŠŸçŽ‡50-70%**ï¼ˆå·¥ä½œå‡è®¾ï¼Œéšä»»åŠ¡ä¸Žä¸ªä½“æ ¡å‡†ï¼‰ï¼›
+copies\EN_concise_main.md:365:### 3.2.2 æœ€ä¼˜æŒ‘æˆ˜åŒºï¼š50-70%æˆåŠŸçŽ‡
+copies\EN_concise_main.md:367:**Vygotskyçš„æœ€è¿‘å‘å±•åŒºï¼ˆZPDï¼‰çš„å¯å‘**ï¼šCETå°†å…¶é‡åŒ–ä¸º**æœ€ä¼˜æŒ‘æˆ˜åŒº**â€”â€”ç›®æ ‡æˆåŠŸçŽ‡50-70%ï¼ˆå·¥ä½œå‡è®¾ï¼Œéœ€è·¨é¢†åŸŸ/ä»»åŠ¡æ ¡å‡†ï¼Œç¾¤ä½“çº§ï¼Œä¸ªä½“éœ€åŠ¨æ€æ ¡å‡†ï¼‰ã€‚
+copies\EN_concise_main.md:372:- **50-70%**ï¼šæœ€ä¼˜å¹³è¡¡â€”â€”è¶³å¤ŸæŒ‘æˆ˜ä½†ä¸è‡´æŒ«è´¥
+copies\EN_concise_main.md:375:**ä¸ªä½“å·®å¼‚è°ƒæ•´**ï¼š50-70%æ˜¯**ç¾¤ä½“çº§ç›®æ ‡**ï¼Œä¸ªä½“çš„æœ€ä¼˜åŒºé—´éœ€æ ¹æ®åŸºç¡€èƒ½åŠ›ã€åŠ¨æœºæ°´å¹³ã€ä»»åŠ¡ç„¦è™‘ã€å®žæ—¶çŠ¶æ€è¿›è¡Œè‡ªé€‚åº”è°ƒæ•´ã€‚
+copies\EN_concise_main.md:543:**æ ¸å¿ƒåˆ¤æ®**ï¼š$P_2 \geq B_0 + \delta$ï¼ˆæ‹”çº¿åŽèƒ½åŠ›è¶…è¶ŠåŸºçº¿ï¼‰ **å…³é”®æœºåˆ¶**ï¼šæœ‰ç›Šæ‘©æ“¦ï¼ˆ50-70%æˆåŠŸçŽ‡ï¼Œå·¥ä½œå‡è®¾ï¼‰+ ç³»ç»Ÿæ€§æ”¯æŒå‰Šå‡ï¼ˆS4â†’S1â†’0ï¼‰ **é€‚ç”¨åœºæ™¯**ï¼šå­¦ä¹ å·¥å…·ã€æŠ€èƒ½è®­ç»ƒã€ä¸ªäººç”Ÿäº§åŠ›å·¥å…·
+copies\EN_concise_main.md:834:- ç›®æ ‡ï¼šç»´æŒåœ¨50-70%åŒºé—´ï¼ˆå·¥ä½œå‡è®¾ï¼‰
+copies\EN_concise_main.md:844:# ç›®æ ‡åŒºé—´ï¼š50-70%ï¼ˆå·¥ä½œå‡è®¾ï¼‰
+copies\EN_concise_main.md:1093:æ‰€æœ‰é‡åŒ–å‚æ•°å‡ä¸º**æ¦‚å¿µå·¥ä½œæ¨¡åž‹**ï¼š$\delta \geq 0.3SD$æˆ–10%ï¼ˆå·¥ä½œå‡è®¾ï¼‰ã€æˆåŠŸçŽ‡50-70%ï¼ˆå·¥ä½œå‡è®¾ï¼‰ã€W=4-8å‘¨ï¼ˆé»˜è®¤6å‘¨ï¼Œå·¥ä½œå‡è®¾ï¼‰ã€‚è¿™äº›å‚æ•°åŸºäºŽè®¤çŸ¥å¿ƒç†å­¦å’Œæ•™è‚²æµ‹é‡å­¦æ–‡çŒ®çš„åˆç†æŽ¨æ–­ï¼Œä½†éœ€è·¨é¢†åŸŸæ ¡å‡†å’Œå®žè¯æ£€éªŒã€‚ä¸åŒé¢†åŸŸï¼ˆç¼–ç¨‹vså†™ä½œvsæ•°å­¦ï¼‰çš„æœ€ä¼˜å‚æ•°å¯èƒ½æ˜¾è‘—ä¸åŒã€‚
+copies\EN_concise_main.md:1115:- **å£°æ˜Ž**ï¼šåœ¨ç¨‹åºæ€§è®¤çŸ¥ä»»åŠ¡ä¸­ï¼Œé€šè¿‡æœ‰ç›Šæ‘©æ“¦ï¼ˆ50-70%æˆåŠŸçŽ‡ï¼Œå·¥ä½œå‡è®¾ï¼‰+ ç³»ç»Ÿæ€§æ”¯æŒå‰Šå‡ï¼ˆ$S_4 \to S_1$ï¼‰è®¾è®¡çš„AIå·¥å…·ï¼Œåä½œWå‘¨åŽï¼Œç”¨æˆ·åœ¨æ‹”çº¿çª—å£å†…çš„ç‹¬ç«‹è¡¨çŽ°å°†æ˜¾è‘—ä¼˜äºŽåŸºçº¿ï¼ˆ$P_2 \geq B_0 + \delta$ï¼‰ã€‚
+copies\EN_concise_main.md:1121:- **å£°æ˜Ž**ï¼šå­˜åœ¨â€œæœ€ä¼˜æŒ‘æˆ˜åŒº"ï¼ˆ50-70%æˆåŠŸçŽ‡ï¼Œå·¥ä½œå‡è®¾ï¼‰ï¼Œåœ¨æ­¤åŒºé—´å†…ç”¨æˆ·èƒ½åŠ›æå‡ï¼ˆ$P_2$-$B_0$ï¼‰æœ€å¤§åŒ–ã€‚
+copies\EN_concise_main.md:1122:- **è¯ä¼ªæ¡ä»¶**ï¼šè¯æ˜Žæ‘©æ“¦å¼ºåº¦ä¸Žèƒ½åŠ›æå‡å‘ˆçº¿æ€§å…³ç³»ï¼ˆæ— å€’Uæ›²çº¿ï¼‰ï¼Œæˆ–æœ€ä¼˜åŒºé—´æ˜¾è‘—åç¦»50-70%ã€‚
+copies\EN_concise_main.md:1263:æž„æˆè®¤çŸ¥å†…å…±ç”Ÿçš„è®¾è®¡å¿…è¦æ¡ä»¶ï¼šâ‘ æœ‰ç›Šè®¤çŸ¥æ‘©æ“¦ï¼ˆæœ€ä¼˜æŒ‘æˆ˜åŒºï¼ŒæˆåŠŸçŽ‡50-70%ï¼Œå·¥ä½œå‡è®¾ï¼‰â‘¡ç³»ç»Ÿæ€§æ”¯æŒå‰Šå‡ï¼ˆ$S_4 \to S_1 \to 0$ï¼‰ã€‚äºŒè€…ä¸ºè”åˆå……åˆ†çš„è®¾è®¡æ¡ä»¶ï¼Œä½†æœ€ç»ˆéœ€AVPï¼ˆ$P_2 \geq B_0 + \delta$ï¼‰ä½œä¸ºéªŒæ”¶å¿…è¦æ¡ä»¶ã€‚é¦–æ¬¡å‡ºçŽ°ï¼š1.3èŠ‚ï¼Œå®Œæ•´å®šä¹‰ï¼š3.0.3èŠ‚ï¼ˆEMLå®šä¹‰é”šç‚¹B2ï¼‰ã€‚
+copies\EN_concise_main.md:1274:é€‚åº¦æŒ‘æˆ˜ï¼ˆç›®æ ‡æˆåŠŸçŽ‡50-70%ï¼Œå·¥ä½œå‡è®¾ï¼Œéœ€è·¨é¢†åŸŸ/ä»»åŠ¡æ ¡å‡†ï¼Œä¸ªä½“éœ€è‡ªé€‚åº”ï¼‰ä¿ƒè¿›èƒ½åŠ›å¢žé•¿çš„è®¾è®¡ç­–ç•¥ã€‚ä¸‰ç§ç±»åž‹ï¼šâ‘ å®Œæ•´æ€§æ‘©æ“¦ï¼ˆç•™ç©ºç™½è®©ç”¨æˆ·å¡«å……ï¼‰â‘¡æŠ½è±¡æ€§æ‘©æ“¦ï¼ˆæä¾›æ¦‚å¿µè€Œéžæ­¥éª¤ï¼‰â‘¢å»¶è¿Ÿæ€§æ‘©æ“¦ï¼ˆå»¶è¿Ÿåé¦ˆå¼ºåˆ¶ç‹¬ç«‹æ€è€ƒï¼‰ã€‚ç†è®ºåŸºç¡€ï¼šå¿ƒæµç†è®º+æœ€è¿‘å‘å±•åŒºï¼ˆZPDï¼‰ã€‚é¦–æ¬¡å‡ºçŽ°ï¼š3.2èŠ‚ã€‚
+copies\EN_concise_main.md:1280:ä¸ºä¿ƒæˆé•¿æœŸä¿æŒä¸Žè¿ç§»ï¼Œç³»ç»Ÿåº”å°†ä»»åŠ¡éš¾åº¦/æç¤ºå¼ºåº¦è‡ªé€‚åº”è°ƒè‡³æˆåŠŸçŽ‡50-70%ï¼ˆå·¥ä½œå‡è®¾ï¼Œéœ€è·¨é¢†åŸŸ/ä»»åŠ¡æ ¡å‡†ï¼Œç¾¤ä½“çº§ï¼Œä¸ªä½“éœ€æ ¡å‡†ï¼‰ã€‚>85%è¿‘ä¼¼å¸è½½ï¼Œ<30%æ˜“è‡´æŒ«è´¥ï¼Œ50-70%æœ€ä¼˜å¹³è¡¡ã€‚ç†è®ºæ¥æºï¼šVygotskyçš„æœ€è¿‘å‘å±•åŒºï¼ˆZPDï¼‰ã€‚é¦–æ¬¡å‡ºçŽ°ï¼š3.2èŠ‚ï¼Œå®šä¹‰é”šç‚¹ï¼š3.0.5èŠ‚ï¼ˆB4ï¼‰ã€‚
+copies\EN_concise_main.md:1280:ä¸ºä¿ƒæˆé•¿æœŸä¿æŒä¸Žè¿ç§»ï¼Œç³»ç»Ÿåº”å°†ä»»åŠ¡éš¾åº¦/æç¤ºå¼ºåº¦è‡ªé€‚åº”è°ƒè‡³æˆåŠŸçŽ‡50-70%ï¼ˆå·¥ä½œå‡è®¾ï¼Œéœ€è·¨é¢†åŸŸ/ä»»åŠ¡æ ¡å‡†ï¼Œç¾¤ä½“çº§ï¼Œä¸ªä½“éœ€æ ¡å‡†ï¼‰ã€‚>85%è¿‘ä¼¼å¸è½½ï¼Œ<30%æ˜“è‡´æŒ«è´¥ï¼Œ50-70%æœ€ä¼˜å¹³è¡¡ã€‚ç†è®ºæ¥æºï¼šVygotskyçš„æœ€è¿‘å‘å±•åŒºï¼ˆZPDï¼‰ã€‚é¦–æ¬¡å‡ºçŽ°ï¼š3.2èŠ‚ï¼Œå®šä¹‰é”šç‚¹ï¼š3.0.5èŠ‚ï¼ˆB4ï¼‰ã€‚
+copies\EN_concise_main.md:1337:è®¤çŸ¥æ‘©æ“¦å¼•æ“Žï¼ŒLSAçš„L2å±‚æ¨¡å—ã€‚åŠŸèƒ½ï¼šæ ¹æ®ç”¨æˆ·èƒ½åŠ›åŠ¨æ€è°ƒæ•´AIå“åº”çš„å®Œæ•´æ€§ã€æŠ½è±¡æ€§ã€å»¶è¿Ÿæ€§ï¼Œç»´æŒ50-70%æˆåŠŸçŽ‡ï¼ˆå·¥ä½œå‡è®¾ï¼‰ã€‚ç­–ç•¥ï¼šâ‘ å®Œæ•´æ€§æ‘©æ“¦ï¼ˆéƒ¨åˆ†ç­”æ¡ˆï¼‰â‘¡æŠ½è±¡æ€§æ‘©æ“¦ï¼ˆæ¦‚å¿µæŒ‡å¯¼ï¼‰â‘¢å»¶è¿Ÿæ€§æ‘©æ“¦ï¼ˆå»¶è¿Ÿåé¦ˆï¼‰â‘£è‡ªé€‚åº”æ‘©æ“¦ï¼ˆæ ¹æ®C(t)è°ƒæ•´ï¼‰ã€‚é¦–æ¬¡å‡ºçŽ°ï¼š5.2èŠ‚ã€‚
+copies\EN_concise_main.md:1356:| **æœ€ä¼˜æŒ‘æˆ˜åŒº** | 50-70%æˆåŠŸçŽ‡ï¼ˆå·¥ä½œå‡è®¾ï¼Œéœ€è·¨é¢†åŸŸ/ä»»åŠ¡æ ¡å‡†ï¼Œç¾¤ä½“çº§ï¼Œä¸ªä½“éœ€æ ¡å‡†ï¼‰ | 3.2.1èŠ‚ | 3.2.1èŠ‚ | 5.2/é™„å½•D | ä¸ªä½“è‡ªé€‚åº”ï¼›ä»»åŠ¡ç‰¹å®šæ ¡å‡† |
+copies\EN_concise_main.md:1396:- ç»´æŒæˆåŠŸçŽ‡55-65%ï¼ˆæŽ¥è¿‘ç›®æ ‡50-70%ï¼‰
+copies\EN_concise_main.md:1412:- 50-70%æˆåŠŸçŽ‡ï¼ˆå·¥ä½œå‡è®¾ï¼‰æ˜¯å…³é”®å¹³è¡¡ç‚¹ï¼šæ—¢æœ‰æŒ‘æˆ˜åˆä¸æŒ«è´¥
+copies\EN_concise_main.md:1506:- æœ‰ç›Šæ‘©æ“¦ï¼šç›®æ ‡æˆåŠŸçŽ‡50-70%ï¼ˆå·¥ä½œå‡è®¾ï¼Œéœ€è·¨é¢†åŸŸ/ä»»åŠ¡æ ¡å‡†ï¼Œä¸ªä½“éœ€è‡ªé€‚åº”ï¼‰
+copies\EN_concise_main.md:1519:- ç¡®è®¤å®žéªŒç»„æ‘©æ“¦å¼ºåº¦åœ¨50-70%ï¼ˆå…è®¸Â±5%æ³¢åŠ¨ï¼‰
+copies\EN_full_appendix_seed.md:9:| **W Window** | 4–8 weeks (default 6 weeks; working assumption) | Section 3.0.2 | Section 3.0.2 | 3.1/4.1/Appendix D | Fast skills 4 weeks; Complex skills 8–12 weeks |
+copies\EN_full_appendix_seed.md:141:- [ ] W window: 4–8 weeks (default 6 weeks; working assumption)
+copies\EN_full_appendix_seed.md:275:W (unplugged window) has a default working assumption of 4–8 weeks (default 6 weeks), but needs adjustment based on task complexity:
+copies\EN_full_ch04.md:12:**Key mechanisms**: Beneficial friction (50–70% success rate, working assumption) + Systematic support reduction (S4→S1→S0)
+copies\EN_full_ch05.md:110:- Target: Maintain 50–70% range (working assumption)
+copies\EN_full_ch05.md:120:# Target range: 50–70% (working assumption)
+copies\EN_full_ch05.md:409:All quantitative parameters are **conceptual working models**: $\delta \geq 0.3,\mathrm{SD}$ or 10% (working assumption), success rate 50–70% (working assumption), $W = 4\text{–}8$ weeks (default 6 weeks, working assumption). These parameters are based on reasonable inferences from cognitive psychology and educational measurement literature but require cross-domain calibration and empirical validation. Optimal parameters for different domains (programming vs. writing vs. mathematics) may differ significantly.
+copies\EN_full_ch05.md:431:- **Statement**: In procedural cognitive tasks, through AI tools designed with beneficial friction (50–70% success rate, working assumption) + systematic support reduction ($S_4 \to S_1$), after collaborating for $W$ weeks, users' independent performance within the unplugged window will significantly exceed baseline ($P_2 \geq B_0 + \delta$).
+copies\EN_full_ch05.md:437:- **Statement**: An "optimal challenge zone" exists (50–70% success rate, working assumption); within this zone, user capability enhancement ($P_2 - B_0$) is maximized.
+copies\EN_full_ch05.md:438:- **Falsification condition**: Prove friction intensity and capability enhancement have a linear relationship (no inverted-U curve), or optimal zone significantly deviates from 50–70%.
+copies\EN_full_ch06.md:110:- Target: Maintain 50–70% range (working assumption)
+copies\EN_full_ch06.md:120:# Target range: 50–70% (working assumption)
+copies\EN_full_ch06.md:409:All quantitative parameters are **conceptual working models**: $\delta \geq 0.3,\mathrm{SD}$ or 10% (working assumption), success rate 50–70% (working assumption), $W = 4\text{–}8$ weeks (default 6 weeks, working assumption). These parameters are based on reasonable inferences from cognitive psychology and educational measurement literature but require cross-domain calibration and empirical validation. Optimal parameters for different domains (programming vs. writing vs. mathematics) may differ significantly.
+copies\EN_full_ch06.md:431:- **Statement**: In procedural cognitive tasks, through AI tools designed with beneficial friction (50–70% success rate, working assumption) + systematic support reduction ($S_4 \to S_1$), after collaborating for $W$ weeks, users' independent performance within the unplugged window will significantly exceed baseline ($P_2 \geq B_0 + \delta$).
+copies\EN_full_ch06.md:437:- **Statement**: An "optimal challenge zone" exists (50–70% success rate, working assumption); within this zone, user capability enhancement ($P_2 - B_0$) is maximized.
+copies\EN_full_ch06.md:438:- **Falsification condition**: Prove friction intensity and capability enhancement have a linear relationship (no inverted-U curve), or optimal zone significantly deviates from 50–70%.
+copies\EN_full_part_B.md:52:**Optimal challenge zone**: Inspired by the Zone of Proximal Development (ZPD), CET quantifies a 50–70% success rate (working assumption, population-level, with individual calibration). <30% risks frustration; >85% approaches offloading; 50–70% balances difficulty and growth.
+copies\EN_full_part_B.md:52:**Optimal challenge zone**: Inspired by the Zone of Proximal Development (ZPD), CET quantifies a 50–70% success rate (working assumption, population-level, with individual calibration). <30% risks frustration; >85% approaches offloading; 50–70% balances difficulty and growth.
+copies\EN_full_part_B.md:54:**CET's transformation**: Converts evidence into three design knobs—① friction (50–70% success rate, working assumption), ② reduction (S4$\rightarrow$S1$\rightarrow$S0), ③ validation ($P_2 \geq B_0 + \delta$).
+copies\EN_full_part_C.md:19:| $W$ | Unplugged window duration | Working assumption: 4–8 weeks (default 6 weeks; requires cross-domain/task calibration) |
+0_raw\AppendixA.md:47:**Statement**: In procedural cognitive tasks, AI tools designed with beneficial friction (50–70% success rate, working assumption) + systematic support reduction (S4→S1→S0) will result in users' independent performance significantly exceeding baseline after W weeks of collaboration (P₂ ≥ B₀ + δ; see §3.0.2).
+0_raw\AppendixA.md:67:**Statement**: Systematic support reduction (S4→S1→S0) outperforms fixed support; systematic reduction group has significantly higher AVP pass rate and long-term retention.
+0_raw\AppendixA.md:107:Design necessary conditions for constituting Cognitive Endosymbiosis: ① Beneficial Cognitive Friction (optimal challenge zone, 50–70% success rate, working assumption) ② Systematic Support Reduction (S4→S1→S0). These two constitute jointly sufficient design conditions, but ultimately still require AVP (P₂ ≥ B₀ + δ) as the necessary acceptance criterion. First appearance: Section 1.3, complete definition: Section 3.0.3 (EML definition Anchor B2).
+0_raw\AppendixA.md:127:A design strategy where AI support intensity gradually decreases from S4→S1→S0 according to a predetermined reduction curve. Purpose: ensure extension is temporary scaffolding rather than a permanent crutch. Reduction curve types: linear, exponential, stepped, adaptive. Key mechanisms: fallback and minimum guaranteed support (S_min). First appearance: Section 3.3.
+0_raw\AppendixA.md:133:### Support-Intensity Stack (支持档位栈, S4→S1→S0)
+0_raw\ARVIX2025A.md:15:大语言模型等AI工具正深刻改变人类工作方式，但其对独立能力的长期影响尚不明确。本研究提出认知能力迁移理论（CET），通过“反脆弱性验证原则”（AVP）测量独立能力是否因AI辅助而提升或退化。研究建立了五层认知锚点（B1-B5）测量框架，提出“内共生最小法则"（EML）设计原则，通过有益摩擦（50-70%成功率，工作假设）和系统性支持削减（S4→S1→0）促进能力内化。核心判据：$P_2 \geq B_0 + \delta$（拔线后能力需超越基线）。理论提出8个可证伪假说，明确适用边界，承诺开放科学验证。
+0_raw\ARVIX2025A.md:127:> （2）**系统性支持削减**：AI支持强度按削减曲线从S4→S1→0逐步递减
+0_raw\ARVIX2025A.md:145:> **支持档位栈（S4→S1→0）**表达支持强度，与LSA-F为正交维度。
+0_raw\ARVIX2025A.md:156:| 支持削减 | 无/固定支持 | 系统性递减（S4→S1） |
+0_raw\ARVIX2025A.md:234:**脚手架理论**（Wood et al., 1976; Vygotsky, 1978）：有效教学支持应是临时的、系统性支持削减（S4→S1→0）的。
+0_raw\ARVIX2025A.md:237:- **系统性支持削减（S4→S1→0）**：随能力提升逐步减少支持
+0_raw\ARVIX2025A.md:240:**对比启示**：自动化悖论（永久支持→退化）vs脚手架理论（系统性支持削减（S4→S1→0）→独立）——两者为CET的EML条件2（系统性支持削减）提供跨学科验证。
+0_raw\ARVIX2025A.md:250:**CET的转化**：神经科学和认知训练证据转化为三个可操作设计旋钮——①摩擦旋钮（50-70%成功率），②削减旋钮（S4→S1→0），③验证闭环（$P_2 \geq B_0 + \delta$）。
+0_raw\ARVIX2025A.md:257:2. **正面路径收敛**：脚手架理论（教育学）、意欲的困难（认知心理学）、神经可塑性（出租车司机研究）——三个领域都指向“适度挑战+系统性支持削减（S4→S1→0）"成功模式，为EML两大条件提供独立且相互印证的支持。
+0_raw\ARVIX2025A.md:302:> （2）**系统性支持削减**：AI支持强度按既定**削减曲线**从S4→S1逐步递减至0。
+0_raw\ARVIX2025A.md:310:> **支持档位栈（S4→S1）**用于表达支持强度，与LSA-F为正交维度。
+0_raw\ARVIX2025A.md:393:**脚手架理论的启发**（Wood et al., 1976）：有效的教学支持应该是临时的、系统性支持削减（S4→S1→0）的。脚手架的目的是帮助建筑施工，但建筑完成后必须拆除——同样，AI支持的目的是帮助能力建构，但能力形成后应该逐步退出。
+0_raw\ARVIX2025A.md:397:### 3.3.2 支持档位栈（S4→S1）
+0_raw\ARVIX2025A.md:453:- 遵循系统性支持削减曲线（S4→S1→0）
+0_raw\ARVIX2025A.md:484:- 缺乏系统性支持削减（S4→S1→0）机制
+0_raw\ARVIX2025B.md:9:**核心判据**：$P_2 \geq B_0 + \delta$（拔线后能力超越基线） **关键机制**：有益摩擦（50-70%成功率，工作假设）+ 系统性支持削减（S4→S1→0） **适用场景**：学习工具、技能训练、个人生产力工具
+0_raw\ARVIX2025B.md:268:**硬约束**：L1-L4（功能维度）与S4→S1（强度维度）为**正交维度**，不得混用。
+0_raw\ARVIX2025B.md:324:实现EML条件2（系统性支持削减），从S4→S1→0逐步递减。
+0_raw\ARVIX2025B.md:520:- **SGS**：实现系统性支持削减（S4→S1→0），引入回退与保底机制
+0_raw\ARVIX2025CEN.md:34:> (2) **Systematic Support Reduction:** Decrease AI support intensity from S4→S1→S0 according to a **reduction curve**.
+0_raw\ARVIX2025CEN.md:40:> **Support Level Stack (S4→S1→S0)** expresses support intensity and is orthogonal to LSA-F.
+0_raw\ARVIX2025CEN.md:111:**Scaffolding theory** (Wood et al., 1976). Effective support is **temporary**, with systematic reduction (S4→S1→S0). As with physical scaffolds, AI support must recede once capability forms.
+0_raw\ARVIX2025CEN.md:115:### 3.3.2 Support Level Stack (S4→S1→S0)
+0_raw\ARVIX2025CEN.md:167:- Follow the reduction curve (S4→S1→S0);
+0_raw\CETG1.md:122:> （2）**系统性支持削减**：AI支持强度按既定**削减曲线**从S4→S1逐步递减至0
+0_raw\CETG1.md:150:> **支持档位栈（S4→S1）**用于表达**支持强度**，与LSA-F为**正交维度**。
+0_raw\CETG1.md:159:| 支持削减  | 无/固定支持  | 系统性递减（S4→S1）      |
+0_raw\CETG10.md:7:**研究方法**：本文提出认知能力建构与评估理论（简称"本理论"），核心包括三大机制：（1）反脆弱性验证原则（AVP）——通过"拔线测试"检验协作是否促进独立能力（判据：P₂≥B₀+δ：≥0.3 SD 或 10%（工作假设，需跨领域/任务校准） SD 或 10%，工作假设，需跨领域/任务校准）；（2）内共生最小法则（EML）——设计有益认知摩擦（50-70%成功率，工作假设，需跨领域/任务校准）与系统性支持削减（S4→S1）；（3）伙伴式主体性——AI作为认知伙伴的角色定位。理论采用跨学科综合方法，整合认知心理学、教育技术、组织行为学和AI伦理的研究成果，并通过文献分析、案例研究和概念建模进行验证。
+0_raw\CETG10.md:21:**Methods**: This paper proposes a Cognitive Capability Building and Assessment Theory (abbreviated as "this theory"), comprising three core mechanisms: (1) Antifragility Validation Principle (AVP)—verifying whether collaboration enhances independent capability through "unplugged tests" (criterion: P₂≥B₀+δ, δ≥0.3 SD or 10%, working hypothesis, requires cross-domain/task calibration); (2) Endosymbiotic Minimal Law (EML)—designing beneficial cognitive friction (50-70% success rate, working hypothesis, requires cross-domain/task calibration) and systematic support reduction (S4→S1); (3) Partner-like Agency—positioning AI as a cognitive partner. The theory adopts an interdisciplinary synthesis approach, integrating research from cognitive psychology, educational technology, organizational behavior, and AI ethics, validated through literature analysis, case studies, and conceptual modeling.
+0_raw\CETG2.md:111:**CET的补充**:EML的"系统性支持削减"条件明确要求工具的支持强度应从S4→S1逐步递减至0,确保延展是**临时的脚手架**而非**永久的拐杖**。最近的实证研究进一步验证了这一现象。通过两阶段实验，研究者开发了7种认知参与技术，发现缺乏认知摩擦的AI辅助会导致表面学习和技能发展障碍，学习者产生"学习幻觉"——误以为自己掌握了知识，实际上只是依赖工具完成了任务（Liao et al., 2024）。这一发现与CET理论的H2假说高度一致，表明认知摩擦在AI辅助学习中的关键作用。
+0_raw\CETG2.md:166:| **支持强度** | 固定或递增             | 渐进递减至0            | S4→S1削减 vs 固定支持    |
+0_raw\CETG2.md:290:- 条件2:系统性支持削减（S4→S1→0曲线,自适应节律）
+0_raw\CETG3.md:43:> （2）**系统性支持削减**：AI支持强度按既定**削减曲线**从 S4→S1 逐步递减至 0。
+0_raw\CETG3.md:51:> **支持档位栈（S4→S1）**用于表达**支持强度**，与 LSA-F 为**正交维度**。
+0_raw\CETG3.md:315:**支持档位栈(S4→S1)的定义**
+0_raw\CETG5.md:180:**硬约束**：**L1–L4**（LSA-F功能分层）为功能维度（知识整合｜状态建模｜摩擦校准｜元认知协调）；**S4→S1→S0**（支持档位栈）为强度维度（强→弱→无）。两者为**正交维度**，不得在同一表达中互代或串级使用（口径与3.0.4节一致）。L层和S档必须分开表述，避免混淆。
+0_raw\CETG5.md:253:2. **系统性支持削减**：AI支持强度按S4→S1逐步递减至0
+0_raw\CETG6.md:527:+ 系统性支持削减(S4→S1)设计的AI工具,协作W周后,
+0_raw\CETG6.md:594:系统性支持削减(S4→S1→0)优于固定支持。渐进削减组的
+0_raw\CETG6.md:825:**目标**: 确定"50-70%成功率"、"S4→S1削减"是否最优(工作假设)
+0_raw\CETG7.md:38:> （2）**系统性支持削减**：AI支持强度按既定**削减曲线**从S4→S1逐步递减至0
+0_raw\CETG7.md:54:> **支持档位栈（S4→S1）**用于表达**支持强度**，与LSA-F为**正交维度**。
+0_raw\CETG7.md:187:| 系统性支持削减   | Systematic Support Reduction       | -    | AI支持强度按曲线递减（S4→S1）          | 3.3节   |
+0_raw\CETG7.md:212:| S4→S1           | 支持档位 | 强→弱的4级支持强度        | 3.3节     |
+0_raw\CETG8.md:38:| **支持削减** | 无削减（持续依赖）<br>S(t) = 常数 | 系统性削减<br>S(t): S4→S1→0*          |
+0_raw\CETG8.md:168:│    │      - 系统性削减（S4→S1）*
+0_raw\CETG9.md:1151:- **核心定义**：构成认知内共生的设计必要条件：①有益认知摩擦（50-70%成功率） ②系统性支持削减（S4→S1）（见3.0.3节EML定义锚点B2）
+0_raw\CETG9.md:1170:- **核心定义**：AI支持强度按既定削减曲线从S4→S1逐步递减至0的设计策略
+0_raw\CETG9.md:1228:| S4→S1  | 支持档位栈     | 强→弱的4级支持强度  | 3.3节     |
+0_raw\Chapter 4.md:12:**Key mechanisms**: Beneficial friction (50–70% success rate, working assumption) + Systematic support reduction (S4→S1→S0)
+0_raw\Chapter 5+6.md:67:**Hard constraint**: L1–L4 (functional dimensions) and S4→S1 (intensity dimension) are **orthogonal dimensions** and must not be mixed.
+0_raw\Chapter 5+6.md:139:Implements EML Condition 2 (Systematic Support Reduction), gradually decreasing from S4 → S1 → S0.
+0_raw\Chapter 5+6.md:369:- **SGS**: Implements systematic support reduction (S4 → S1 → S0), introduces fallback and minimum support mechanisms
+copies\CN_full_ch01.md:122:> （2）**系统性支持削减**：AI支持强度按既定**削减曲线**从S4→S1逐步递减至0
+copies\CN_full_ch01.md:150:> **支持档位栈（S4→S1）**用于表达**支持强度**，与LSA-F为**正交维度**。
+copies\CN_full_ch01.md:159:| 支持削减  | 无/固定支持  | 系统性递减（S4→S1）      |
+copies\CN_full_ch02.md:7:**研究方法**：本文提出认知能力建构与评估理论（简称"本理论"），核心包括三大机制：（1）反脆弱性验证原则（AVP）——通过"拔线测试"检验协作是否促进独立能力（判据：P₂≥B₀+δ：≥0.3 SD 或 10%（工作假设，需跨领域/任务校准） SD 或 10%，工作假设，需跨领域/任务校准）；（2）内共生最小法则（EML）——设计有益认知摩擦（50-70%成功率，工作假设，需跨领域/任务校准）与系统性支持削减（S4→S1）；（3）伙伴式主体性——AI作为认知伙伴的角色定位。理论采用跨学科综合方法，整合认知心理学、教育技术、组织行为学和AI伦理的研究成果，并通过文献分析、案例研究和概念建模进行验证。
+copies\CN_full_ch02.md:21:**Methods**: This paper proposes a Cognitive Capability Building and Assessment Theory (abbreviated as "this theory"), comprising three core mechanisms: (1) Antifragility Validation Principle (AVP)—verifying whether collaboration enhances independent capability through "unplugged tests" (criterion: P₂≥B₀+δ, δ≥0.3 SD or 10%, working hypothesis, requires cross-domain/task calibration); (2) Endosymbiotic Minimal Law (EML)—designing beneficial cognitive friction (50-70% success rate, working hypothesis, requires cross-domain/task calibration) and systematic support reduction (S4→S1); (3) Partner-like Agency—positioning AI as a cognitive partner. The theory adopts an interdisciplinary synthesis approach, integrating research from cognitive psychology, educational technology, organizational behavior, and AI ethics, validated through literature analysis, case studies, and conceptual modeling.
+copies\CN_full_ch03.md:111:**CET的补充**:EML的"系统性支持削减"条件明确要求工具的支持强度应从S4→S1逐步递减至0,确保延展是**临时的脚手架**而非**永久的拐杖**。最近的实证研究进一步验证了这一现象。通过两阶段实验，研究者开发了7种认知参与技术，发现缺乏认知摩擦的AI辅助会导致表面学习和技能发展障碍，学习者产生"学习幻觉"——误以为自己掌握了知识，实际上只是依赖工具完成了任务（Liao et al., 2024）。这一发现与CET理论的H2假说高度一致，表明认知摩擦在AI辅助学习中的关键作用。
+copies\CN_full_ch03.md:166:| **支持强度** | 固定或递增             | 渐进递减至0            | S4→S1削减 vs 固定支持    |
+copies\CN_full_ch03.md:290:- 条件2:系统性支持削减（S4→S1→0曲线,自适应节律）
+copies\CN_full_ch04.md:43:> （2）**系统性支持削减**：AI支持强度按既定**削减曲线**从 S4→S1 逐步递减至 0。
+copies\CN_full_ch04.md:51:> **支持档位栈（S4→S1）**用于表达**支持强度**，与 LSA-F 为**正交维度**。
+copies\CN_full_ch04.md:315:**支持档位栈(S4→S1)的定义**
+copies\CN_full_ch06.md:180:**硬约束**：**L1–L4**（LSA-F功能分层）为功能维度（知识整合｜状态建模｜摩擦校准｜元认知协调）；**S4→S1→S0**（支持档位栈）为强度维度（强→弱→无）。两者为**正交维度**，不得在同一表达中互代或串级使用（口径与3.0.4节一致）。L层和S档必须分开表述，避免混淆。
+copies\CN_full_ch06.md:253:2. **系统性支持削减**：AI支持强度按S4→S1逐步递减至0
+copies\CN_full_ch07.md:527:+ 系统性支持削减(S4→S1)设计的AI工具,协作W周后,
+copies\CN_full_ch07.md:594:系统性支持削减(S4→S1→0)优于固定支持。渐进削减组的
+copies\CN_full_ch07.md:825:**目标**: 确定"50-70%成功率"、"S4→S1削减"是否最优(工作假设)
+copies\CN_full_ch08.md:38:> （2）**系统性支持削减**：AI支持强度按既定**削减曲线**从S4→S1逐步递减至0
+copies\CN_full_ch08.md:54:> **支持档位栈（S4→S1）**用于表达**支持强度**，与LSA-F为**正交维度**。
+copies\CN_full_ch08.md:187:| 系统性支持削减   | Systematic Support Reduction       | -    | AI支持强度按曲线递减（S4→S1）          | 3.3节   |
+copies\CN_full_ch08.md:212:| S4→S1           | 支持档位 | 强→弱的4级支持强度        | 3.3节     |
+copies\CN_full_ch09.md:38:| **支持削减** | 无削减（持续依赖）<br>S(t) = 常数 | 系统性削减<br>S(t): S4→S1→0*          |
+copies\CN_full_ch09.md:168:│    │      - 系统性削减（S4→S1）*
+copies\CN_full_ch10.md:1151:- **核心定义**：构成认知内共生的设计必要条件：①有益认知摩擦（50-70%成功率） ②系统性支持削减（S4→S1）（见3.0.3节EML定义锚点B2）
+copies\CN_full_ch10.md:1170:- **核心定义**：AI支持强度按既定削减曲线从S4→S1逐步递减至0的设计策略
+copies\CN_full_ch10.md:1228:| S4→S1  | 支持档位栈     | 强→弱的4级支持强度  | 3.3节     |
+copies\EN_full_ch04.md:12:**Key mechanisms**: Beneficial friction (50–70% success rate, working assumption) + Systematic support reduction (S4→S1→S0)
+copies\EN_full_ch05.md:67:**Hard constraint**: L1–L4 (functional dimensions) and S4→S1 (intensity dimension) are **orthogonal dimensions** and must not be mixed.
+copies\EN_full_ch05.md:139:Implements EML Condition 2 (Systematic Support Reduction), gradually decreasing from S4 → S1 → S0.
+copies\EN_full_ch05.md:369:- **SGS**: Implements systematic support reduction (S4 → S1 → S0), introduces fallback and minimum support mechanisms
+copies\EN_full_ch06.md:67:**Hard constraint**: L1–L4 (functional dimensions) and S4→S1 (intensity dimension) are **orthogonal dimensions** and must not be mixed.
+copies\EN_full_ch06.md:139:Implements EML Condition 2 (Systematic Support Reduction), gradually decreasing from S4 → S1 → S0.
+copies\EN_full_ch06.md:369:- **SGS**: Implements systematic support reduction (S4 → S1 → S0), introduces fallback and minimum support mechanisms
+copies\EN_full_part_C.md:34:> (2) **Systematic Support Reduction:** Decrease AI support intensity from S4→S1→S0 according to a **reduction curve**.
+copies\EN_full_part_C.md:40:> **Support Level Stack (S4→S1→S0)** expresses support intensity and is orthogonal to LSA-F.
+copies\EN_full_part_C.md:111:**Scaffolding theory** (Wood et al., 1976). Effective support is **temporary**, with systematic reduction (S4→S1→S0). As with physical scaffolds, AI support must recede once capability forms.
+copies\EN_full_part_C.md:115:### 3.3.2 Support Level Stack (S4→S1→S0)
+copies\EN_full_part_C.md:167:- Follow the reduction curve (S4→S1→S0);
+0_raw\ARVIX2025A.md:15:大语言模型等AI工具正深刻改变人类工作方式，但其对独立能力的长期影响尚不明确。本研究提出认知能力迁移理论（CET），通过“反脆弱性验证原则”（AVP）测量独立能力是否因AI辅助而提升或退化。研究建立了五层认知锚点（B1-B5）测量框架，提出“内共生最小法则"（EML）设计原则，通过有益摩擦（50-70%成功率，工作假设）和系统性支持削减（S4→S1→0）促进能力内化。核心判据：$P_2 \geq B_0 + \delta$（拔线后能力需超越基线）。理论提出8个可证伪假说，明确适用边界，承诺开放科学验证。
+0_raw\ARVIX2025A.md:15:大语言模型等AI工具正深刻改变人类工作方式，但其对独立能力的长期影响尚不明确。本研究提出认知能力迁移理论（CET），通过“反脆弱性验证原则”（AVP）测量独立能力是否因AI辅助而提升或退化。研究建立了五层认知锚点（B1-B5）测量框架，提出“内共生最小法则"（EML）设计原则，通过有益摩擦（50-70%成功率，工作假设）和系统性支持削减（S4→S1→0）促进能力内化。核心判据：$P_2 \geq B_0 + \delta$（拔线后能力需超越基线）。理论提出8个可证伪假说，明确适用边界，承诺开放科学验证。
+0_raw\ARVIX2025A.md:78:> 以**拔线测试**检验协作是否促进独立能力。核心判据：**$P_2 \geq B_0 + \delta$**。
+0_raw\ARVIX2025A.md:78:> 以**拔线测试**检验协作是否促进独立能力。核心判据：**$P_2 \geq B_0 + \delta$**。
+0_raw\ARVIX2025A.md:80:> 其中：$B_0$为使用AI前的基线能力，$P_2$为协作后在拔线窗口（W=4–8周，默认6周，工作假设）内的独立表现，$\delta$为最小提升阈值（$\geq 0.3SD$或10%，工作假设）。
+0_raw\ARVIX2025A.md:80:> 其中：$B_0$为使用AI前的基线能力，$P_2$为协作后在拔线窗口（W=4–8周，默认6周，工作假设）内的独立表现，$\delta$为最小提升阈值（$\geq 0.3SD$或10%，工作假设）。
+0_raw\ARVIX2025A.md:84:- **认知外骨骼模式**：独立表现显著下降（$P_2 < B_0$），永久依赖AI
+0_raw\ARVIX2025A.md:84:- **认知外骨骼模式**：独立表现显著下降（$P_2 < B_0$），永久依赖AI
+0_raw\ARVIX2025A.md:85:- **认知内共生模式**：独立表现超越原有水平（$P_2 \geq B_0 + \delta$），AI使用强化底层能力
+0_raw\ARVIX2025A.md:85:- **认知内共生模式**：独立表现超越原有水平（$P_2 \geq B_0 + \delta$），AI使用强化底层能力
+0_raw\ARVIX2025A.md:117:- $P_2 \geq B_0 + \delta$：成功（认知内共生）
+0_raw\ARVIX2025A.md:117:- $P_2 \geq B_0 + \delta$：成功（认知内共生）
+0_raw\ARVIX2025A.md:118:- $P_2 \approx B_0$：中性（未造成损害但未促进成长）
+0_raw\ARVIX2025A.md:118:- $P_2 \approx B_0$：中性（未造成损害但未促进成长）
+0_raw\ARVIX2025A.md:119:- $P_2 < B_0$：失败（认知外骨骼）
+0_raw\ARVIX2025A.md:119:- $P_2 < B_0$：失败（认知外骨骼）
+0_raw\ARVIX2025A.md:129:> 二者为设计层面的联合充分条件，但最终仍需**AVP（$P_2 \geq B_0 + \delta$）作为验收必要条件**。
+0_raw\ARVIX2025A.md:129:> 二者为设计层面的联合充分条件，但最终仍需**AVP（$P_2 \geq B_0 + \delta$）作为验收必要条件**。
+0_raw\ARVIX2025A.md:157:| AVP结果 | $P_2 \leq B_0$ | $P_2 \geq B_0 + \delta$ |
+0_raw\ARVIX2025A.md:157:| AVP结果 | $P_2 \leq B_0$ | $P_2 \geq B_0 + \delta$ |
+0_raw\ARVIX2025A.md:157:| AVP结果 | $P_2 \leq B_0$ | $P_2 \geq B_0 + \delta$ |
+0_raw\ARVIX2025A.md:157:| AVP结果 | $P_2 \leq B_0$ | $P_2 \geq B_0 + \delta$ |
+0_raw\ARVIX2025A.md:217:**CET的贡献**：AVP（$P_2 \geq B_0 + \delta$）提供第一个可操作、可证伪的评估标准。EML提供从问题诊断到解决方案设计的完整路径。
+0_raw\ARVIX2025A.md:217:**CET的贡献**：AVP（$P_2 \geq B_0 + \delta$）提供第一个可操作、可证伪的评估标准。EML提供从问题诊断到解决方案设计的完整路径。
+0_raw\ARVIX2025A.md:228:**CET的重构**：从“功能对等"升级为“过程对等"——不仅问“工具是否帮助完成任务"，更问“工具使用是否促进用户能力提升"。AVP提供良性延展vs病理延展的可证伪分界：$P_2 \geq B_0 + \delta$为良性，$P_2 < B_0$为病理。EML的“系统性支持削减"确保延展是临时脚手架而非永久拐杖。
+0_raw\ARVIX2025A.md:228:**CET的重构**：从“功能对等"升级为“过程对等"——不仅问“工具是否帮助完成任务"，更问“工具使用是否促进用户能力提升"。AVP提供良性延展vs病理延展的可证伪分界：$P_2 \geq B_0 + \delta$为良性，$P_2 < B_0$为病理。EML的“系统性支持削减"确保延展是临时脚手架而非永久拐杖。
+0_raw\ARVIX2025A.md:228:**CET的重构**：从“功能对等"升级为“过程对等"——不仅问“工具是否帮助完成任务"，更问“工具使用是否促进用户能力提升"。AVP提供良性延展vs病理延展的可证伪分界：$P_2 \geq B_0 + \delta$为良性，$P_2 < B_0$为病理。EML的“系统性支持削减"确保延展是临时脚手架而非永久拐杖。
+0_raw\ARVIX2025A.md:228:**CET的重构**：从“功能对等"升级为“过程对等"——不仅问“工具是否帮助完成任务"，更问“工具使用是否促进用户能力提升"。AVP提供良性延展vs病理延展的可证伪分界：$P_2 \geq B_0 + \delta$为良性，$P_2 < B_0$为病理。EML的“系统性支持削减"确保延展是临时脚手架而非永久拐杖。
+0_raw\ARVIX2025A.md:232:**自动化悖论**（Bainbridge, 1983）：自动化越完善，操作员在需要介入时的能力越差。航空案例（法航447航班）：飞行员在自动驾驶时表现正常（$P_1$高），系统失效后手动操作能力不足（$P_2$低）。这种“永久支持→能力退化"模式正是CET警示的“认知外骨骼"。
+0_raw\ARVIX2025A.md:250:**CET的转化**：神经科学和认知训练证据转化为三个可操作设计旋钮——①摩擦旋钮（50-70%成功率），②削减旋钮（S4→S1→0），③验证闭环（$P_2 \geq B_0 + \delta$）。
+0_raw\ARVIX2025A.md:250:**CET的转化**：神经科学和认知训练证据转化为三个可操作设计旋钮——①摩擦旋钮（50-70%成功率），②削减旋钮（S4→S1→0），③验证闭环（$P_2 \geq B_0 + \delta$）。
+0_raw\ARVIX2025A.md:262:- **空白1（评估标准）**：AVP提供第一个可操作参考标准（$P_2 \geq B_0 + \delta$）
+0_raw\ARVIX2025A.md:262:- **空白1（评估标准）**：AVP提供第一个可操作参考标准（$P_2 \geq B_0 + \delta$）
+0_raw\ARVIX2025A.md:280:| **$B_0$** | 用户使用AI前的独立能力基线 | 任务特定测量 |
+0_raw\ARVIX2025A.md:282:| **$P_2$** | 用户在拔线窗口后的独立表现 | AVP验证的核心指标 |
+0_raw\ARVIX2025A.md:294:> **判据**：$P_2 \geq B_0 + \delta$（其中$\delta \geq 0.3SD$或10%，工作假设，需跨领域/任务校准）。**$P_1$（协作表现）不参与最终判定。**
+0_raw\ARVIX2025A.md:294:> **判据**：$P_2 \geq B_0 + \delta$（其中$\delta \geq 0.3SD$或10%，工作假设，需跨领域/任务校准）。**$P_1$（协作表现）不参与最终判定。**
+0_raw\ARVIX2025A.md:304:> 二者为**联合充分**的设计条件，但最终仍需**AVP（$P_2 \geq B_0 + \delta$）作为验收必要条件**。
+0_raw\ARVIX2025A.md:304:> 二者为**联合充分**的设计条件，但最终仍需**AVP（$P_2 \geq B_0 + \delta$）作为验收必要条件**。
+0_raw\ARVIX2025A.md:327:### 3.1.1 为什么是$P_2$而非$P_1$？
+0_raw\ARVIX2025A.md:331:- **$B_0$（拔线前独立基线）**
+0_raw\ARVIX2025A.md:333:- **$P_2$（协作后独立表现，拔线窗口W=4–8周，默认6周，工作假设）**
+0_raw\ARVIX2025A.md:341:- $P_2 \geq B_0 + \delta$：成功（认知内共生）
+0_raw\ARVIX2025A.md:341:- $P_2 \geq B_0 + \delta$：成功（认知内共生）
+0_raw\ARVIX2025A.md:342:- $P_2 \approx B_0$：中性（未造成损害但未促进成长）
+0_raw\ARVIX2025A.md:342:- $P_2 \approx B_0$：中性（未造成损害但未促进成长）
+0_raw\ARVIX2025A.md:343:- $P_2 < B_0$：失败（认知外骨骼）
+0_raw\ARVIX2025A.md:343:- $P_2 < B_0$：失败（认知外骨骼）
+0_raw\ARVIX2025A.md:363:**零摩擦的陷阱**：当AI提供“零摩擦"体验时，用户短期表现可能很好（$P_1$高），但长期能力往往停滞或退化（$P_2$不增甚至下降）。
+0_raw\ARVIX2025A.md:458:- 协作的最终目标是用户独立能力的提升（$P_2 \geq B_0 + \delta$）
+0_raw\ARVIX2025A.md:458:- 协作的最终目标是用户独立能力的提升（$P_2 \geq B_0 + \delta$）
+0_raw\ARVIX2025A.md:489:- $P_2 < B_0$：拔线后能力显著下降
+0_raw\ARVIX2025A.md:489:- $P_2 < B_0$：拔线后能力显著下降
+0_raw\ARVIX2025A.md:490:- 或$P_2 \approx B_0$：能力未增长，只是维持
+0_raw\ARVIX2025A.md:490:- 或$P_2 \approx B_0$：能力未增长，只是维持
+0_raw\ARVIX2025A.md:523:1. **建立可证伪标准**：AVP提供明确判据（$P_2 \geq B_0 + \delta$），将“健康人机关系"从抽象概念转化为可测量问题
+0_raw\ARVIX2025A.md:523:1. **建立可证伪标准**：AVP提供明确判据（$P_2 \geq B_0 + \delta$），将“健康人机关系"从抽象概念转化为可测量问题
+0_raw\ARVIX2025AEN.md:13:Large language models and other AI tools are profoundly reshaping human work practices, yet their long-term impact on independent capabilities remains unclear. This study proposes the Cognitive Endosymbiosis Theory (CET), which measures whether independent capabilities are enhanced or degraded by AI assistance through the "Antifragility Validation Principle" (AVP). The research establishes a five-anchor measurement framework (B1-B5) and proposes design principles through the "Endosymbiotic Minimal Law" (EML), which promotes capability internalization via beneficial friction (50$\text{–}$70% success rate, working assumption) and systematic support reduction (S4$\rightarrow$S1$\rightarrow$S0). The core criterion: $P_2 \geq B_0 + \delta$ (post-unplugged capability must exceed baseline). The theory presents eight falsifiable hypotheses, explicitly defines applicability boundaries, and commits to open science validation (see Appendix B; Section 3.0 anchor texts).
+0_raw\ARVIX2025AEN.md:13:Large language models and other AI tools are profoundly reshaping human work practices, yet their long-term impact on independent capabilities remains unclear. This study proposes the Cognitive Endosymbiosis Theory (CET), which measures whether independent capabilities are enhanced or degraded by AI assistance through the "Antifragility Validation Principle" (AVP). The research establishes a five-anchor measurement framework (B1-B5) and proposes design principles through the "Endosymbiotic Minimal Law" (EML), which promotes capability internalization via beneficial friction (50$\text{–}$70% success rate, working assumption) and systematic support reduction (S4$\rightarrow$S1$\rightarrow$S0). The core criterion: $P_2 \geq B_0 + \delta$ (post-unplugged capability must exceed baseline). The theory presents eight falsifiable hypotheses, explicitly defines applicability boundaries, and commits to open science validation (see Appendix B; Section 3.0 anchor texts).
+0_raw\ARVIX2025AEN.md:79:> Validate collaboration through **Unplugged Test** to verify whether it promotes independent capability. Core criterion: **$P_2 \geq B_0 + \delta$**.
+0_raw\ARVIX2025AEN.md:79:> Validate collaboration through **Unplugged Test** to verify whether it promotes independent capability. Core criterion: **$P_2 \geq B_0 + \delta$**.
+0_raw\ARVIX2025AEN.md:81:> Where: $B_0$ is the baseline capability before using AI, $P_2$ is independent performance within the unplugged window after collaboration ($W = 4\text{–}8$ weeks, default 6 weeks, working assumption), and $\delta$ is the minimum meaningful lift threshold ($\geq 0.3\,\mathrm{SD}$ or 10%, working assumption).
+0_raw\ARVIX2025AEN.md:81:> Where: $B_0$ is the baseline capability before using AI, $P_2$ is independent performance within the unplugged window after collaboration ($W = 4\text{–}8$ weeks, default 6 weeks, working assumption), and $\delta$ is the minimum meaningful lift threshold ($\geq 0.3\,\mathrm{SD}$ or 10%, working assumption).
+0_raw\ARVIX2025AEN.md:85:- **Cognitive Exoskeleton mode**: Independent performance significantly declines ($P_2 < B_0$), permanent AI dependency
+0_raw\ARVIX2025AEN.md:85:- **Cognitive Exoskeleton mode**: Independent performance significantly declines ($P_2 < B_0$), permanent AI dependency
+0_raw\ARVIX2025AEN.md:86:- **Cognitive Endosymbiosis mode**: Independent performance exceeds original level ($P_2 \geq B_0 + \delta$), AI use strengthens underlying capabilities
+0_raw\ARVIX2025AEN.md:86:- **Cognitive Endosymbiosis mode**: Independent performance exceeds original level ($P_2 \geq B_0 + \delta$), AI use strengthens underlying capabilities
+0_raw\ARVIX2025AEN.md:118:- $P_2 \geq B_0 + \delta$: Success (Cognitive Endosymbiosis)
+0_raw\ARVIX2025AEN.md:118:- $P_2 \geq B_0 + \delta$: Success (Cognitive Endosymbiosis)
+0_raw\ARVIX2025AEN.md:119:- $P_2 \approx B_0$: Neutral (no harm caused but no growth promoted)
+0_raw\ARVIX2025AEN.md:119:- $P_2 \approx B_0$: Neutral (no harm caused but no growth promoted)
+0_raw\ARVIX2025AEN.md:120:- $P_2 < B_0$: Failure (Cognitive Exoskeleton)
+0_raw\ARVIX2025AEN.md:120:- $P_2 < B_0$: Failure (Cognitive Exoskeleton)
+0_raw\ARVIX2025AEN.md:130:> These two constitute jointly sufficient design conditions, but ultimately still require **AVP ($P_2 \geq B_0 + \delta$) as the necessary acceptance criterion**.
+0_raw\ARVIX2025AEN.md:130:> These two constitute jointly sufficient design conditions, but ultimately still require **AVP ($P_2 \geq B_0 + \delta$) as the necessary acceptance criterion**.
+0_raw\ARVIX2025AEN.md:158:| AVP outcome        | $P_2 \leq B_0$         | $P_2 \geq B_0 + \delta$         |
+0_raw\ARVIX2025AEN.md:158:| AVP outcome        | $P_2 \leq B_0$         | $P_2 \geq B_0 + \delta$         |
+0_raw\ARVIX2025AEN.md:158:| AVP outcome        | $P_2 \leq B_0$         | $P_2 \geq B_0 + \delta$         |
+0_raw\ARVIX2025AEN.md:158:| AVP outcome        | $P_2 \leq B_0$         | $P_2 \geq B_0 + \delta$         |
+0_raw\ARVIX2025B.md:9:**核心判据**：$P_2 \geq B_0 + \delta$（拔线后能力超越基线） **关键机制**：有益摩擦（50-70%成功率，工作假设）+ 系统性支持削减（S4→S1→0） **适用场景**：学习工具、技能训练、个人生产力工具
+0_raw\ARVIX2025B.md:9:**核心判据**：$P_2 \geq B_0 + \delta$（拔线后能力超越基线） **关键机制**：有益摩擦（50-70%成功率，工作假设）+ 系统性支持削减（S4→S1→0） **适用场景**：学习工具、技能训练、个人生产力工具
+0_raw\ARVIX2025B.md:123:3. **验证逻辑一致性**：基线$B_0$ + 提升$\delta$的统一框架
+0_raw\ARVIX2025B.md:366:| **个体** | 任务日志 | 任务完成、$P_2$测试 | 实时 |
+0_raw\ARVIX2025B.md:388:1. 直接测量：$P_2$拔线测试（参考标准）
+0_raw\ARVIX2025B.md:445:- **差异化AVP**：残障用户调整基线$B_0$和$\delta$，但不降低“提升"要求
+0_raw\ARVIX2025BEN.md:21:**CET's contribution**: AVP ($P_2 \geq B_0 + \delta$) provides an operationalizable, falsifiable evaluation criterion. EML provides a complete path from problem diagnosis to solution design.
+0_raw\ARVIX2025BEN.md:21:**CET's contribution**: AVP ($P_2 \geq B_0 + \delta$) provides an operationalizable, falsifiable evaluation criterion. EML provides a complete path from problem diagnosis to solution design.
+0_raw\ARVIX2025BEN.md:32:**CET's reconstruction**: From "functional parity" to "process parity"—not only "does the tool help complete tasks" but also "does tool use promote capability enhancement." AVP supplies a falsifiable boundary: $P_2 \geq B_0 + \delta$ (benign) vs. $P_2 < B_0$ (pathological). EML's systematic support reduction (S4$\rightarrow$S1$\rightarrow$S0) helps ensure extension is temporary scaffolding rather than a permanent crutch.
+0_raw\ARVIX2025BEN.md:32:**CET's reconstruction**: From "functional parity" to "process parity"—not only "does the tool help complete tasks" but also "does tool use promote capability enhancement." AVP supplies a falsifiable boundary: $P_2 \geq B_0 + \delta$ (benign) vs. $P_2 < B_0$ (pathological). EML's systematic support reduction (S4$\rightarrow$S1$\rightarrow$S0) helps ensure extension is temporary scaffolding rather than a permanent crutch.
+0_raw\ARVIX2025BEN.md:32:**CET's reconstruction**: From "functional parity" to "process parity"—not only "does the tool help complete tasks" but also "does tool use promote capability enhancement." AVP supplies a falsifiable boundary: $P_2 \geq B_0 + \delta$ (benign) vs. $P_2 < B_0$ (pathological). EML's systematic support reduction (S4$\rightarrow$S1$\rightarrow$S0) helps ensure extension is temporary scaffolding rather than a permanent crutch.
+0_raw\ARVIX2025BEN.md:32:**CET's reconstruction**: From "functional parity" to "process parity"—not only "does the tool help complete tasks" but also "does tool use promote capability enhancement." AVP supplies a falsifiable boundary: $P_2 \geq B_0 + \delta$ (benign) vs. $P_2 < B_0$ (pathological). EML's systematic support reduction (S4$\rightarrow$S1$\rightarrow$S0) helps ensure extension is temporary scaffolding rather than a permanent crutch.
+0_raw\ARVIX2025BEN.md:36:**Automation paradox** (Bainbridge, 1983): The more perfect the automation, the worse operators' capabilities when intervention is needed. Aviation case (Air France Flight 447): Pilots operated normally under autopilot ($P_1$ high) but lacked manual proficiency when the system failed ($P_2$ low). This "permanent support → capability degradation" pattern is the "Cognitive Exoskeleton" CET warns against.
+0_raw\ARVIX2025BEN.md:54:**CET's transformation**: Converts evidence into three design knobs—① friction (50–70% success rate, working assumption), ② reduction (S4$\rightarrow$S1$\rightarrow$S0), ③ validation ($P_2 \geq B_0 + \delta$).
+0_raw\ARVIX2025BEN.md:54:**CET's transformation**: Converts evidence into three design knobs—① friction (50–70% success rate, working assumption), ② reduction (S4$\rightarrow$S1$\rightarrow$S0), ③ validation ($P_2 \geq B_0 + \delta$).
+0_raw\ARVIX2025BEN.md:66:**Gap 1 (evaluation)**: AVP offers an operationalizable reference ($P_2 \geq B_0 + \delta$).
+0_raw\ARVIX2025BEN.md:66:**Gap 1 (evaluation)**: AVP offers an operationalizable reference ($P_2 \geq B_0 + \delta$).
+0_raw\ARVIX2025C.md:47:- **声明**：在程序性认知任务中，通过有益摩擦（50-70%成功率，工作假设）+ 系统性支持削减（$S_4 \to S_1$）设计的AI工具，协作W周后，用户在拔线窗口内的独立表现将显著优于基线（$P_2 \geq B_0 + \delta$）。
+0_raw\ARVIX2025C.md:47:- **声明**：在程序性认知任务中，通过有益摩擦（50-70%成功率，工作假设）+ 系统性支持削减（$S_4 \to S_1$）设计的AI工具，协作W周后，用户在拔线窗口内的独立表现将显著优于基线（$P_2 \geq B_0 + \delta$）。
+0_raw\ARVIX2025C.md:48:- **证伪条件**：严格RCT设计下，实验组与对照组$P_2$表现无显著差异（效应量<0.2），或$P_2 < B_0$。
+0_raw\ARVIX2025C.md:48:- **证伪条件**：严格RCT设计下，实验组与对照组$P_2$表现无显著差异（效应量<0.2），或$P_2 < B_0$。
+0_raw\ARVIX2025C.md:48:- **证伪条件**：严格RCT设计下，实验组与对照组$P_2$表现无显著差异（效应量<0.2），或$P_2 < B_0$。
+0_raw\ARVIX2025C.md:53:- **声明**：存在“最优挑战区"（50-70%成功率，工作假设），在此区间内用户能力提升（$P_2$-$B_0$）最大化。
+0_raw\ARVIX2025C.md:53:- **声明**：存在“最优挑战区"（50-70%成功率，工作假设），在此区间内用户能力提升（$P_2$-$B_0$）最大化。
+0_raw\ARVIX2025C.md:60:- **证伪条件**：固定支持组$P_2$表现不劣于削减组。
+0_raw\ARVIX2025C.md:186:AI作为认知伙伴，通过有益摩擦和系统性支持削减，促进用户独立能力提升的人机协作模式。特征：①有益认知摩擦 ②系统性支持削减 ③AVP验证通过（$P_2 \geq B_0 + \delta$）。首次出现：1.3节，完整定义：3.0.3节（EML定义锚点B2）。对照：认知外骨骼（病理模式）。
+0_raw\ARVIX2025C.md:186:AI作为认知伙伴，通过有益摩擦和系统性支持削减，促进用户独立能力提升的人机协作模式。特征：①有益认知摩擦 ②系统性支持削减 ③AVP验证通过（$P_2 \geq B_0 + \delta$）。首次出现：1.3节，完整定义：3.0.3节（EML定义锚点B2）。对照：认知外骨骼（病理模式）。
+0_raw\ARVIX2025C.md:189:过度依赖AI导致独立能力退化的病理模式。特征：①零摩擦设计 ②无支持削减 ③AVP失败（$P_2 < B_0$）。用户在协作时表现良好（$P_1$高），但拔线后能力下降（$P_2 < B_0$）。首次出现：1.2节，详细定义：3.0.6节。对照：认知内共生（目标模式）。
+0_raw\ARVIX2025C.md:189:过度依赖AI导致独立能力退化的病理模式。特征：①零摩擦设计 ②无支持削减 ③AVP失败（$P_2 < B_0$）。用户在协作时表现良好（$P_1$高），但拔线后能力下降（$P_2 < B_0$）。首次出现：1.2节，详细定义：3.0.6节。对照：认知内共生（目标模式）。
+0_raw\ARVIX2025C.md:189:过度依赖AI导致独立能力退化的病理模式。特征：①零摩擦设计 ②无支持削减 ③AVP失败（$P_2 < B_0$）。用户在协作时表现良好（$P_1$高），但拔线后能力下降（$P_2 < B_0$）。首次出现：1.2节，详细定义：3.0.6节。对照：认知内共生（目标模式）。
+0_raw\ARVIX2025C.md:189:过度依赖AI导致独立能力退化的病理模式。特征：①零摩擦设计 ②无支持削减 ③AVP失败（$P_2 < B_0$）。用户在协作时表现良好（$P_1$高），但拔线后能力下降（$P_2 < B_0$）。首次出现：1.2节，详细定义：3.0.6节。对照：认知内共生（目标模式）。
+0_raw\ARVIX2025C.md:192:以拔线测试检验人机协作是否促进独立能力的评估标准。核心判据：$P_2 \geq B_0 + \delta$，其中$B_0$为基线能力，$P_2$为拔线后独立表现，$\delta$为最小提升阈值（$\geq 0$.3SD或10%，工作假设）。$P_1$（协作期表现）不参与最终判定。首次出现：1.3节，完整定义：3.0.2节（AVP定义锚点B1）。
+0_raw\ARVIX2025C.md:192:以拔线测试检验人机协作是否促进独立能力的评估标准。核心判据：$P_2 \geq B_0 + \delta$，其中$B_0$为基线能力，$P_2$为拔线后独立表现，$\delta$为最小提升阈值（$\geq 0$.3SD或10%，工作假设）。$P_1$（协作期表现）不参与最终判定。首次出现：1.3节，完整定义：3.0.2节（AVP定义锚点B1）。
+0_raw\ARVIX2025C.md:192:以拔线测试检验人机协作是否促进独立能力的评估标准。核心判据：$P_2 \geq B_0 + \delta$，其中$B_0$为基线能力，$P_2$为拔线后独立表现，$\delta$为最小提升阈值（$\geq 0$.3SD或10%，工作假设）。$P_1$（协作期表现）不参与最终判定。首次出现：1.3节，完整定义：3.0.2节（AVP定义锚点B1）。
+0_raw\ARVIX2025C.md:192:以拔线测试检验人机协作是否促进独立能力的评估标准。核心判据：$P_2 \geq B_0 + \delta$，其中$B_0$为基线能力，$P_2$为拔线后独立表现，$\delta$为最小提升阈值（$\geq 0$.3SD或10%，工作假设）。$P_1$（协作期表现）不参与最终判定。首次出现：1.3节，完整定义：3.0.2节（AVP定义锚点B1）。
+0_raw\ARVIX2025C.md:195:构成认知内共生的设计必要条件：①有益认知摩擦（最优挑战区，成功率50-70%，工作假设）②系统性支持削减（$S_4 \to S_1 \to 0$）。二者为联合充分的设计条件，但最终需AVP（$P_2 \geq B_0 + \delta$）作为验收必要条件。首次出现：1.3节，完整定义：3.0.3节（EML定义锚点B2）。
+0_raw\ARVIX2025C.md:195:构成认知内共生的设计必要条件：①有益认知摩擦（最优挑战区，成功率50-70%，工作假设）②系统性支持削减（$S_4 \to S_1 \to 0$）。二者为联合充分的设计条件，但最终需AVP（$P_2 \geq B_0 + \delta$）作为验收必要条件。首次出现：1.3节，完整定义：3.0.3节（EML定义锚点B2）。
+0_raw\ARVIX2025C.md:228:**基线能力（$B_0$, Baseline Capability）**
+0_raw\ARVIX2025C.md:234:**拔线后能力（$P_2$, Post-Unplugged Performance）**
+0_raw\ARVIX2025C.md:235:用户在拔线窗口（W=4-8周，默认6周）后的独立任务表现，AVP验证的核心指标。测量要求：等值平行测验、无AI环境、盲评。判定：$P_2 \geq B_0 + \delta$为成功。首次出现：3.0.2节。
+0_raw\ARVIX2025C.md:235:用户在拔线窗口（W=4-8周，默认6周）后的独立任务表现，AVP验证的核心指标。测量要求：等值平行测验、无AI环境、盲评。判定：$P_2 \geq B_0 + \delta$为成功。首次出现：3.0.2节。
+0_raw\ARVIX2025C.md:244:用户能力状态的多维向量表示，随时间t变化。典型维度（5-20维，需领域定义）：问题分解、实现技能、调试能力、元认知等。数据来源：①$P_2$拔线测试（参考标准）②日常任务表现（间接推断）③自我报告（辅助）④同行评议（团队层）。首次出现：5.4节。
+0_raw\ARVIX2025C.md:249:个体反脆弱性验证。核心判据：$P_2 \geq B_0 + \delta$。适用场景：学习工具、技能训练、个人生产力工具。测量方法：标准拔线测试（W=4-8周）。这是CET的基础尺度，其他尺度由此扩展。首次出现：4.1节。
+0_raw\ARVIX2025C.md:249:个体反脆弱性验证。核心判据：$P_2 \geq B_0 + \delta$。适用场景：学习工具、技能训练、个人生产力工具。测量方法：标准拔线测试（W=4-8周）。这是CET的基础尺度，其他尺度由此扩展。首次出现：4.1节。
+0_raw\ARVIX2025CEN.md:15:| $B_0$ | User's independent capability baseline before using AI | Task-specific measurement |
+0_raw\ARVIX2025CEN.md:17:| $P_2$ | User's independent performance after the unplugged window | Core indicator for AVP validation |
+0_raw\ARVIX2025CEN.md:28:> **Criterion:** $P_2 \geq B_0 + \delta$ (where $\delta \geq 0.3\,\text{SD}$ or 10%, working assumption; requires cross-domain/task calibration). **$P_1$ (collaboration performance) is not included in final judgment.**
+0_raw\ARVIX2025CEN.md:28:> **Criterion:** $P_2 \geq B_0 + \delta$ (where $\delta \geq 0.3\,\text{SD}$ or 10%, working assumption; requires cross-domain/task calibration). **$P_1$ (collaboration performance) is not included in final judgment.**
+0_raw\ARVIX2025CEN.md:35:> These two are **jointly sufficient** design conditions, but the final acceptance still requires **AVP ($P_2 \geq B_0 + \delta$).**
+0_raw\ARVIX2025CEN.md:35:> These two are **jointly sufficient** design conditions, but the final acceptance still requires **AVP ($P_2 \geq B_0 + \delta$).**
+0_raw\ARVIX2025CEN.md:54:### 3.1.1 Why $P_2$ Rather Than $P_1$?
+0_raw\ARVIX2025CEN.md:57:**$B_0$** (pre-collaboration independent baseline);
+0_raw\ARVIX2025CEN.md:59:**$P_2$** (post-collaboration independent performance; unplugged window $W=4$–$8$ weeks; default 6 weeks; working assumption).
+0_raw\ARVIX2025CEN.md:66:$P_2 \geq B_0 + \delta$: Success (Cognitive Endosymbiosis);
+0_raw\ARVIX2025CEN.md:66:$P_2 \geq B_0 + \delta$: Success (Cognitive Endosymbiosis);
+0_raw\ARVIX2025CEN.md:67:$P_2 \approx B_0$: Neutral (no harm, no growth);
+0_raw\ARVIX2025CEN.md:67:$P_2 \approx B_0$: Neutral (no harm, no growth);
+0_raw\ARVIX2025CEN.md:68:$P_2 < B_0$: Failure (Cognitive Exoskeleton).
+0_raw\ARVIX2025CEN.md:68:$P_2 < B_0$: Failure (Cognitive Exoskeleton).
+0_raw\ARVIX2025CEN.md:87:**Zero-friction trap.** "Zero-friction" experiences may yield high $P_1$ yet stagnate or reduce $P_2$.
+0_raw\ARVIX2025CEN.md:171:- The end-state is enhanced independence ($P_2 \geq B_0 + \delta$);
+0_raw\ARVIX2025CEN.md:171:- The end-state is enhanced independence ($P_2 \geq B_0 + \delta$);
+0_raw\ARVIX2025CEN.md:189:**AVP failure.** $P_2 < B_0$ (degradation) or $P_2 \approx B_0$ (no growth) → antifragility not achieved.
+0_raw\ARVIX2025CEN.md:189:**AVP failure.** $P_2 < B_0$ (degradation) or $P_2 \approx B_0$ (no growth) → antifragility not achieved.
+0_raw\ARVIX2025CEN.md:189:**AVP failure.** $P_2 < B_0$ (degradation) or $P_2 \approx B_0$ (no growth) → antifragility not achieved.
+0_raw\ARVIX2025CEN.md:189:**AVP failure.** $P_2 < B_0$ (degradation) or $P_2 \approx B_0$ (no growth) → antifragility not achieved.
+0_raw\ARVIX2025CEN.md:205:1) **Falsifiable standard:** AVP turns "healthy human–AI relations" into a measurable criterion ($P_2 \geq B_0 + \delta$);
+0_raw\ARVIX2025CEN.md:205:1) **Falsifiable standard:** AVP turns "healthy human–AI relations" into a measurable criterion ($P_2 \geq B_0 + \delta$);
+0_raw\ARVIX2025D.md:7:| **AVP判据** | $P_2 \geq B_0 + \delta$ | 3.0.2节 | 3.0.2节 | 全文 | - |
+0_raw\ARVIX2025D.md:7:| **AVP判据** | $P_2 \geq B_0 + \delta$ | 3.0.2节 | 3.0.2节 | 全文 | - |
+0_raw\ARVIX2025D.md:38:- $B_0$（基线）：无AI环境下完成3个编程任务，平均得分62/100
+0_raw\ARVIX2025D.md:41:- $P_2$（拔线后）：完成等值任务，平均得分78/100
+0_raw\ARVIX2025D.md:42:- **判定**：ΔC = $P_2$ - $B_0$ = 16分 > $\delta$(10分，$\approx$0.3SD) → **AVP通过**
+0_raw\ARVIX2025D.md:42:- **判定**：ΔC = $P_2$ - $B_0$ = 16分 > $\delta$(10分，$\approx$0.3SD) → **AVP通过**
+0_raw\ARVIX2025D.md:80:- A组：所有8人I-AVP通过（$P_2 \geq B_0 + \delta$）
+0_raw\ARVIX2025D.md:80:- A组：所有8人I-AVP通过（$P_2 \geq B_0 + \delta$）
+0_raw\ARVIX2025D.md:81:- B组：仅3人通过，5人失败（$P_2 < B_0$或$P_2 \approx B_0$）
+0_raw\ARVIX2025D.md:81:- B组：仅3人通过，5人失败（$P_2 < B_0$或$P_2 \approx B_0$）
+0_raw\ARVIX2025D.md:81:- B组：仅3人通过，5人失败（$P_2 < B_0$或$P_2 \approx B_0$）
+0_raw\ARVIX2025D.md:81:- B组：仅3人通过，5人失败（$P_2 < B_0$或$P_2 \approx B_0$）
+0_raw\ARVIX2025D.md:126:- [ ] 记录：$B_0$分数、完成时间、主观难度（1-10量表）
+0_raw\ARVIX2025D.md:153:- 取平均分为$B_0$
+0_raw\ARVIX2025D.md:192:- 计算$P_2$，判定AVP结果：
+0_raw\ARVIX2025D.md:193:- $P_2 \geq B_0 + \delta$：成功（认知内共生）
+0_raw\ARVIX2025D.md:193:- $P_2 \geq B_0 + \delta$：成功（认知内共生）
+0_raw\ARVIX2025D.md:194:- $P_2 \approx B_0$：中性
+0_raw\ARVIX2025D.md:194:- $P_2 \approx B_0$：中性
+0_raw\ARVIX2025D.md:195:- $P_2 < B_0$：失败（认知外骨骼）
+0_raw\ARVIX2025D.md:195:- $P_2 < B_0$：失败（认知外骨骼）
+0_raw\ARVIX2025D.md:317:- AVP的$\delta$阈值可个性化调整（如基于个体的$B_0$）
+0_raw\ARVIX2025D.md:325:- 某公司将AVP用于员工晋升评估 → 员工人为操纵基线$B_0$（故意低分）、拔线期违规使用AI → AVP完全失效
+0_raw\ARVIX2025DEN.md:7:| **AVP Criterion** | $P_2 \geq B_0 + \delta$ | Section 3.0.2 | Section 3.0.2 | Throughout | - |
+0_raw\ARVIX2025DEN.md:7:| **AVP Criterion** | $P_2 \geq B_0 + \delta$ | Section 3.0.2 | Section 3.0.2 | Throughout | - |
+0_raw\ARVIX2025DEN.md:40:$B_0$ (baseline): Completed 3 programming tasks without AI assistance, average score 62/100
+0_raw\ARVIX2025DEN.md:43:$P_2$ (post-unplugged): Completed equivalent tasks, average score 78/100
+0_raw\ARVIX2025DEN.md:44:**Judgment**: Define the capability increment as **$\Delta C = P_2 - B_0$**. ΔC = $P_2$ - $B_0$ = 16 points > $\delta$(10 points, $\approx 0.3\,\mathrm{SD}$) → **AVP Passed**
+0_raw\ARVIX2025DEN.md:44:**Judgment**: Define the capability increment as **$\Delta C = P_2 - B_0$**. ΔC = $P_2$ - $B_0$ = 16 points > $\delta$(10 points, $\approx 0.3\,\mathrm{SD}$) → **AVP Passed**
+0_raw\ARVIX2025DEN.md:44:**Judgment**: Define the capability increment as **$\Delta C = P_2 - B_0$**. ΔC = $P_2$ - $B_0$ = 16 points > $\delta$(10 points, $\approx 0.3\,\mathrm{SD}$) → **AVP Passed**
+0_raw\ARVIX2025DEN.md:44:**Judgment**: Define the capability increment as **$\Delta C = P_2 - B_0$**. ΔC = $P_2$ - $B_0$ = 16 points > $\delta$(10 points, $\approx 0.3\,\mathrm{SD}$) → **AVP Passed**
+0_raw\ARVIX2025DEN.md:82:- Group A: All 8 people passed I-AVP ($P_2 \geq B_0 + \delta$)
+0_raw\ARVIX2025DEN.md:82:- Group A: All 8 people passed I-AVP ($P_2 \geq B_0 + \delta$)
+0_raw\ARVIX2025DEN.md:83:- Group B: Only 3 passed, 5 failed ($P_2 < B_0$ or $P_2 \approx B_0$)
+0_raw\ARVIX2025DEN.md:83:- Group B: Only 3 passed, 5 failed ($P_2 < B_0$ or $P_2 \approx B_0$)
+0_raw\ARVIX2025DEN.md:83:- Group B: Only 3 passed, 5 failed ($P_2 < B_0$ or $P_2 \approx B_0$)
+0_raw\ARVIX2025DEN.md:83:- Group B: Only 3 passed, 5 failed ($P_2 < B_0$ or $P_2 \approx B_0$)
+0_raw\ARVIX2025DEN.md:128:- [ ] Record: $B_0$ score, completion time, subjective difficulty (1–10 scale)
+0_raw\ARVIX2025DEN.md:154:- Take average as $B_0$
+0_raw\ARVIX2025DEN.md:193:- Calculate $P_2$, determine AVP result:
+0_raw\ARVIX2025DEN.md:194:- $P_2 \geq B_0 + \delta$: Success (Cognitive Endosymbiosis)
+0_raw\ARVIX2025DEN.md:194:- $P_2 \geq B_0 + \delta$: Success (Cognitive Endosymbiosis)
+0_raw\ARVIX2025DEN.md:195:- $P_2 \approx B_0$: Neutral
+0_raw\ARVIX2025DEN.md:195:- $P_2 \approx B_0$: Neutral
+0_raw\ARVIX2025DEN.md:196:- $P_2 < B_0$: Failure (Cognitive Exoskeleton)
+0_raw\ARVIX2025DEN.md:196:- $P_2 < B_0$: Failure (Cognitive Exoskeleton)
+0_raw\ARVIX2025DEN.md:318:- AVP's $\delta$ threshold can be personalized (e.g., based on individual's $B_0$)
+0_raw\ARVIX2025DEN.md:326:- A company uses AVP for employee promotion evaluation → employees artificially manipulate baseline $B_0$ (intentionally low scores), use AI during unplugged period → AVP completely fails
+0_raw\Chapter 4.md:10:**Core criterion**: $P_2 \geq B_0 + \delta$ (capability after unplugging exceeds baseline)
+0_raw\Chapter 4.md:10:**Core criterion**: $P_2 \geq B_0 + \delta$ (capability after unplugging exceeds baseline)
+0_raw\Chapter 4.md:120:3. **Validation logic consistency**: Unified framework of baseline $B_0$ + improvement $\delta$
+0_raw\Chapter 4.md:162:| **Individual** | I-AVP | $P_2 \geq B_0 + \delta$ | Unplugged Test ($W = 4\text{–}8$ weeks) | Capability degradation |
+0_raw\Chapter 4.md:162:| **Individual** | I-AVP | $P_2 \geq B_0 + \delta$ | Unplugged Test ($W = 4\text{–}8$ weeks) | Capability degradation |
+0_raw\Chapter 5+6.md:191:| **Individual**   | Task logs             | Task completion, $P_2$ testing        | Real-time         |
+0_raw\Chapter 5+6.md:213:1. Direct measurement: $P_2$ Unplugged Test (reference standard)
+0_raw\Chapter 5+6.md:242:[SECTION CHECK] **Sentences translated**: 30 (1:1 with source) **New terms encountered**: None (all from established terminology) **Math formulas**: $P_2$, $C(t)$, $F$, $S(t)$ (all properly LaTeXified in tables) **Tables**: 2 tables with Goodhart safeguard notes (all formatted) **Special content**: Python code block for capability vector (properly formatted) **Potential issues**: None **Fidelity check**: ✓ Passed - 1:1 sentence alignment **Chinese character check**: ✓ No Chinese quotes/punctuation
+0_raw\Chapter 5+6.md:276:- **Differentiated AVP**: For users with disabilities, adjust baseline $B_0$ and $\delta$, but do not lower "improvement" requirements
+0_raw\Chapter 5+6.md:313:- Short-board effects **Math formulas**: $S(t)$, $F(t)$, $B_0$, $\delta$ (all properly LaTeXified) **Tables**: None **Special content**: Text-based strategy hierarchy diagram (preserved ASCII formatting) **Potential issues**: None **Fidelity check**: ✓ Passed - 1:1 sentence alignment **Chinese character check**: ✓ No Chinese quotes/punctuation
+0_raw\Chapter 5+6.md:431:- **Statement**: In procedural cognitive tasks, through AI tools designed with beneficial friction (50–70% success rate, working assumption) + systematic support reduction ($S_4 \to S_1$), after collaborating for $W$ weeks, users' independent performance within the unplugged window will significantly exceed baseline ($P_2 \geq B_0 + \delta$).
+0_raw\Chapter 5+6.md:431:- **Statement**: In procedural cognitive tasks, through AI tools designed with beneficial friction (50–70% success rate, working assumption) + systematic support reduction ($S_4 \to S_1$), after collaborating for $W$ weeks, users' independent performance within the unplugged window will significantly exceed baseline ($P_2 \geq B_0 + \delta$).
+0_raw\Chapter 5+6.md:432:- **Falsification condition**: Under rigorous RCT design, experimental group and control group show no significant difference in $P_2$ performance (effect size < 0.2), or $P_2 < B_0$.
+0_raw\Chapter 5+6.md:432:- **Falsification condition**: Under rigorous RCT design, experimental group and control group show no significant difference in $P_2$ performance (effect size < 0.2), or $P_2 < B_0$.
+0_raw\Chapter 5+6.md:432:- **Falsification condition**: Under rigorous RCT design, experimental group and control group show no significant difference in $P_2$ performance (effect size < 0.2), or $P_2 < B_0$.
+0_raw\Chapter 5+6.md:437:- **Statement**: An "optimal challenge zone" exists (50–70% success rate, working assumption); within this zone, user capability enhancement ($P_2 - B_0$) is maximized.
+0_raw\Chapter 5+6.md:437:- **Statement**: An "optimal challenge zone" exists (50–70% success rate, working assumption); within this zone, user capability enhancement ($P_2 - B_0$) is maximized.
+0_raw\Chapter 5+6.md:444:- **Falsification condition**: Fixed support group $P_2$ performance not inferior to reduction group.
+copies\EN_concise_main.md:15:å¤§è¯­è¨€æ¨¡åž‹ç­‰AIå·¥å…·æ­£æ·±åˆ»æ”¹å˜äººç±»å·¥ä½œæ–¹å¼ï¼Œä½†å…¶å¯¹ç‹¬ç«‹èƒ½åŠ›çš„é•¿æœŸå½±å“å°šä¸æ˜Žç¡®ã€‚æœ¬ç ”ç©¶æå‡ºè®¤çŸ¥èƒ½åŠ›è¿ç§»ç†è®ºï¼ˆCETï¼‰ï¼Œé€šè¿‡â€œåè„†å¼±æ€§éªŒè¯åŽŸåˆ™â€ï¼ˆAVPï¼‰æµ‹é‡ç‹¬ç«‹èƒ½åŠ›æ˜¯å¦å› AIè¾…åŠ©è€Œæå‡æˆ–é€€åŒ–ã€‚ç ”ç©¶å»ºç«‹äº†äº”å±‚è®¤çŸ¥é”šç‚¹ï¼ˆB1-B5ï¼‰æµ‹é‡æ¡†æž¶ï¼Œæå‡ºâ€œå†…å…±ç”Ÿæœ€å°æ³•åˆ™"ï¼ˆEMLï¼‰è®¾è®¡åŽŸåˆ™ï¼Œé€šè¿‡æœ‰ç›Šæ‘©æ“¦ï¼ˆ50-70%æˆåŠŸçŽ‡ï¼Œå·¥ä½œå‡è®¾ï¼‰å’Œç³»ç»Ÿæ€§æ”¯æŒå‰Šå‡ï¼ˆS4â†’S1â†’0ï¼‰ä¿ƒè¿›èƒ½åŠ›å†…åŒ–ã€‚æ ¸å¿ƒåˆ¤æ®ï¼š$P_2 \geq B_0 + \delta$ï¼ˆæ‹”çº¿åŽèƒ½åŠ›éœ€è¶…è¶ŠåŸºçº¿ï¼‰ã€‚ç†è®ºæå‡º8ä¸ªå¯è¯ä¼ªå‡è¯´ï¼Œæ˜Žç¡®é€‚ç”¨è¾¹ç•Œï¼Œæ‰¿è¯ºå¼€æ”¾ç§‘å­¦éªŒè¯ã€‚
+copies\EN_concise_main.md:15:å¤§è¯­è¨€æ¨¡åž‹ç­‰AIå·¥å…·æ­£æ·±åˆ»æ”¹å˜äººç±»å·¥ä½œæ–¹å¼ï¼Œä½†å…¶å¯¹ç‹¬ç«‹èƒ½åŠ›çš„é•¿æœŸå½±å“å°šä¸æ˜Žç¡®ã€‚æœ¬ç ”ç©¶æå‡ºè®¤çŸ¥èƒ½åŠ›è¿ç§»ç†è®ºï¼ˆCETï¼‰ï¼Œé€šè¿‡â€œåè„†å¼±æ€§éªŒè¯åŽŸåˆ™â€ï¼ˆAVPï¼‰æµ‹é‡ç‹¬ç«‹èƒ½åŠ›æ˜¯å¦å› AIè¾…åŠ©è€Œæå‡æˆ–é€€åŒ–ã€‚ç ”ç©¶å»ºç«‹äº†äº”å±‚è®¤çŸ¥é”šç‚¹ï¼ˆB1-B5ï¼‰æµ‹é‡æ¡†æž¶ï¼Œæå‡ºâ€œå†…å…±ç”Ÿæœ€å°æ³•åˆ™"ï¼ˆEMLï¼‰è®¾è®¡åŽŸåˆ™ï¼Œé€šè¿‡æœ‰ç›Šæ‘©æ“¦ï¼ˆ50-70%æˆåŠŸçŽ‡ï¼Œå·¥ä½œå‡è®¾ï¼‰å’Œç³»ç»Ÿæ€§æ”¯æŒå‰Šå‡ï¼ˆS4â†’S1â†’0ï¼‰ä¿ƒè¿›èƒ½åŠ›å†…åŒ–ã€‚æ ¸å¿ƒåˆ¤æ®ï¼š$P_2 \geq B_0 + \delta$ï¼ˆæ‹”çº¿åŽèƒ½åŠ›éœ€è¶…è¶ŠåŸºçº¿ï¼‰ã€‚ç†è®ºæå‡º8ä¸ªå¯è¯ä¼ªå‡è¯´ï¼Œæ˜Žç¡®é€‚ç”¨è¾¹ç•Œï¼Œæ‰¿è¯ºå¼€æ”¾ç§‘å­¦éªŒè¯ã€‚
+copies\EN_concise_main.md:78:> ä»¥**æ‹”çº¿æµ‹è¯•**æ£€éªŒåä½œæ˜¯å¦ä¿ƒè¿›ç‹¬ç«‹èƒ½åŠ›ã€‚æ ¸å¿ƒåˆ¤æ®ï¼š**$P_2 \geq B_0 + \delta$**ã€‚
+copies\EN_concise_main.md:78:> ä»¥**æ‹”çº¿æµ‹è¯•**æ£€éªŒåä½œæ˜¯å¦ä¿ƒè¿›ç‹¬ç«‹èƒ½åŠ›ã€‚æ ¸å¿ƒåˆ¤æ®ï¼š**$P_2 \geq B_0 + \delta$**ã€‚
+copies\EN_concise_main.md:80:> å…¶ä¸­ï¼š$B_0$ä¸ºä½¿ç”¨AIå‰çš„åŸºçº¿èƒ½åŠ›ï¼Œ$P_2$ä¸ºåä½œåŽåœ¨æ‹”çº¿çª—å£ï¼ˆW=4â€“8å‘¨ï¼Œé»˜è®¤6å‘¨ï¼Œå·¥ä½œå‡è®¾ï¼‰å†…çš„ç‹¬ç«‹è¡¨çŽ°ï¼Œ$\delta$ä¸ºæœ€å°æå‡é˜ˆå€¼ï¼ˆ$\geq 0.3SD$æˆ–10%ï¼Œå·¥ä½œå‡è®¾ï¼‰ã€‚
+copies\EN_concise_main.md:80:> å…¶ä¸­ï¼š$B_0$ä¸ºä½¿ç”¨AIå‰çš„åŸºçº¿èƒ½åŠ›ï¼Œ$P_2$ä¸ºåä½œåŽåœ¨æ‹”çº¿çª—å£ï¼ˆW=4â€“8å‘¨ï¼Œé»˜è®¤6å‘¨ï¼Œå·¥ä½œå‡è®¾ï¼‰å†…çš„ç‹¬ç«‹è¡¨çŽ°ï¼Œ$\delta$ä¸ºæœ€å°æå‡é˜ˆå€¼ï¼ˆ$\geq 0.3SD$æˆ–10%ï¼Œå·¥ä½œå‡è®¾ï¼‰ã€‚
+copies\EN_concise_main.md:84:- **è®¤çŸ¥å¤–éª¨éª¼æ¨¡å¼**ï¼šç‹¬ç«‹è¡¨çŽ°æ˜¾è‘—ä¸‹é™ï¼ˆ$P_2 < B_0$ï¼‰ï¼Œæ°¸ä¹…ä¾èµ–AI
+copies\EN_concise_main.md:84:- **è®¤çŸ¥å¤–éª¨éª¼æ¨¡å¼**ï¼šç‹¬ç«‹è¡¨çŽ°æ˜¾è‘—ä¸‹é™ï¼ˆ$P_2 < B_0$ï¼‰ï¼Œæ°¸ä¹…ä¾èµ–AI
+copies\EN_concise_main.md:85:- **è®¤çŸ¥å†…å…±ç”Ÿæ¨¡å¼**ï¼šç‹¬ç«‹è¡¨çŽ°è¶…è¶ŠåŽŸæœ‰æ°´å¹³ï¼ˆ$P_2 \geq B_0 + \delta$ï¼‰ï¼ŒAIä½¿ç”¨å¼ºåŒ–åº•å±‚èƒ½åŠ›
+copies\EN_concise_main.md:85:- **è®¤çŸ¥å†…å…±ç”Ÿæ¨¡å¼**ï¼šç‹¬ç«‹è¡¨çŽ°è¶…è¶ŠåŽŸæœ‰æ°´å¹³ï¼ˆ$P_2 \geq B_0 + \delta$ï¼‰ï¼ŒAIä½¿ç”¨å¼ºåŒ–åº•å±‚èƒ½åŠ›
+copies\EN_concise_main.md:117:- $P_2 \geq B_0 + \delta$ï¼šæˆåŠŸï¼ˆè®¤çŸ¥å†…å…±ç”Ÿï¼‰
+copies\EN_concise_main.md:117:- $P_2 \geq B_0 + \delta$ï¼šæˆåŠŸï¼ˆè®¤çŸ¥å†…å…±ç”Ÿï¼‰
+copies\EN_concise_main.md:118:- $P_2 \approx B_0$ï¼šä¸­æ€§ï¼ˆæœªé€ æˆæŸå®³ä½†æœªä¿ƒè¿›æˆé•¿ï¼‰
+copies\EN_concise_main.md:118:- $P_2 \approx B_0$ï¼šä¸­æ€§ï¼ˆæœªé€ æˆæŸå®³ä½†æœªä¿ƒè¿›æˆé•¿ï¼‰
+copies\EN_concise_main.md:119:- $P_2 < B_0$ï¼šå¤±è´¥ï¼ˆè®¤çŸ¥å¤–éª¨éª¼ï¼‰
+copies\EN_concise_main.md:119:- $P_2 < B_0$ï¼šå¤±è´¥ï¼ˆè®¤çŸ¥å¤–éª¨éª¼ï¼‰
+copies\EN_concise_main.md:129:> äºŒè€…ä¸ºè®¾è®¡å±‚é¢çš„è”åˆå……åˆ†æ¡ä»¶ï¼Œä½†æœ€ç»ˆä»éœ€**AVPï¼ˆ$P_2 \geq B_0 + \delta$ï¼‰ä½œä¸ºéªŒæ”¶å¿…è¦æ¡ä»¶**ã€‚
+copies\EN_concise_main.md:129:> äºŒè€…ä¸ºè®¾è®¡å±‚é¢çš„è”åˆå……åˆ†æ¡ä»¶ï¼Œä½†æœ€ç»ˆä»éœ€**AVPï¼ˆ$P_2 \geq B_0 + \delta$ï¼‰ä½œä¸ºéªŒæ”¶å¿…è¦æ¡ä»¶**ã€‚
+copies\EN_concise_main.md:157:| AVPç»“æžœ | $P_2 \leq B_0$ | $P_2 \geq B_0 + \delta$ |
+copies\EN_concise_main.md:157:| AVPç»“æžœ | $P_2 \leq B_0$ | $P_2 \geq B_0 + \delta$ |
+copies\EN_concise_main.md:157:| AVPç»“æžœ | $P_2 \leq B_0$ | $P_2 \geq B_0 + \delta$ |
+copies\EN_concise_main.md:157:| AVPç»“æžœ | $P_2 \leq B_0$ | $P_2 \geq B_0 + \delta$ |
+copies\EN_concise_main.md:217:**CETçš„è´¡çŒ®**ï¼šAVPï¼ˆ$P_2 \geq B_0 + \delta$ï¼‰æä¾›ç¬¬ä¸€ä¸ªå¯æ“ä½œã€å¯è¯ä¼ªçš„è¯„ä¼°æ ‡å‡†ã€‚EMLæä¾›ä»Žé—®é¢˜è¯Šæ–­åˆ°è§£å†³æ–¹æ¡ˆè®¾è®¡çš„å®Œæ•´è·¯å¾„ã€‚
+copies\EN_concise_main.md:217:**CETçš„è´¡çŒ®**ï¼šAVPï¼ˆ$P_2 \geq B_0 + \delta$ï¼‰æä¾›ç¬¬ä¸€ä¸ªå¯æ“ä½œã€å¯è¯ä¼ªçš„è¯„ä¼°æ ‡å‡†ã€‚EMLæä¾›ä»Žé—®é¢˜è¯Šæ–­åˆ°è§£å†³æ–¹æ¡ˆè®¾è®¡çš„å®Œæ•´è·¯å¾„ã€‚
+copies\EN_concise_main.md:228:**CETçš„é‡æž„**ï¼šä»Žâ€œåŠŸèƒ½å¯¹ç­‰"å‡çº§ä¸ºâ€œè¿‡ç¨‹å¯¹ç­‰"â€”â€”ä¸ä»…é—®â€œå·¥å…·æ˜¯å¦å¸®åŠ©å®Œæˆä»»åŠ¡"ï¼Œæ›´é—®â€œå·¥å…·ä½¿ç”¨æ˜¯å¦ä¿ƒè¿›ç”¨æˆ·èƒ½åŠ›æå‡"ã€‚AVPæä¾›è‰¯æ€§å»¶å±•vsç—…ç†å»¶å±•çš„å¯è¯ä¼ªåˆ†ç•Œï¼š$P_2 \geq B_0 + \delta$ä¸ºè‰¯æ€§ï¼Œ$P_2 < B_0$ä¸ºç—…ç†ã€‚EMLçš„â€œç³»ç»Ÿæ€§æ”¯æŒå‰Šå‡"ç¡®ä¿å»¶å±•æ˜¯ä¸´æ—¶è„šæ‰‹æž¶è€Œéžæ°¸ä¹…æ‹æ–ã€‚
+copies\EN_concise_main.md:228:**CETçš„é‡æž„**ï¼šä»Žâ€œåŠŸèƒ½å¯¹ç­‰"å‡çº§ä¸ºâ€œè¿‡ç¨‹å¯¹ç­‰"â€”â€”ä¸ä»…é—®â€œå·¥å…·æ˜¯å¦å¸®åŠ©å®Œæˆä»»åŠ¡"ï¼Œæ›´é—®â€œå·¥å…·ä½¿ç”¨æ˜¯å¦ä¿ƒè¿›ç”¨æˆ·èƒ½åŠ›æå‡"ã€‚AVPæä¾›è‰¯æ€§å»¶å±•vsç—…ç†å»¶å±•çš„å¯è¯ä¼ªåˆ†ç•Œï¼š$P_2 \geq B_0 + \delta$ä¸ºè‰¯æ€§ï¼Œ$P_2 < B_0$ä¸ºç—…ç†ã€‚EMLçš„â€œç³»ç»Ÿæ€§æ”¯æŒå‰Šå‡"ç¡®ä¿å»¶å±•æ˜¯ä¸´æ—¶è„šæ‰‹æž¶è€Œéžæ°¸ä¹…æ‹æ–ã€‚
+copies\EN_concise_main.md:228:**CETçš„é‡æž„**ï¼šä»Žâ€œåŠŸèƒ½å¯¹ç­‰"å‡çº§ä¸ºâ€œè¿‡ç¨‹å¯¹ç­‰"â€”â€”ä¸ä»…é—®â€œå·¥å…·æ˜¯å¦å¸®åŠ©å®Œæˆä»»åŠ¡"ï¼Œæ›´é—®â€œå·¥å…·ä½¿ç”¨æ˜¯å¦ä¿ƒè¿›ç”¨æˆ·èƒ½åŠ›æå‡"ã€‚AVPæä¾›è‰¯æ€§å»¶å±•vsç—…ç†å»¶å±•çš„å¯è¯ä¼ªåˆ†ç•Œï¼š$P_2 \geq B_0 + \delta$ä¸ºè‰¯æ€§ï¼Œ$P_2 < B_0$ä¸ºç—…ç†ã€‚EMLçš„â€œç³»ç»Ÿæ€§æ”¯æŒå‰Šå‡"ç¡®ä¿å»¶å±•æ˜¯ä¸´æ—¶è„šæ‰‹æž¶è€Œéžæ°¸ä¹…æ‹æ–ã€‚
+copies\EN_concise_main.md:228:**CETçš„é‡æž„**ï¼šä»Žâ€œåŠŸèƒ½å¯¹ç­‰"å‡çº§ä¸ºâ€œè¿‡ç¨‹å¯¹ç­‰"â€”â€”ä¸ä»…é—®â€œå·¥å…·æ˜¯å¦å¸®åŠ©å®Œæˆä»»åŠ¡"ï¼Œæ›´é—®â€œå·¥å…·ä½¿ç”¨æ˜¯å¦ä¿ƒè¿›ç”¨æˆ·èƒ½åŠ›æå‡"ã€‚AVPæä¾›è‰¯æ€§å»¶å±•vsç—…ç†å»¶å±•çš„å¯è¯ä¼ªåˆ†ç•Œï¼š$P_2 \geq B_0 + \delta$ä¸ºè‰¯æ€§ï¼Œ$P_2 < B_0$ä¸ºç—…ç†ã€‚EMLçš„â€œç³»ç»Ÿæ€§æ”¯æŒå‰Šå‡"ç¡®ä¿å»¶å±•æ˜¯ä¸´æ—¶è„šæ‰‹æž¶è€Œéžæ°¸ä¹…æ‹æ–ã€‚
+copies\EN_concise_main.md:232:**è‡ªåŠ¨åŒ–æ‚–è®º**ï¼ˆBainbridge, 1983ï¼‰ï¼šè‡ªåŠ¨åŒ–è¶Šå®Œå–„ï¼Œæ“ä½œå‘˜åœ¨éœ€è¦ä»‹å…¥æ—¶çš„èƒ½åŠ›è¶Šå·®ã€‚èˆªç©ºæ¡ˆä¾‹ï¼ˆæ³•èˆª447èˆªç­ï¼‰ï¼šé£žè¡Œå‘˜åœ¨è‡ªåŠ¨é©¾é©¶æ—¶è¡¨çŽ°æ­£å¸¸ï¼ˆ$P_1$é«˜ï¼‰ï¼Œç³»ç»Ÿå¤±æ•ˆåŽæ‰‹åŠ¨æ“ä½œèƒ½åŠ›ä¸è¶³ï¼ˆ$P_2$ä½Žï¼‰ã€‚è¿™ç§â€œæ°¸ä¹…æ”¯æŒâ†’èƒ½åŠ›é€€åŒ–"æ¨¡å¼æ­£æ˜¯CETè­¦ç¤ºçš„â€œè®¤çŸ¥å¤–éª¨éª¼"ã€‚
+copies\EN_concise_main.md:250:**CETçš„è½¬åŒ–**ï¼šç¥žç»ç§‘å­¦å’Œè®¤çŸ¥è®­ç»ƒè¯æ®è½¬åŒ–ä¸ºä¸‰ä¸ªå¯æ“ä½œè®¾è®¡æ—‹é’®â€”â€”â‘ æ‘©æ“¦æ—‹é’®ï¼ˆ50-70%æˆåŠŸçŽ‡ï¼‰ï¼Œâ‘¡å‰Šå‡æ—‹é’®ï¼ˆS4â†’S1â†’0ï¼‰ï¼Œâ‘¢éªŒè¯é—­çŽ¯ï¼ˆ$P_2 \geq B_0 + \delta$ï¼‰ã€‚
+copies\EN_concise_main.md:250:**CETçš„è½¬åŒ–**ï¼šç¥žç»ç§‘å­¦å’Œè®¤çŸ¥è®­ç»ƒè¯æ®è½¬åŒ–ä¸ºä¸‰ä¸ªå¯æ“ä½œè®¾è®¡æ—‹é’®â€”â€”â‘ æ‘©æ“¦æ—‹é’®ï¼ˆ50-70%æˆåŠŸçŽ‡ï¼‰ï¼Œâ‘¡å‰Šå‡æ—‹é’®ï¼ˆS4â†’S1â†’0ï¼‰ï¼Œâ‘¢éªŒè¯é—­çŽ¯ï¼ˆ$P_2 \geq B_0 + \delta$ï¼‰ã€‚
+copies\EN_concise_main.md:262:- **ç©ºç™½1ï¼ˆè¯„ä¼°æ ‡å‡†ï¼‰**ï¼šAVPæä¾›ç¬¬ä¸€ä¸ªå¯æ“ä½œå‚è€ƒæ ‡å‡†ï¼ˆ$P_2 \geq B_0 + \delta$ï¼‰
+copies\EN_concise_main.md:262:- **ç©ºç™½1ï¼ˆè¯„ä¼°æ ‡å‡†ï¼‰**ï¼šAVPæä¾›ç¬¬ä¸€ä¸ªå¯æ“ä½œå‚è€ƒæ ‡å‡†ï¼ˆ$P_2 \geq B_0 + \delta$ï¼‰
+copies\EN_concise_main.md:280:| **$B_0$** | ç”¨æˆ·ä½¿ç”¨AIå‰çš„ç‹¬ç«‹èƒ½åŠ›åŸºçº¿ | ä»»åŠ¡ç‰¹å®šæµ‹é‡ |
+copies\EN_concise_main.md:282:| **$P_2$** | ç”¨æˆ·åœ¨æ‹”çº¿çª—å£åŽçš„ç‹¬ç«‹è¡¨çŽ° | AVPéªŒè¯çš„æ ¸å¿ƒæŒ‡æ ‡ |
+copies\EN_concise_main.md:294:> **åˆ¤æ®**ï¼š$P_2 \geq B_0 + \delta$ï¼ˆå…¶ä¸­$\delta \geq 0.3SD$æˆ–10%ï¼Œå·¥ä½œå‡è®¾ï¼Œéœ€è·¨é¢†åŸŸ/ä»»åŠ¡æ ¡å‡†ï¼‰ã€‚**$P_1$ï¼ˆåä½œè¡¨çŽ°ï¼‰ä¸å‚ä¸Žæœ€ç»ˆåˆ¤å®šã€‚**
+copies\EN_concise_main.md:294:> **åˆ¤æ®**ï¼š$P_2 \geq B_0 + \delta$ï¼ˆå…¶ä¸­$\delta \geq 0.3SD$æˆ–10%ï¼Œå·¥ä½œå‡è®¾ï¼Œéœ€è·¨é¢†åŸŸ/ä»»åŠ¡æ ¡å‡†ï¼‰ã€‚**$P_1$ï¼ˆåä½œè¡¨çŽ°ï¼‰ä¸å‚ä¸Žæœ€ç»ˆåˆ¤å®šã€‚**
+copies\EN_concise_main.md:304:> äºŒè€…ä¸º**è”åˆå……åˆ†**çš„è®¾è®¡æ¡ä»¶ï¼Œä½†æœ€ç»ˆä»éœ€**AVPï¼ˆ$P_2 \geq B_0 + \delta$ï¼‰ä½œä¸ºéªŒæ”¶å¿…è¦æ¡ä»¶**ã€‚
+copies\EN_concise_main.md:304:> äºŒè€…ä¸º**è”åˆå……åˆ†**çš„è®¾è®¡æ¡ä»¶ï¼Œä½†æœ€ç»ˆä»éœ€**AVPï¼ˆ$P_2 \geq B_0 + \delta$ï¼‰ä½œä¸ºéªŒæ”¶å¿…è¦æ¡ä»¶**ã€‚
+copies\EN_concise_main.md:327:### 3.1.1 ä¸ºä»€ä¹ˆæ˜¯$P_2$è€Œéž$P_1$ï¼Ÿ
+copies\EN_concise_main.md:331:- **$B_0$ï¼ˆæ‹”çº¿å‰ç‹¬ç«‹åŸºçº¿ï¼‰**
+copies\EN_concise_main.md:333:- **$P_2$ï¼ˆåä½œåŽç‹¬ç«‹è¡¨çŽ°ï¼Œæ‹”çº¿çª—å£W=4â€“8å‘¨ï¼Œé»˜è®¤6å‘¨ï¼Œå·¥ä½œå‡è®¾ï¼‰**
+copies\EN_concise_main.md:341:- $P_2 \geq B_0 + \delta$ï¼šæˆåŠŸï¼ˆè®¤çŸ¥å†…å…±ç”Ÿï¼‰
+copies\EN_concise_main.md:341:- $P_2 \geq B_0 + \delta$ï¼šæˆåŠŸï¼ˆè®¤çŸ¥å†…å…±ç”Ÿï¼‰
+copies\EN_concise_main.md:342:- $P_2 \approx B_0$ï¼šä¸­æ€§ï¼ˆæœªé€ æˆæŸå®³ä½†æœªä¿ƒè¿›æˆé•¿ï¼‰
+copies\EN_concise_main.md:342:- $P_2 \approx B_0$ï¼šä¸­æ€§ï¼ˆæœªé€ æˆæŸå®³ä½†æœªä¿ƒè¿›æˆé•¿ï¼‰
+copies\EN_concise_main.md:343:- $P_2 < B_0$ï¼šå¤±è´¥ï¼ˆè®¤çŸ¥å¤–éª¨éª¼ï¼‰
+copies\EN_concise_main.md:343:- $P_2 < B_0$ï¼šå¤±è´¥ï¼ˆè®¤çŸ¥å¤–éª¨éª¼ï¼‰
+copies\EN_concise_main.md:363:**é›¶æ‘©æ“¦çš„é™·é˜±**ï¼šå½“AIæä¾›â€œé›¶æ‘©æ“¦"ä½“éªŒæ—¶ï¼Œç”¨æˆ·çŸ­æœŸè¡¨çŽ°å¯èƒ½å¾ˆå¥½ï¼ˆ$P_1$é«˜ï¼‰ï¼Œä½†é•¿æœŸèƒ½åŠ›å¾€å¾€åœæ»žæˆ–é€€åŒ–ï¼ˆ$P_2$ä¸å¢žç”šè‡³ä¸‹é™ï¼‰ã€‚
+copies\EN_concise_main.md:458:- åä½œçš„æœ€ç»ˆç›®æ ‡æ˜¯ç”¨æˆ·ç‹¬ç«‹èƒ½åŠ›çš„æå‡ï¼ˆ$P_2 \geq B_0 + \delta$ï¼‰
+copies\EN_concise_main.md:458:- åä½œçš„æœ€ç»ˆç›®æ ‡æ˜¯ç”¨æˆ·ç‹¬ç«‹èƒ½åŠ›çš„æå‡ï¼ˆ$P_2 \geq B_0 + \delta$ï¼‰
+copies\EN_concise_main.md:489:- $P_2 < B_0$ï¼šæ‹”çº¿åŽèƒ½åŠ›æ˜¾è‘—ä¸‹é™
+copies\EN_concise_main.md:489:- $P_2 < B_0$ï¼šæ‹”çº¿åŽèƒ½åŠ›æ˜¾è‘—ä¸‹é™
+copies\EN_concise_main.md:490:- æˆ–$P_2 \approx B_0$ï¼šèƒ½åŠ›æœªå¢žé•¿ï¼Œåªæ˜¯ç»´æŒ
+copies\EN_concise_main.md:490:- æˆ–$P_2 \approx B_0$ï¼šèƒ½åŠ›æœªå¢žé•¿ï¼Œåªæ˜¯ç»´æŒ
+copies\EN_concise_main.md:523:1. **å»ºç«‹å¯è¯ä¼ªæ ‡å‡†**ï¼šAVPæä¾›æ˜Žç¡®åˆ¤æ®ï¼ˆ$P_2 \geq B_0 + \delta$ï¼‰ï¼Œå°†â€œå¥åº·äººæœºå…³ç³»"ä»ŽæŠ½è±¡æ¦‚å¿µè½¬åŒ–ä¸ºå¯æµ‹é‡é—®é¢˜
+copies\EN_concise_main.md:523:1. **å»ºç«‹å¯è¯ä¼ªæ ‡å‡†**ï¼šAVPæä¾›æ˜Žç¡®åˆ¤æ®ï¼ˆ$P_2 \geq B_0 + \delta$ï¼‰ï¼Œå°†â€œå¥åº·äººæœºå…³ç³»"ä»ŽæŠ½è±¡æ¦‚å¿µè½¬åŒ–ä¸ºå¯æµ‹é‡é—®é¢˜
+copies\EN_concise_main.md:543:**æ ¸å¿ƒåˆ¤æ®**ï¼š$P_2 \geq B_0 + \delta$ï¼ˆæ‹”çº¿åŽèƒ½åŠ›è¶…è¶ŠåŸºçº¿ï¼‰ **å…³é”®æœºåˆ¶**ï¼šæœ‰ç›Šæ‘©æ“¦ï¼ˆ50-70%æˆåŠŸçŽ‡ï¼Œå·¥ä½œå‡è®¾ï¼‰+ ç³»ç»Ÿæ€§æ”¯æŒå‰Šå‡ï¼ˆS4â†’S1â†’0ï¼‰ **é€‚ç”¨åœºæ™¯**ï¼šå­¦ä¹ å·¥å…·ã€æŠ€èƒ½è®­ç»ƒã€ä¸ªäººç”Ÿäº§åŠ›å·¥å…·
+copies\EN_concise_main.md:543:**æ ¸å¿ƒåˆ¤æ®**ï¼š$P_2 \geq B_0 + \delta$ï¼ˆæ‹”çº¿åŽèƒ½åŠ›è¶…è¶ŠåŸºçº¿ï¼‰ **å…³é”®æœºåˆ¶**ï¼šæœ‰ç›Šæ‘©æ“¦ï¼ˆ50-70%æˆåŠŸçŽ‡ï¼Œå·¥ä½œå‡è®¾ï¼‰+ ç³»ç»Ÿæ€§æ”¯æŒå‰Šå‡ï¼ˆS4â†’S1â†’0ï¼‰ **é€‚ç”¨åœºæ™¯**ï¼šå­¦ä¹ å·¥å…·ã€æŠ€èƒ½è®­ç»ƒã€ä¸ªäººç”Ÿäº§åŠ›å·¥å…·
+copies\EN_concise_main.md:657:3. **éªŒè¯é€»è¾‘ä¸€è‡´æ€§**ï¼šåŸºçº¿$B_0$ + æå‡$\delta$çš„ç»Ÿä¸€æ¡†æž¶
+copies\EN_concise_main.md:900:| **ä¸ªä½“** | ä»»åŠ¡æ—¥å¿— | ä»»åŠ¡å®Œæˆã€$P_2$æµ‹è¯• | å®žæ—¶ |
+copies\EN_concise_main.md:922:1. ç›´æŽ¥æµ‹é‡ï¼š$P_2$æ‹”çº¿æµ‹è¯•ï¼ˆå‚è€ƒæ ‡å‡†ï¼‰
+copies\EN_concise_main.md:979:- **å·®å¼‚åŒ–AVP**ï¼šæ®‹éšœç”¨æˆ·è°ƒæ•´åŸºçº¿$B_0$å’Œ$\delta$ï¼Œä½†ä¸é™ä½Žâ€œæå‡"è¦æ±‚
+copies\EN_concise_main.md:1115:- **å£°æ˜Ž**ï¼šåœ¨ç¨‹åºæ€§è®¤çŸ¥ä»»åŠ¡ä¸­ï¼Œé€šè¿‡æœ‰ç›Šæ‘©æ“¦ï¼ˆ50-70%æˆåŠŸçŽ‡ï¼Œå·¥ä½œå‡è®¾ï¼‰+ ç³»ç»Ÿæ€§æ”¯æŒå‰Šå‡ï¼ˆ$S_4 \to S_1$ï¼‰è®¾è®¡çš„AIå·¥å…·ï¼Œåä½œWå‘¨åŽï¼Œç”¨æˆ·åœ¨æ‹”çº¿çª—å£å†…çš„ç‹¬ç«‹è¡¨çŽ°å°†æ˜¾è‘—ä¼˜äºŽåŸºçº¿ï¼ˆ$P_2 \geq B_0 + \delta$ï¼‰ã€‚
+copies\EN_concise_main.md:1115:- **å£°æ˜Ž**ï¼šåœ¨ç¨‹åºæ€§è®¤çŸ¥ä»»åŠ¡ä¸­ï¼Œé€šè¿‡æœ‰ç›Šæ‘©æ“¦ï¼ˆ50-70%æˆåŠŸçŽ‡ï¼Œå·¥ä½œå‡è®¾ï¼‰+ ç³»ç»Ÿæ€§æ”¯æŒå‰Šå‡ï¼ˆ$S_4 \to S_1$ï¼‰è®¾è®¡çš„AIå·¥å…·ï¼Œåä½œWå‘¨åŽï¼Œç”¨æˆ·åœ¨æ‹”çº¿çª—å£å†…çš„ç‹¬ç«‹è¡¨çŽ°å°†æ˜¾è‘—ä¼˜äºŽåŸºçº¿ï¼ˆ$P_2 \geq B_0 + \delta$ï¼‰ã€‚
+copies\EN_concise_main.md:1116:- **è¯ä¼ªæ¡ä»¶**ï¼šä¸¥æ ¼RCTè®¾è®¡ä¸‹ï¼Œå®žéªŒç»„ä¸Žå¯¹ç…§ç»„$P_2$è¡¨çŽ°æ— æ˜¾è‘—å·®å¼‚ï¼ˆæ•ˆåº”é‡<0.2ï¼‰ï¼Œæˆ–$P_2 < B_0$ã€‚
+copies\EN_concise_main.md:1116:- **è¯ä¼ªæ¡ä»¶**ï¼šä¸¥æ ¼RCTè®¾è®¡ä¸‹ï¼Œå®žéªŒç»„ä¸Žå¯¹ç…§ç»„$P_2$è¡¨çŽ°æ— æ˜¾è‘—å·®å¼‚ï¼ˆæ•ˆåº”é‡<0.2ï¼‰ï¼Œæˆ–$P_2 < B_0$ã€‚
+copies\EN_concise_main.md:1116:- **è¯ä¼ªæ¡ä»¶**ï¼šä¸¥æ ¼RCTè®¾è®¡ä¸‹ï¼Œå®žéªŒç»„ä¸Žå¯¹ç…§ç»„$P_2$è¡¨çŽ°æ— æ˜¾è‘—å·®å¼‚ï¼ˆæ•ˆåº”é‡<0.2ï¼‰ï¼Œæˆ–$P_2 < B_0$ã€‚
+copies\EN_concise_main.md:1121:- **å£°æ˜Ž**ï¼šå­˜åœ¨â€œæœ€ä¼˜æŒ‘æˆ˜åŒº"ï¼ˆ50-70%æˆåŠŸçŽ‡ï¼Œå·¥ä½œå‡è®¾ï¼‰ï¼Œåœ¨æ­¤åŒºé—´å†…ç”¨æˆ·èƒ½åŠ›æå‡ï¼ˆ$P_2$-$B_0$ï¼‰æœ€å¤§åŒ–ã€‚
+copies\EN_concise_main.md:1121:- **å£°æ˜Ž**ï¼šå­˜åœ¨â€œæœ€ä¼˜æŒ‘æˆ˜åŒº"ï¼ˆ50-70%æˆåŠŸçŽ‡ï¼Œå·¥ä½œå‡è®¾ï¼‰ï¼Œåœ¨æ­¤åŒºé—´å†…ç”¨æˆ·èƒ½åŠ›æå‡ï¼ˆ$P_2$-$B_0$ï¼‰æœ€å¤§åŒ–ã€‚
+copies\EN_concise_main.md:1128:- **è¯ä¼ªæ¡ä»¶**ï¼šå›ºå®šæ”¯æŒç»„$P_2$è¡¨çŽ°ä¸åŠ£äºŽå‰Šå‡ç»„ã€‚
+copies\EN_concise_main.md:1254:AIä½œä¸ºè®¤çŸ¥ä¼™ä¼´ï¼Œé€šè¿‡æœ‰ç›Šæ‘©æ“¦å’Œç³»ç»Ÿæ€§æ”¯æŒå‰Šå‡ï¼Œä¿ƒè¿›ç”¨æˆ·ç‹¬ç«‹èƒ½åŠ›æå‡çš„äººæœºåä½œæ¨¡å¼ã€‚ç‰¹å¾ï¼šâ‘ æœ‰ç›Šè®¤çŸ¥æ‘©æ“¦ â‘¡ç³»ç»Ÿæ€§æ”¯æŒå‰Šå‡ â‘¢AVPéªŒè¯é€šè¿‡ï¼ˆ$P_2 \geq B_0 + \delta$ï¼‰ã€‚é¦–æ¬¡å‡ºçŽ°ï¼š1.3èŠ‚ï¼Œå®Œæ•´å®šä¹‰ï¼š3.0.3èŠ‚ï¼ˆEMLå®šä¹‰é”šç‚¹B2ï¼‰ã€‚å¯¹ç…§ï¼šè®¤çŸ¥å¤–éª¨éª¼ï¼ˆç—…ç†æ¨¡å¼ï¼‰ã€‚
+copies\EN_concise_main.md:1254:AIä½œä¸ºè®¤çŸ¥ä¼™ä¼´ï¼Œé€šè¿‡æœ‰ç›Šæ‘©æ“¦å’Œç³»ç»Ÿæ€§æ”¯æŒå‰Šå‡ï¼Œä¿ƒè¿›ç”¨æˆ·ç‹¬ç«‹èƒ½åŠ›æå‡çš„äººæœºåä½œæ¨¡å¼ã€‚ç‰¹å¾ï¼šâ‘ æœ‰ç›Šè®¤çŸ¥æ‘©æ“¦ â‘¡ç³»ç»Ÿæ€§æ”¯æŒå‰Šå‡ â‘¢AVPéªŒè¯é€šè¿‡ï¼ˆ$P_2 \geq B_0 + \delta$ï¼‰ã€‚é¦–æ¬¡å‡ºçŽ°ï¼š1.3èŠ‚ï¼Œå®Œæ•´å®šä¹‰ï¼š3.0.3èŠ‚ï¼ˆEMLå®šä¹‰é”šç‚¹B2ï¼‰ã€‚å¯¹ç…§ï¼šè®¤çŸ¥å¤–éª¨éª¼ï¼ˆç—…ç†æ¨¡å¼ï¼‰ã€‚
+copies\EN_concise_main.md:1257:è¿‡åº¦ä¾èµ–AIå¯¼è‡´ç‹¬ç«‹èƒ½åŠ›é€€åŒ–çš„ç—…ç†æ¨¡å¼ã€‚ç‰¹å¾ï¼šâ‘ é›¶æ‘©æ“¦è®¾è®¡ â‘¡æ— æ”¯æŒå‰Šå‡ â‘¢AVPå¤±è´¥ï¼ˆ$P_2 < B_0$ï¼‰ã€‚ç”¨æˆ·åœ¨åä½œæ—¶è¡¨çŽ°è‰¯å¥½ï¼ˆ$P_1$é«˜ï¼‰ï¼Œä½†æ‹”çº¿åŽèƒ½åŠ›ä¸‹é™ï¼ˆ$P_2 < B_0$ï¼‰ã€‚é¦–æ¬¡å‡ºçŽ°ï¼š1.2èŠ‚ï¼Œè¯¦ç»†å®šä¹‰ï¼š3.0.6èŠ‚ã€‚å¯¹ç…§ï¼šè®¤çŸ¥å†…å…±ç”Ÿï¼ˆç›®æ ‡æ¨¡å¼ï¼‰ã€‚
+copies\EN_concise_main.md:1257:è¿‡åº¦ä¾èµ–AIå¯¼è‡´ç‹¬ç«‹èƒ½åŠ›é€€åŒ–çš„ç—…ç†æ¨¡å¼ã€‚ç‰¹å¾ï¼šâ‘ é›¶æ‘©æ“¦è®¾è®¡ â‘¡æ— æ”¯æŒå‰Šå‡ â‘¢AVPå¤±è´¥ï¼ˆ$P_2 < B_0$ï¼‰ã€‚ç”¨æˆ·åœ¨åä½œæ—¶è¡¨çŽ°è‰¯å¥½ï¼ˆ$P_1$é«˜ï¼‰ï¼Œä½†æ‹”çº¿åŽèƒ½åŠ›ä¸‹é™ï¼ˆ$P_2 < B_0$ï¼‰ã€‚é¦–æ¬¡å‡ºçŽ°ï¼š1.2èŠ‚ï¼Œè¯¦ç»†å®šä¹‰ï¼š3.0.6èŠ‚ã€‚å¯¹ç…§ï¼šè®¤çŸ¥å†…å…±ç”Ÿï¼ˆç›®æ ‡æ¨¡å¼ï¼‰ã€‚
+copies\EN_concise_main.md:1257:è¿‡åº¦ä¾èµ–AIå¯¼è‡´ç‹¬ç«‹èƒ½åŠ›é€€åŒ–çš„ç—…ç†æ¨¡å¼ã€‚ç‰¹å¾ï¼šâ‘ é›¶æ‘©æ“¦è®¾è®¡ â‘¡æ— æ”¯æŒå‰Šå‡ â‘¢AVPå¤±è´¥ï¼ˆ$P_2 < B_0$ï¼‰ã€‚ç”¨æˆ·åœ¨åä½œæ—¶è¡¨çŽ°è‰¯å¥½ï¼ˆ$P_1$é«˜ï¼‰ï¼Œä½†æ‹”çº¿åŽèƒ½åŠ›ä¸‹é™ï¼ˆ$P_2 < B_0$ï¼‰ã€‚é¦–æ¬¡å‡ºçŽ°ï¼š1.2èŠ‚ï¼Œè¯¦ç»†å®šä¹‰ï¼š3.0.6èŠ‚ã€‚å¯¹ç…§ï¼šè®¤çŸ¥å†…å…±ç”Ÿï¼ˆç›®æ ‡æ¨¡å¼ï¼‰ã€‚
+copies\EN_concise_main.md:1257:è¿‡åº¦ä¾èµ–AIå¯¼è‡´ç‹¬ç«‹èƒ½åŠ›é€€åŒ–çš„ç—…ç†æ¨¡å¼ã€‚ç‰¹å¾ï¼šâ‘ é›¶æ‘©æ“¦è®¾è®¡ â‘¡æ— æ”¯æŒå‰Šå‡ â‘¢AVPå¤±è´¥ï¼ˆ$P_2 < B_0$ï¼‰ã€‚ç”¨æˆ·åœ¨åä½œæ—¶è¡¨çŽ°è‰¯å¥½ï¼ˆ$P_1$é«˜ï¼‰ï¼Œä½†æ‹”çº¿åŽèƒ½åŠ›ä¸‹é™ï¼ˆ$P_2 < B_0$ï¼‰ã€‚é¦–æ¬¡å‡ºçŽ°ï¼š1.2èŠ‚ï¼Œè¯¦ç»†å®šä¹‰ï¼š3.0.6èŠ‚ã€‚å¯¹ç…§ï¼šè®¤çŸ¥å†…å…±ç”Ÿï¼ˆç›®æ ‡æ¨¡å¼ï¼‰ã€‚
+copies\EN_concise_main.md:1260:ä»¥æ‹”çº¿æµ‹è¯•æ£€éªŒäººæœºåä½œæ˜¯å¦ä¿ƒè¿›ç‹¬ç«‹èƒ½åŠ›çš„è¯„ä¼°æ ‡å‡†ã€‚æ ¸å¿ƒåˆ¤æ®ï¼š$P_2 \geq B_0 + \delta$ï¼Œå…¶ä¸­$B_0$ä¸ºåŸºçº¿èƒ½åŠ›ï¼Œ$P_2$ä¸ºæ‹”çº¿åŽç‹¬ç«‹è¡¨çŽ°ï¼Œ$\delta$ä¸ºæœ€å°æå‡é˜ˆå€¼ï¼ˆ$\geq 0$.3SDæˆ–10%ï¼Œå·¥ä½œå‡è®¾ï¼‰ã€‚$P_1$ï¼ˆåä½œæœŸè¡¨çŽ°ï¼‰ä¸å‚ä¸Žæœ€ç»ˆåˆ¤å®šã€‚é¦–æ¬¡å‡ºçŽ°ï¼š1.3èŠ‚ï¼Œå®Œæ•´å®šä¹‰ï¼š3.0.2èŠ‚ï¼ˆAVPå®šä¹‰é”šç‚¹B1ï¼‰ã€‚
+copies\EN_concise_main.md:1260:ä»¥æ‹”çº¿æµ‹è¯•æ£€éªŒäººæœºåä½œæ˜¯å¦ä¿ƒè¿›ç‹¬ç«‹èƒ½åŠ›çš„è¯„ä¼°æ ‡å‡†ã€‚æ ¸å¿ƒåˆ¤æ®ï¼š$P_2 \geq B_0 + \delta$ï¼Œå…¶ä¸­$B_0$ä¸ºåŸºçº¿èƒ½åŠ›ï¼Œ$P_2$ä¸ºæ‹”çº¿åŽç‹¬ç«‹è¡¨çŽ°ï¼Œ$\delta$ä¸ºæœ€å°æå‡é˜ˆå€¼ï¼ˆ$\geq 0$.3SDæˆ–10%ï¼Œå·¥ä½œå‡è®¾ï¼‰ã€‚$P_1$ï¼ˆåä½œæœŸè¡¨çŽ°ï¼‰ä¸å‚ä¸Žæœ€ç»ˆåˆ¤å®šã€‚é¦–æ¬¡å‡ºçŽ°ï¼š1.3èŠ‚ï¼Œå®Œæ•´å®šä¹‰ï¼š3.0.2èŠ‚ï¼ˆAVPå®šä¹‰é”šç‚¹B1ï¼‰ã€‚
+copies\EN_concise_main.md:1260:ä»¥æ‹”çº¿æµ‹è¯•æ£€éªŒäººæœºåä½œæ˜¯å¦ä¿ƒè¿›ç‹¬ç«‹èƒ½åŠ›çš„è¯„ä¼°æ ‡å‡†ã€‚æ ¸å¿ƒåˆ¤æ®ï¼š$P_2 \geq B_0 + \delta$ï¼Œå…¶ä¸­$B_0$ä¸ºåŸºçº¿èƒ½åŠ›ï¼Œ$P_2$ä¸ºæ‹”çº¿åŽç‹¬ç«‹è¡¨çŽ°ï¼Œ$\delta$ä¸ºæœ€å°æå‡é˜ˆå€¼ï¼ˆ$\geq 0$.3SDæˆ–10%ï¼Œå·¥ä½œå‡è®¾ï¼‰ã€‚$P_1$ï¼ˆåä½œæœŸè¡¨çŽ°ï¼‰ä¸å‚ä¸Žæœ€ç»ˆåˆ¤å®šã€‚é¦–æ¬¡å‡ºçŽ°ï¼š1.3èŠ‚ï¼Œå®Œæ•´å®šä¹‰ï¼š3.0.2èŠ‚ï¼ˆAVPå®šä¹‰é”šç‚¹B1ï¼‰ã€‚
+copies\EN_concise_main.md:1260:ä»¥æ‹”çº¿æµ‹è¯•æ£€éªŒäººæœºåä½œæ˜¯å¦ä¿ƒè¿›ç‹¬ç«‹èƒ½åŠ›çš„è¯„ä¼°æ ‡å‡†ã€‚æ ¸å¿ƒåˆ¤æ®ï¼š$P_2 \geq B_0 + \delta$ï¼Œå…¶ä¸­$B_0$ä¸ºåŸºçº¿èƒ½åŠ›ï¼Œ$P_2$ä¸ºæ‹”çº¿åŽç‹¬ç«‹è¡¨çŽ°ï¼Œ$\delta$ä¸ºæœ€å°æå‡é˜ˆå€¼ï¼ˆ$\geq 0$.3SDæˆ–10%ï¼Œå·¥ä½œå‡è®¾ï¼‰ã€‚$P_1$ï¼ˆåä½œæœŸè¡¨çŽ°ï¼‰ä¸å‚ä¸Žæœ€ç»ˆåˆ¤å®šã€‚é¦–æ¬¡å‡ºçŽ°ï¼š1.3èŠ‚ï¼Œå®Œæ•´å®šä¹‰ï¼š3.0.2èŠ‚ï¼ˆAVPå®šä¹‰é”šç‚¹B1ï¼‰ã€‚
+copies\EN_concise_main.md:1263:æž„æˆè®¤çŸ¥å†…å…±ç”Ÿçš„è®¾è®¡å¿…è¦æ¡ä»¶ï¼šâ‘ æœ‰ç›Šè®¤çŸ¥æ‘©æ“¦ï¼ˆæœ€ä¼˜æŒ‘æˆ˜åŒºï¼ŒæˆåŠŸçŽ‡50-70%ï¼Œå·¥ä½œå‡è®¾ï¼‰â‘¡ç³»ç»Ÿæ€§æ”¯æŒå‰Šå‡ï¼ˆ$S_4 \to S_1 \to 0$ï¼‰ã€‚äºŒè€…ä¸ºè”åˆå……åˆ†çš„è®¾è®¡æ¡ä»¶ï¼Œä½†æœ€ç»ˆéœ€AVPï¼ˆ$P_2 \geq B_0 + \delta$ï¼‰ä½œä¸ºéªŒæ”¶å¿…è¦æ¡ä»¶ã€‚é¦–æ¬¡å‡ºçŽ°ï¼š1.3èŠ‚ï¼Œå®Œæ•´å®šä¹‰ï¼š3.0.3èŠ‚ï¼ˆEMLå®šä¹‰é”šç‚¹B2ï¼‰ã€‚
+copies\EN_concise_main.md:1263:æž„æˆè®¤çŸ¥å†…å…±ç”Ÿçš„è®¾è®¡å¿…è¦æ¡ä»¶ï¼šâ‘ æœ‰ç›Šè®¤çŸ¥æ‘©æ“¦ï¼ˆæœ€ä¼˜æŒ‘æˆ˜åŒºï¼ŒæˆåŠŸçŽ‡50-70%ï¼Œå·¥ä½œå‡è®¾ï¼‰â‘¡ç³»ç»Ÿæ€§æ”¯æŒå‰Šå‡ï¼ˆ$S_4 \to S_1 \to 0$ï¼‰ã€‚äºŒè€…ä¸ºè”åˆå……åˆ†çš„è®¾è®¡æ¡ä»¶ï¼Œä½†æœ€ç»ˆéœ€AVPï¼ˆ$P_2 \geq B_0 + \delta$ï¼‰ä½œä¸ºéªŒæ”¶å¿…è¦æ¡ä»¶ã€‚é¦–æ¬¡å‡ºçŽ°ï¼š1.3èŠ‚ï¼Œå®Œæ•´å®šä¹‰ï¼š3.0.3èŠ‚ï¼ˆEMLå®šä¹‰é”šç‚¹B2ï¼‰ã€‚
+copies\EN_concise_main.md:1296:**åŸºçº¿èƒ½åŠ›ï¼ˆ$B_0$, Baseline Capabilityï¼‰**
+copies\EN_concise_main.md:1302:**æ‹”çº¿åŽèƒ½åŠ›ï¼ˆ$P_2$, Post-Unplugged Performanceï¼‰**
+copies\EN_concise_main.md:1303:ç”¨æˆ·åœ¨æ‹”çº¿çª—å£ï¼ˆW=4-8å‘¨ï¼Œé»˜è®¤6å‘¨ï¼‰åŽçš„ç‹¬ç«‹ä»»åŠ¡è¡¨çŽ°ï¼ŒAVPéªŒè¯çš„æ ¸å¿ƒæŒ‡æ ‡ã€‚æµ‹é‡è¦æ±‚ï¼šç­‰å€¼å¹³è¡Œæµ‹éªŒã€æ— AIçŽ¯å¢ƒã€ç›²è¯„ã€‚åˆ¤å®šï¼š$P_2 \geq B_0 + \delta$ä¸ºæˆåŠŸã€‚é¦–æ¬¡å‡ºçŽ°ï¼š3.0.2èŠ‚ã€‚
+copies\EN_concise_main.md:1303:ç”¨æˆ·åœ¨æ‹”çº¿çª—å£ï¼ˆW=4-8å‘¨ï¼Œé»˜è®¤6å‘¨ï¼‰åŽçš„ç‹¬ç«‹ä»»åŠ¡è¡¨çŽ°ï¼ŒAVPéªŒè¯çš„æ ¸å¿ƒæŒ‡æ ‡ã€‚æµ‹é‡è¦æ±‚ï¼šç­‰å€¼å¹³è¡Œæµ‹éªŒã€æ— AIçŽ¯å¢ƒã€ç›²è¯„ã€‚åˆ¤å®šï¼š$P_2 \geq B_0 + \delta$ä¸ºæˆåŠŸã€‚é¦–æ¬¡å‡ºçŽ°ï¼š3.0.2èŠ‚ã€‚
+copies\EN_concise_main.md:1312:ç”¨æˆ·èƒ½åŠ›çŠ¶æ€çš„å¤šç»´å‘é‡è¡¨ç¤ºï¼Œéšæ—¶é—´tå˜åŒ–ã€‚å…¸åž‹ç»´åº¦ï¼ˆ5-20ç»´ï¼Œéœ€é¢†åŸŸå®šä¹‰ï¼‰ï¼šé—®é¢˜åˆ†è§£ã€å®žçŽ°æŠ€èƒ½ã€è°ƒè¯•èƒ½åŠ›ã€å…ƒè®¤çŸ¥ç­‰ã€‚æ•°æ®æ¥æºï¼šâ‘ $P_2$æ‹”çº¿æµ‹è¯•ï¼ˆå‚è€ƒæ ‡å‡†ï¼‰â‘¡æ—¥å¸¸ä»»åŠ¡è¡¨çŽ°ï¼ˆé—´æŽ¥æŽ¨æ–­ï¼‰â‘¢è‡ªæˆ‘æŠ¥å‘Šï¼ˆè¾…åŠ©ï¼‰â‘£åŒè¡Œè¯„è®®ï¼ˆå›¢é˜Ÿå±‚ï¼‰ã€‚é¦–æ¬¡å‡ºçŽ°ï¼š5.4èŠ‚ã€‚
+copies\EN_concise_main.md:1317:ä¸ªä½“åè„†å¼±æ€§éªŒè¯ã€‚æ ¸å¿ƒåˆ¤æ®ï¼š$P_2 \geq B_0 + \delta$ã€‚é€‚ç”¨åœºæ™¯ï¼šå­¦ä¹ å·¥å…·ã€æŠ€èƒ½è®­ç»ƒã€ä¸ªäººç”Ÿäº§åŠ›å·¥å…·ã€‚æµ‹é‡æ–¹æ³•ï¼šæ ‡å‡†æ‹”çº¿æµ‹è¯•ï¼ˆW=4-8å‘¨ï¼‰ã€‚è¿™æ˜¯CETçš„åŸºç¡€å°ºåº¦ï¼Œå…¶ä»–å°ºåº¦ç”±æ­¤æ‰©å±•ã€‚é¦–æ¬¡å‡ºçŽ°ï¼š4.1èŠ‚ã€‚
+copies\EN_concise_main.md:1317:ä¸ªä½“åè„†å¼±æ€§éªŒè¯ã€‚æ ¸å¿ƒåˆ¤æ®ï¼š$P_2 \geq B_0 + \delta$ã€‚é€‚ç”¨åœºæ™¯ï¼šå­¦ä¹ å·¥å…·ã€æŠ€èƒ½è®­ç»ƒã€ä¸ªäººç”Ÿäº§åŠ›å·¥å…·ã€‚æµ‹é‡æ–¹æ³•ï¼šæ ‡å‡†æ‹”çº¿æµ‹è¯•ï¼ˆW=4-8å‘¨ï¼‰ã€‚è¿™æ˜¯CETçš„åŸºç¡€å°ºåº¦ï¼Œå…¶ä»–å°ºåº¦ç”±æ­¤æ‰©å±•ã€‚é¦–æ¬¡å‡ºçŽ°ï¼š4.1èŠ‚ã€‚
+copies\EN_concise_main.md:1353:| **AVPåˆ¤æ®** | $P_2 \geq B_0 + \delta$ | 3.0.2èŠ‚ | 3.0.2èŠ‚ | å…¨æ–‡ | - |
+copies\EN_concise_main.md:1353:| **AVPåˆ¤æ®** | $P_2 \geq B_0 + \delta$ | 3.0.2èŠ‚ | 3.0.2èŠ‚ | å…¨æ–‡ | - |
+copies\EN_concise_main.md:1384:- $B_0$ï¼ˆåŸºçº¿ï¼‰ï¼šæ— AIçŽ¯å¢ƒä¸‹å®Œæˆ3ä¸ªç¼–ç¨‹ä»»åŠ¡ï¼Œå¹³å‡å¾—åˆ†62/100
+copies\EN_concise_main.md:1387:- $P_2$ï¼ˆæ‹”çº¿åŽï¼‰ï¼šå®Œæˆç­‰å€¼ä»»åŠ¡ï¼Œå¹³å‡å¾—åˆ†78/100
+copies\EN_concise_main.md:1388:- **åˆ¤å®š**ï¼šÎ”C = $P_2$ - $B_0$ = 16åˆ† > $\delta$(10åˆ†ï¼Œ$\approx$0.3SD) â†’ **AVPé€šè¿‡**
+copies\EN_concise_main.md:1388:- **åˆ¤å®š**ï¼šÎ”C = $P_2$ - $B_0$ = 16åˆ† > $\delta$(10åˆ†ï¼Œ$\approx$0.3SD) â†’ **AVPé€šè¿‡**
+copies\EN_concise_main.md:1426:- Aç»„ï¼šæ‰€æœ‰8äººI-AVPé€šè¿‡ï¼ˆ$P_2 \geq B_0 + \delta$ï¼‰
+copies\EN_concise_main.md:1426:- Aç»„ï¼šæ‰€æœ‰8äººI-AVPé€šè¿‡ï¼ˆ$P_2 \geq B_0 + \delta$ï¼‰
+copies\EN_concise_main.md:1427:- Bç»„ï¼šä»…3äººé€šè¿‡ï¼Œ5äººå¤±è´¥ï¼ˆ$P_2 < B_0$æˆ–$P_2 \approx B_0$ï¼‰
+copies\EN_concise_main.md:1427:- Bç»„ï¼šä»…3äººé€šè¿‡ï¼Œ5äººå¤±è´¥ï¼ˆ$P_2 < B_0$æˆ–$P_2 \approx B_0$ï¼‰
+copies\EN_concise_main.md:1427:- Bç»„ï¼šä»…3äººé€šè¿‡ï¼Œ5äººå¤±è´¥ï¼ˆ$P_2 < B_0$æˆ–$P_2 \approx B_0$ï¼‰
+copies\EN_concise_main.md:1427:- Bç»„ï¼šä»…3äººé€šè¿‡ï¼Œ5äººå¤±è´¥ï¼ˆ$P_2 < B_0$æˆ–$P_2 \approx B_0$ï¼‰
+copies\EN_concise_main.md:1472:- [ ] è®°å½•ï¼š$B_0$åˆ†æ•°ã€å®Œæˆæ—¶é—´ã€ä¸»è§‚éš¾åº¦ï¼ˆ1-10é‡è¡¨ï¼‰
+copies\EN_concise_main.md:1499:- å–å¹³å‡åˆ†ä¸º$B_0$
+copies\EN_concise_main.md:1538:- è®¡ç®—$P_2$ï¼Œåˆ¤å®šAVPç»“æžœï¼š
+copies\EN_concise_main.md:1539:- $P_2 \geq B_0 + \delta$ï¼šæˆåŠŸï¼ˆè®¤çŸ¥å†…å…±ç”Ÿï¼‰
+copies\EN_concise_main.md:1539:- $P_2 \geq B_0 + \delta$ï¼šæˆåŠŸï¼ˆè®¤çŸ¥å†…å…±ç”Ÿï¼‰
+copies\EN_concise_main.md:1540:- $P_2 \approx B_0$ï¼šä¸­æ€§
+copies\EN_concise_main.md:1540:- $P_2 \approx B_0$ï¼šä¸­æ€§
+copies\EN_concise_main.md:1541:- $P_2 < B_0$ï¼šå¤±è´¥ï¼ˆè®¤çŸ¥å¤–éª¨éª¼ï¼‰
+copies\EN_concise_main.md:1541:- $P_2 < B_0$ï¼šå¤±è´¥ï¼ˆè®¤çŸ¥å¤–éª¨éª¼ï¼‰
+copies\EN_concise_main.md:1663:- AVPçš„$\delta$é˜ˆå€¼å¯ä¸ªæ€§åŒ–è°ƒæ•´ï¼ˆå¦‚åŸºäºŽä¸ªä½“çš„$B_0$ï¼‰
+copies\EN_concise_main.md:1671:- æŸå…¬å¸å°†AVPç”¨äºŽå‘˜å·¥æ™‹å‡è¯„ä¼° â†’ å‘˜å·¥äººä¸ºæ“çºµåŸºçº¿$B_0$ï¼ˆæ•…æ„ä½Žåˆ†ï¼‰ã€æ‹”çº¿æœŸè¿è§„ä½¿ç”¨AI â†’ AVPå®Œå…¨å¤±æ•ˆ
+copies\EN_full_appendix_seed.md:7:| **AVP Criterion** | $P_2 \geq B_0 + \delta$ | Section 3.0.2 | Section 3.0.2 | Throughout | - |
+copies\EN_full_appendix_seed.md:7:| **AVP Criterion** | $P_2 \geq B_0 + \delta$ | Section 3.0.2 | Section 3.0.2 | Throughout | - |
+copies\EN_full_appendix_seed.md:40:$B_0$ (baseline): Completed 3 programming tasks without AI assistance, average score 62/100
+copies\EN_full_appendix_seed.md:43:$P_2$ (post-unplugged): Completed equivalent tasks, average score 78/100
+copies\EN_full_appendix_seed.md:44:**Judgment**: Define the capability increment as **$\Delta C = P_2 - B_0$**. ΔC = $P_2$ - $B_0$ = 16 points > $\delta$(10 points, $\approx 0.3\,\mathrm{SD}$) → **AVP Passed**
+copies\EN_full_appendix_seed.md:44:**Judgment**: Define the capability increment as **$\Delta C = P_2 - B_0$**. ΔC = $P_2$ - $B_0$ = 16 points > $\delta$(10 points, $\approx 0.3\,\mathrm{SD}$) → **AVP Passed**
+copies\EN_full_appendix_seed.md:44:**Judgment**: Define the capability increment as **$\Delta C = P_2 - B_0$**. ΔC = $P_2$ - $B_0$ = 16 points > $\delta$(10 points, $\approx 0.3\,\mathrm{SD}$) → **AVP Passed**
+copies\EN_full_appendix_seed.md:44:**Judgment**: Define the capability increment as **$\Delta C = P_2 - B_0$**. ΔC = $P_2$ - $B_0$ = 16 points > $\delta$(10 points, $\approx 0.3\,\mathrm{SD}$) → **AVP Passed**
+copies\EN_full_appendix_seed.md:82:- Group A: All 8 people passed I-AVP ($P_2 \geq B_0 + \delta$)
+copies\EN_full_appendix_seed.md:82:- Group A: All 8 people passed I-AVP ($P_2 \geq B_0 + \delta$)
+copies\EN_full_appendix_seed.md:83:- Group B: Only 3 passed, 5 failed ($P_2 < B_0$ or $P_2 \approx B_0$)
+copies\EN_full_appendix_seed.md:83:- Group B: Only 3 passed, 5 failed ($P_2 < B_0$ or $P_2 \approx B_0$)
+copies\EN_full_appendix_seed.md:83:- Group B: Only 3 passed, 5 failed ($P_2 < B_0$ or $P_2 \approx B_0$)
+copies\EN_full_appendix_seed.md:83:- Group B: Only 3 passed, 5 failed ($P_2 < B_0$ or $P_2 \approx B_0$)
+copies\EN_full_appendix_seed.md:128:- [ ] Record: $B_0$ score, completion time, subjective difficulty (1–10 scale)
+copies\EN_full_appendix_seed.md:154:- Take average as $B_0$
+copies\EN_full_appendix_seed.md:193:- Calculate $P_2$, determine AVP result:
+copies\EN_full_appendix_seed.md:194:- $P_2 \geq B_0 + \delta$: Success (Cognitive Endosymbiosis)
+copies\EN_full_appendix_seed.md:194:- $P_2 \geq B_0 + \delta$: Success (Cognitive Endosymbiosis)
+copies\EN_full_appendix_seed.md:195:- $P_2 \approx B_0$: Neutral
+copies\EN_full_appendix_seed.md:195:- $P_2 \approx B_0$: Neutral
+copies\EN_full_appendix_seed.md:196:- $P_2 < B_0$: Failure (Cognitive Exoskeleton)
+copies\EN_full_appendix_seed.md:196:- $P_2 < B_0$: Failure (Cognitive Exoskeleton)
+copies\EN_full_appendix_seed.md:318:- AVP's $\delta$ threshold can be personalized (e.g., based on individual's $B_0$)
+copies\EN_full_appendix_seed.md:326:- A company uses AVP for employee promotion evaluation → employees artificially manipulate baseline $B_0$ (intentionally low scores), use AI during unplugged period → AVP completely fails
+copies\EN_full_ch04.md:10:**Core criterion**: $P_2 \geq B_0 + \delta$ (capability after unplugging exceeds baseline)
+copies\EN_full_ch04.md:10:**Core criterion**: $P_2 \geq B_0 + \delta$ (capability after unplugging exceeds baseline)
+copies\EN_full_ch04.md:120:3. **Validation logic consistency**: Unified framework of baseline $B_0$ + improvement $\delta$
+copies\EN_full_ch04.md:162:| **Individual** | I-AVP | $P_2 \geq B_0 + \delta$ | Unplugged Test ($W = 4\text{–}8$ weeks) | Capability degradation |
+copies\EN_full_ch04.md:162:| **Individual** | I-AVP | $P_2 \geq B_0 + \delta$ | Unplugged Test ($W = 4\text{–}8$ weeks) | Capability degradation |
+copies\EN_full_ch05.md:191:| **Individual**   | Task logs             | Task completion, $P_2$ testing        | Real-time         |
+copies\EN_full_ch05.md:213:1. Direct measurement: $P_2$ Unplugged Test (reference standard)
+copies\EN_full_ch05.md:242:[SECTION CHECK] **Sentences translated**: 30 (1:1 with source) **New terms encountered**: None (all from established terminology) **Math formulas**: $P_2$, $C(t)$, $F$, $S(t)$ (all properly LaTeXified in tables) **Tables**: 2 tables with Goodhart safeguard notes (all formatted) **Special content**: Python code block for capability vector (properly formatted) **Potential issues**: None **Fidelity check**: ✓ Passed - 1:1 sentence alignment **Chinese character check**: ✓ No Chinese quotes/punctuation
+copies\EN_full_ch05.md:276:- **Differentiated AVP**: For users with disabilities, adjust baseline $B_0$ and $\delta$, but do not lower "improvement" requirements
+copies\EN_full_ch05.md:313:- Short-board effects **Math formulas**: $S(t)$, $F(t)$, $B_0$, $\delta$ (all properly LaTeXified) **Tables**: None **Special content**: Text-based strategy hierarchy diagram (preserved ASCII formatting) **Potential issues**: None **Fidelity check**: ✓ Passed - 1:1 sentence alignment **Chinese character check**: ✓ No Chinese quotes/punctuation
+copies\EN_full_ch05.md:431:- **Statement**: In procedural cognitive tasks, through AI tools designed with beneficial friction (50–70% success rate, working assumption) + systematic support reduction ($S_4 \to S_1$), after collaborating for $W$ weeks, users' independent performance within the unplugged window will significantly exceed baseline ($P_2 \geq B_0 + \delta$).
+copies\EN_full_ch05.md:431:- **Statement**: In procedural cognitive tasks, through AI tools designed with beneficial friction (50–70% success rate, working assumption) + systematic support reduction ($S_4 \to S_1$), after collaborating for $W$ weeks, users' independent performance within the unplugged window will significantly exceed baseline ($P_2 \geq B_0 + \delta$).
+copies\EN_full_ch05.md:432:- **Falsification condition**: Under rigorous RCT design, experimental group and control group show no significant difference in $P_2$ performance (effect size < 0.2), or $P_2 < B_0$.
+copies\EN_full_ch05.md:432:- **Falsification condition**: Under rigorous RCT design, experimental group and control group show no significant difference in $P_2$ performance (effect size < 0.2), or $P_2 < B_0$.
+copies\EN_full_ch05.md:432:- **Falsification condition**: Under rigorous RCT design, experimental group and control group show no significant difference in $P_2$ performance (effect size < 0.2), or $P_2 < B_0$.
+copies\EN_full_ch05.md:437:- **Statement**: An "optimal challenge zone" exists (50–70% success rate, working assumption); within this zone, user capability enhancement ($P_2 - B_0$) is maximized.
+copies\EN_full_ch05.md:437:- **Statement**: An "optimal challenge zone" exists (50–70% success rate, working assumption); within this zone, user capability enhancement ($P_2 - B_0$) is maximized.
+copies\EN_full_ch05.md:444:- **Falsification condition**: Fixed support group $P_2$ performance not inferior to reduction group.
+copies\EN_full_ch06.md:191:| **Individual**   | Task logs             | Task completion, $P_2$ testing        | Real-time         |
+copies\EN_full_ch06.md:213:1. Direct measurement: $P_2$ Unplugged Test (reference standard)
+copies\EN_full_ch06.md:242:[SECTION CHECK] **Sentences translated**: 30 (1:1 with source) **New terms encountered**: None (all from established terminology) **Math formulas**: $P_2$, $C(t)$, $F$, $S(t)$ (all properly LaTeXified in tables) **Tables**: 2 tables with Goodhart safeguard notes (all formatted) **Special content**: Python code block for capability vector (properly formatted) **Potential issues**: None **Fidelity check**: ✓ Passed - 1:1 sentence alignment **Chinese character check**: ✓ No Chinese quotes/punctuation
+copies\EN_full_ch06.md:276:- **Differentiated AVP**: For users with disabilities, adjust baseline $B_0$ and $\delta$, but do not lower "improvement" requirements
+copies\EN_full_ch06.md:313:- Short-board effects **Math formulas**: $S(t)$, $F(t)$, $B_0$, $\delta$ (all properly LaTeXified) **Tables**: None **Special content**: Text-based strategy hierarchy diagram (preserved ASCII formatting) **Potential issues**: None **Fidelity check**: ✓ Passed - 1:1 sentence alignment **Chinese character check**: ✓ No Chinese quotes/punctuation
+copies\EN_full_ch06.md:431:- **Statement**: In procedural cognitive tasks, through AI tools designed with beneficial friction (50–70% success rate, working assumption) + systematic support reduction ($S_4 \to S_1$), after collaborating for $W$ weeks, users' independent performance within the unplugged window will significantly exceed baseline ($P_2 \geq B_0 + \delta$).
+copies\EN_full_ch06.md:431:- **Statement**: In procedural cognitive tasks, through AI tools designed with beneficial friction (50–70% success rate, working assumption) + systematic support reduction ($S_4 \to S_1$), after collaborating for $W$ weeks, users' independent performance within the unplugged window will significantly exceed baseline ($P_2 \geq B_0 + \delta$).
+copies\EN_full_ch06.md:432:- **Falsification condition**: Under rigorous RCT design, experimental group and control group show no significant difference in $P_2$ performance (effect size < 0.2), or $P_2 < B_0$.
+copies\EN_full_ch06.md:432:- **Falsification condition**: Under rigorous RCT design, experimental group and control group show no significant difference in $P_2$ performance (effect size < 0.2), or $P_2 < B_0$.
+copies\EN_full_ch06.md:432:- **Falsification condition**: Under rigorous RCT design, experimental group and control group show no significant difference in $P_2$ performance (effect size < 0.2), or $P_2 < B_0$.
+copies\EN_full_ch06.md:437:- **Statement**: An "optimal challenge zone" exists (50–70% success rate, working assumption); within this zone, user capability enhancement ($P_2 - B_0$) is maximized.
+copies\EN_full_ch06.md:437:- **Statement**: An "optimal challenge zone" exists (50–70% success rate, working assumption); within this zone, user capability enhancement ($P_2 - B_0$) is maximized.
+copies\EN_full_ch06.md:444:- **Falsification condition**: Fixed support group $P_2$ performance not inferior to reduction group.
+copies\EN_full_part_A.md:13:Large language models and other AI tools are profoundly reshaping human work practices, yet their long-term impact on independent capabilities remains unclear. This study proposes the Cognitive Endosymbiosis Theory (CET), which measures whether independent capabilities are enhanced or degraded by AI assistance through the "Antifragility Validation Principle" (AVP). The research establishes a five-anchor measurement framework (B1-B5) and proposes design principles through the "Endosymbiotic Minimal Law" (EML), which promotes capability internalization via beneficial friction (50$\text{–}$70% success rate, working assumption) and systematic support reduction (S4$\rightarrow$S1$\rightarrow$S0). The core criterion: $P_2 \geq B_0 + \delta$ (post-unplugged capability must exceed baseline). The theory presents eight falsifiable hypotheses, explicitly defines applicability boundaries, and commits to open science validation (see Appendix B; Section 3.0 anchor texts).
+copies\EN_full_part_A.md:13:Large language models and other AI tools are profoundly reshaping human work practices, yet their long-term impact on independent capabilities remains unclear. This study proposes the Cognitive Endosymbiosis Theory (CET), which measures whether independent capabilities are enhanced or degraded by AI assistance through the "Antifragility Validation Principle" (AVP). The research establishes a five-anchor measurement framework (B1-B5) and proposes design principles through the "Endosymbiotic Minimal Law" (EML), which promotes capability internalization via beneficial friction (50$\text{–}$70% success rate, working assumption) and systematic support reduction (S4$\rightarrow$S1$\rightarrow$S0). The core criterion: $P_2 \geq B_0 + \delta$ (post-unplugged capability must exceed baseline). The theory presents eight falsifiable hypotheses, explicitly defines applicability boundaries, and commits to open science validation (see Appendix B; Section 3.0 anchor texts).
+copies\EN_full_part_A.md:79:> Validate collaboration through **Unplugged Test** to verify whether it promotes independent capability. Core criterion: **$P_2 \geq B_0 + \delta$**.
+copies\EN_full_part_A.md:79:> Validate collaboration through **Unplugged Test** to verify whether it promotes independent capability. Core criterion: **$P_2 \geq B_0 + \delta$**.
+copies\EN_full_part_A.md:81:> Where: $B_0$ is the baseline capability before using AI, $P_2$ is independent performance within the unplugged window after collaboration ($W = 4\text{–}8$ weeks, default 6 weeks, working assumption), and $\delta$ is the minimum meaningful lift threshold ($\geq 0.3\,\mathrm{SD}$ or 10%, working assumption).
+copies\EN_full_part_A.md:81:> Where: $B_0$ is the baseline capability before using AI, $P_2$ is independent performance within the unplugged window after collaboration ($W = 4\text{–}8$ weeks, default 6 weeks, working assumption), and $\delta$ is the minimum meaningful lift threshold ($\geq 0.3\,\mathrm{SD}$ or 10%, working assumption).
+copies\EN_full_part_A.md:85:- **Cognitive Exoskeleton mode**: Independent performance significantly declines ($P_2 < B_0$), permanent AI dependency
+copies\EN_full_part_A.md:85:- **Cognitive Exoskeleton mode**: Independent performance significantly declines ($P_2 < B_0$), permanent AI dependency
+copies\EN_full_part_A.md:86:- **Cognitive Endosymbiosis mode**: Independent performance exceeds original level ($P_2 \geq B_0 + \delta$), AI use strengthens underlying capabilities
+copies\EN_full_part_A.md:86:- **Cognitive Endosymbiosis mode**: Independent performance exceeds original level ($P_2 \geq B_0 + \delta$), AI use strengthens underlying capabilities
+copies\EN_full_part_A.md:118:- $P_2 \geq B_0 + \delta$: Success (Cognitive Endosymbiosis)
+copies\EN_full_part_A.md:118:- $P_2 \geq B_0 + \delta$: Success (Cognitive Endosymbiosis)
+copies\EN_full_part_A.md:119:- $P_2 \approx B_0$: Neutral (no harm caused but no growth promoted)
+copies\EN_full_part_A.md:119:- $P_2 \approx B_0$: Neutral (no harm caused but no growth promoted)
+copies\EN_full_part_A.md:120:- $P_2 < B_0$: Failure (Cognitive Exoskeleton)
+copies\EN_full_part_A.md:120:- $P_2 < B_0$: Failure (Cognitive Exoskeleton)
+copies\EN_full_part_A.md:130:> These two constitute jointly sufficient design conditions, but ultimately still require **AVP ($P_2 \geq B_0 + \delta$) as the necessary acceptance criterion**.
+copies\EN_full_part_A.md:130:> These two constitute jointly sufficient design conditions, but ultimately still require **AVP ($P_2 \geq B_0 + \delta$) as the necessary acceptance criterion**.
+copies\EN_full_part_A.md:158:| AVP outcome        | $P_2 \leq B_0$         | $P_2 \geq B_0 + \delta$         |
+copies\EN_full_part_A.md:158:| AVP outcome        | $P_2 \leq B_0$         | $P_2 \geq B_0 + \delta$         |
+copies\EN_full_part_A.md:158:| AVP outcome        | $P_2 \leq B_0$         | $P_2 \geq B_0 + \delta$         |
+copies\EN_full_part_A.md:158:| AVP outcome        | $P_2 \leq B_0$         | $P_2 \geq B_0 + \delta$         |
+copies\EN_full_part_B.md:21:**CET's contribution**: AVP ($P_2 \geq B_0 + \delta$) provides an operationalizable, falsifiable evaluation criterion. EML provides a complete path from problem diagnosis to solution design.
+copies\EN_full_part_B.md:21:**CET's contribution**: AVP ($P_2 \geq B_0 + \delta$) provides an operationalizable, falsifiable evaluation criterion. EML provides a complete path from problem diagnosis to solution design.
+copies\EN_full_part_B.md:32:**CET's reconstruction**: From "functional parity" to "process parity"—not only "does the tool help complete tasks" but also "does tool use promote capability enhancement." AVP supplies a falsifiable boundary: $P_2 \geq B_0 + \delta$ (benign) vs. $P_2 < B_0$ (pathological). EML's systematic support reduction (S4$\rightarrow$S1$\rightarrow$S0) helps ensure extension is temporary scaffolding rather than a permanent crutch.
+copies\EN_full_part_B.md:32:**CET's reconstruction**: From "functional parity" to "process parity"—not only "does the tool help complete tasks" but also "does tool use promote capability enhancement." AVP supplies a falsifiable boundary: $P_2 \geq B_0 + \delta$ (benign) vs. $P_2 < B_0$ (pathological). EML's systematic support reduction (S4$\rightarrow$S1$\rightarrow$S0) helps ensure extension is temporary scaffolding rather than a permanent crutch.
+copies\EN_full_part_B.md:32:**CET's reconstruction**: From "functional parity" to "process parity"—not only "does the tool help complete tasks" but also "does tool use promote capability enhancement." AVP supplies a falsifiable boundary: $P_2 \geq B_0 + \delta$ (benign) vs. $P_2 < B_0$ (pathological). EML's systematic support reduction (S4$\rightarrow$S1$\rightarrow$S0) helps ensure extension is temporary scaffolding rather than a permanent crutch.
+copies\EN_full_part_B.md:32:**CET's reconstruction**: From "functional parity" to "process parity"—not only "does the tool help complete tasks" but also "does tool use promote capability enhancement." AVP supplies a falsifiable boundary: $P_2 \geq B_0 + \delta$ (benign) vs. $P_2 < B_0$ (pathological). EML's systematic support reduction (S4$\rightarrow$S1$\rightarrow$S0) helps ensure extension is temporary scaffolding rather than a permanent crutch.
+copies\EN_full_part_B.md:36:**Automation paradox** (Bainbridge, 1983): The more perfect the automation, the worse operators' capabilities when intervention is needed. Aviation case (Air France Flight 447): Pilots operated normally under autopilot ($P_1$ high) but lacked manual proficiency when the system failed ($P_2$ low). This "permanent support → capability degradation" pattern is the "Cognitive Exoskeleton" CET warns against.
+copies\EN_full_part_B.md:54:**CET's transformation**: Converts evidence into three design knobs—① friction (50–70% success rate, working assumption), ② reduction (S4$\rightarrow$S1$\rightarrow$S0), ③ validation ($P_2 \geq B_0 + \delta$).
+copies\EN_full_part_B.md:54:**CET's transformation**: Converts evidence into three design knobs—① friction (50–70% success rate, working assumption), ② reduction (S4$\rightarrow$S1$\rightarrow$S0), ③ validation ($P_2 \geq B_0 + \delta$).
+copies\EN_full_part_B.md:66:**Gap 1 (evaluation)**: AVP offers an operationalizable reference ($P_2 \geq B_0 + \delta$).
+copies\EN_full_part_B.md:66:**Gap 1 (evaluation)**: AVP offers an operationalizable reference ($P_2 \geq B_0 + \delta$).
+copies\EN_full_part_C.md:15:| $B_0$ | User's independent capability baseline before using AI | Task-specific measurement |
+copies\EN_full_part_C.md:17:| $P_2$ | User's independent performance after the unplugged window | Core indicator for AVP validation |
+copies\EN_full_part_C.md:28:> **Criterion:** $P_2 \geq B_0 + \delta$ (where $\delta \geq 0.3\,\text{SD}$ or 10%, working assumption; requires cross-domain/task calibration). **$P_1$ (collaboration performance) is not included in final judgment.**
+copies\EN_full_part_C.md:28:> **Criterion:** $P_2 \geq B_0 + \delta$ (where $\delta \geq 0.3\,\text{SD}$ or 10%, working assumption; requires cross-domain/task calibration). **$P_1$ (collaboration performance) is not included in final judgment.**
+copies\EN_full_part_C.md:35:> These two are **jointly sufficient** design conditions, but the final acceptance still requires **AVP ($P_2 \geq B_0 + \delta$).**
+copies\EN_full_part_C.md:35:> These two are **jointly sufficient** design conditions, but the final acceptance still requires **AVP ($P_2 \geq B_0 + \delta$).**
+copies\EN_full_part_C.md:54:### 3.1.1 Why $P_2$ Rather Than $P_1$?
+copies\EN_full_part_C.md:57:**$B_0$** (pre-collaboration independent baseline);
+copies\EN_full_part_C.md:59:**$P_2$** (post-collaboration independent performance; unplugged window $W=4$–$8$ weeks; default 6 weeks; working assumption).
+copies\EN_full_part_C.md:66:$P_2 \geq B_0 + \delta$: Success (Cognitive Endosymbiosis);
+copies\EN_full_part_C.md:66:$P_2 \geq B_0 + \delta$: Success (Cognitive Endosymbiosis);
+copies\EN_full_part_C.md:67:$P_2 \approx B_0$: Neutral (no harm, no growth);
+copies\EN_full_part_C.md:67:$P_2 \approx B_0$: Neutral (no harm, no growth);
+copies\EN_full_part_C.md:68:$P_2 < B_0$: Failure (Cognitive Exoskeleton).
+copies\EN_full_part_C.md:68:$P_2 < B_0$: Failure (Cognitive Exoskeleton).
+copies\EN_full_part_C.md:87:**Zero-friction trap.** "Zero-friction" experiences may yield high $P_1$ yet stagnate or reduce $P_2$.
+copies\EN_full_part_C.md:171:- The end-state is enhanced independence ($P_2 \geq B_0 + \delta$);
+copies\EN_full_part_C.md:171:- The end-state is enhanced independence ($P_2 \geq B_0 + \delta$);
+copies\EN_full_part_C.md:189:**AVP failure.** $P_2 < B_0$ (degradation) or $P_2 \approx B_0$ (no growth) → antifragility not achieved.
+copies\EN_full_part_C.md:189:**AVP failure.** $P_2 < B_0$ (degradation) or $P_2 \approx B_0$ (no growth) → antifragility not achieved.
+copies\EN_full_part_C.md:189:**AVP failure.** $P_2 < B_0$ (degradation) or $P_2 \approx B_0$ (no growth) → antifragility not achieved.
+copies\EN_full_part_C.md:189:**AVP failure.** $P_2 < B_0$ (degradation) or $P_2 \approx B_0$ (no growth) → antifragility not achieved.
+copies\EN_full_part_C.md:205:1) **Falsifiable standard:** AVP turns "healthy human–AI relations" into a measurable criterion ($P_2 \geq B_0 + \delta$);
+copies\EN_full_part_C.md:205:1) **Falsifiable standard:** AVP turns "healthy human–AI relations" into a measurable criterion ($P_2 \geq B_0 + \delta$);
+0_raw\AppendixA.md:103:An assessment standard that uses the Unplugged Test to verify whether human-AI collaboration promotes independent capability. Core criterion: P₂ ≥ B₀ + δ, where B₀ is baseline capability, P₂ is independent performance after unplugging, and δ is minimum meaningful lift threshold (Cohen's d ≥ 0.3 or relative improvement ≥ 10%, working assumption). P₁ (collaboration performance) does not participate in final judgment. First appearance: Section 1.3, complete definition: Section 3.0.2 (AVP definition Anchor B1).
+0_raw\ARVIX2025CEN.md:35:> These two are **jointly sufficient** design conditions, but the final acceptance still requires **AVP ($P_2 \geq B_0 + \delta$).**
+0_raw\ARVIX2025CEN.md:105:*Note (Goodhart safeguard): This table/grading is for directional stratification only; must not be cascaded into KPIs. Final judgment follows the AVP main criterion (see Section 3.0.2).*
+0_raw\ARVIX2025CEN.md:105:*Note (Goodhart safeguard): This table/grading is for directional stratification only; must not be cascaded into KPIs. Final judgment follows the AVP main criterion (see Section 3.0.2).*
+0_raw\ARVIX2025CEN.md:137:*Note (Goodhart safeguard): This table/grading is for directional stratification only; must not be cascaded into KPIs. Final judgment follows the AVP main criterion (see Section 3.0.2).*
+0_raw\ARVIX2025CEN.md:137:*Note (Goodhart safeguard): This table/grading is for directional stratification only; must not be cascaded into KPIs. Final judgment follows the AVP main criterion (see Section 3.0.2).*
+0_raw\ARVIX2025DEN.md:23:*Note (Goodhart safeguard): This table/grading is for **directional and stratified** purposes only; **must not be cascaded into KPIs**. Final judgment follows the **AVP main criterion (see Section 3.0.2)**.*
+0_raw\ARVIX2025DEN.md:23:*Note (Goodhart safeguard): This table/grading is for **directional and stratified** purposes only; **must not be cascaded into KPIs**. Final judgment follows the **AVP main criterion (see Section 3.0.2)**.*
+0_raw\ARVIX2025DEN.md:344:> *Note (Goodhart safeguard): This table/grading is for **directional and stratified** purposes only; **must not be cascaded into KPIs**. Final judgment follows the **AVP main criterion (see Section 3.0.2)**.*
+0_raw\ARVIX2025DEN.md:344:> *Note (Goodhart safeguard): This table/grading is for **directional and stratified** purposes only; **must not be cascaded into KPIs**. Final judgment follows the **AVP main criterion (see Section 3.0.2)**.*
+0_raw\Chapter 4.md:167:*Note (Goodhart safeguard): This table is for direction & quality stratification only; it must not be pushed down as KPIs. Final judgment follows the AVP main criterion (see Section 3.0.2). All parameters are working assumptions requiring cross-domain/task calibration.*
+0_raw\Chapter 4.md:167:*Note (Goodhart safeguard): This table is for direction & quality stratification only; it must not be pushed down as KPIs. Final judgment follows the AVP main criterion (see Section 3.0.2). All parameters are working assumptions requiring cross-domain/task calibration.*
+0_raw\Chapter 5+6.md:153:*Note (Goodhart safeguard): This table is for direction & quality stratification only; it must not be pushed down as KPIs. Final judgment follows the AVP main criterion (see Section 3.0.2). All parameters are working assumptions requiring cross-domain/task calibration.*
+0_raw\Chapter 5+6.md:153:*Note (Goodhart safeguard): This table is for direction & quality stratification only; it must not be pushed down as KPIs. Final judgment follows the AVP main criterion (see Section 3.0.2). All parameters are working assumptions requiring cross-domain/task calibration.*
+0_raw\Chapter 5+6.md:195:*Note (Goodhart safeguard): This table is for direction & quality stratification only; it must not be pushed down as KPIs. Final judgment follows the AVP main criterion (see Section 3.0.2). All parameters are working assumptions requiring cross-domain/task calibration.*
+0_raw\Chapter 5+6.md:195:*Note (Goodhart safeguard): This table is for direction & quality stratification only; it must not be pushed down as KPIs. Final judgment follows the AVP main criterion (see Section 3.0.2). All parameters are working assumptions requiring cross-domain/task calibration.*
+0_raw\Chapter 5+6.md:229:*Note (Goodhart safeguard): This table is for direction & quality stratification only; it must not be pushed down as KPIs. Final judgment follows the AVP main criterion (see Section 3.0.2). All parameters are working assumptions requiring cross-domain/task calibration.*
+0_raw\Chapter 5+6.md:229:*Note (Goodhart safeguard): This table is for direction & quality stratification only; it must not be pushed down as KPIs. Final judgment follows the AVP main criterion (see Section 3.0.2). All parameters are working assumptions requiring cross-domain/task calibration.*
+0_raw\Chapter 5+6.md:291:**Multi-objective balancing** (must not be pushed down as KPIs):
+0_raw\Chapter 5+6.md:306:**Goodhart safeguard**: The objective function is only for directional trade-offs; final judgment follows the AVP main criterion.
+0_raw\Chapter 5+6.md:330:*Note (Goodhart safeguard): This table is for direction & quality stratification only; it must not be pushed down as KPIs. Final judgment follows the AVP main criterion (see Section 3.0.2). All parameters are working assumptions requiring cross-domain/task calibration.*
+0_raw\Chapter 5+6.md:330:*Note (Goodhart safeguard): This table is for direction & quality stratification only; it must not be pushed down as KPIs. Final judgment follows the AVP main criterion (see Section 3.0.2). All parameters are working assumptions requiring cross-domain/task calibration.*
+copies\EN_full_appendix_seed.md:23:*Note (Goodhart safeguard): This table/grading is for **directional and stratified** purposes only; **must not be cascaded into KPIs**. Final judgment follows the **AVP main criterion (see Section 3.0.2)**.*
+copies\EN_full_appendix_seed.md:23:*Note (Goodhart safeguard): This table/grading is for **directional and stratified** purposes only; **must not be cascaded into KPIs**. Final judgment follows the **AVP main criterion (see Section 3.0.2)**.*
+copies\EN_full_appendix_seed.md:344:> *Note (Goodhart safeguard): This table/grading is for **directional and stratified** purposes only; **must not be cascaded into KPIs**. Final judgment follows the **AVP main criterion (see Section 3.0.2)**.*
+copies\EN_full_appendix_seed.md:344:> *Note (Goodhart safeguard): This table/grading is for **directional and stratified** purposes only; **must not be cascaded into KPIs**. Final judgment follows the **AVP main criterion (see Section 3.0.2)**.*
+copies\EN_full_ch04.md:167:*Note (Goodhart safeguard): This table is for direction & quality stratification only; it must not be pushed down as KPIs. Final judgment follows the AVP main criterion (see Section 3.0.2). All parameters are working assumptions requiring cross-domain/task calibration.*
+copies\EN_full_ch04.md:167:*Note (Goodhart safeguard): This table is for direction & quality stratification only; it must not be pushed down as KPIs. Final judgment follows the AVP main criterion (see Section 3.0.2). All parameters are working assumptions requiring cross-domain/task calibration.*
+copies\EN_full_ch05.md:153:*Note (Goodhart safeguard): This table is for direction & quality stratification only; it must not be pushed down as KPIs. Final judgment follows the AVP main criterion (see Section 3.0.2). All parameters are working assumptions requiring cross-domain/task calibration.*
+copies\EN_full_ch05.md:153:*Note (Goodhart safeguard): This table is for direction & quality stratification only; it must not be pushed down as KPIs. Final judgment follows the AVP main criterion (see Section 3.0.2). All parameters are working assumptions requiring cross-domain/task calibration.*
+copies\EN_full_ch05.md:195:*Note (Goodhart safeguard): This table is for direction & quality stratification only; it must not be pushed down as KPIs. Final judgment follows the AVP main criterion (see Section 3.0.2). All parameters are working assumptions requiring cross-domain/task calibration.*
+copies\EN_full_ch05.md:195:*Note (Goodhart safeguard): This table is for direction & quality stratification only; it must not be pushed down as KPIs. Final judgment follows the AVP main criterion (see Section 3.0.2). All parameters are working assumptions requiring cross-domain/task calibration.*
+copies\EN_full_ch05.md:229:*Note (Goodhart safeguard): This table is for direction & quality stratification only; it must not be pushed down as KPIs. Final judgment follows the AVP main criterion (see Section 3.0.2). All parameters are working assumptions requiring cross-domain/task calibration.*
+copies\EN_full_ch05.md:229:*Note (Goodhart safeguard): This table is for direction & quality stratification only; it must not be pushed down as KPIs. Final judgment follows the AVP main criterion (see Section 3.0.2). All parameters are working assumptions requiring cross-domain/task calibration.*
+copies\EN_full_ch05.md:291:**Multi-objective balancing** (must not be pushed down as KPIs):
+copies\EN_full_ch05.md:306:**Goodhart safeguard**: The objective function is only for directional trade-offs; final judgment follows the AVP main criterion.
+copies\EN_full_ch05.md:330:*Note (Goodhart safeguard): This table is for direction & quality stratification only; it must not be pushed down as KPIs. Final judgment follows the AVP main criterion (see Section 3.0.2). All parameters are working assumptions requiring cross-domain/task calibration.*
+copies\EN_full_ch05.md:330:*Note (Goodhart safeguard): This table is for direction & quality stratification only; it must not be pushed down as KPIs. Final judgment follows the AVP main criterion (see Section 3.0.2). All parameters are working assumptions requiring cross-domain/task calibration.*
+copies\EN_full_ch06.md:153:*Note (Goodhart safeguard): This table is for direction & quality stratification only; it must not be pushed down as KPIs. Final judgment follows the AVP main criterion (see Section 3.0.2). All parameters are working assumptions requiring cross-domain/task calibration.*
+copies\EN_full_ch06.md:153:*Note (Goodhart safeguard): This table is for direction & quality stratification only; it must not be pushed down as KPIs. Final judgment follows the AVP main criterion (see Section 3.0.2). All parameters are working assumptions requiring cross-domain/task calibration.*
+copies\EN_full_ch06.md:195:*Note (Goodhart safeguard): This table is for direction & quality stratification only; it must not be pushed down as KPIs. Final judgment follows the AVP main criterion (see Section 3.0.2). All parameters are working assumptions requiring cross-domain/task calibration.*
+copies\EN_full_ch06.md:195:*Note (Goodhart safeguard): This table is for direction & quality stratification only; it must not be pushed down as KPIs. Final judgment follows the AVP main criterion (see Section 3.0.2). All parameters are working assumptions requiring cross-domain/task calibration.*
+copies\EN_full_ch06.md:229:*Note (Goodhart safeguard): This table is for direction & quality stratification only; it must not be pushed down as KPIs. Final judgment follows the AVP main criterion (see Section 3.0.2). All parameters are working assumptions requiring cross-domain/task calibration.*
+copies\EN_full_ch06.md:229:*Note (Goodhart safeguard): This table is for direction & quality stratification only; it must not be pushed down as KPIs. Final judgment follows the AVP main criterion (see Section 3.0.2). All parameters are working assumptions requiring cross-domain/task calibration.*
+copies\EN_full_ch06.md:291:**Multi-objective balancing** (must not be pushed down as KPIs):
+copies\EN_full_ch06.md:306:**Goodhart safeguard**: The objective function is only for directional trade-offs; final judgment follows the AVP main criterion.
+copies\EN_full_ch06.md:330:*Note (Goodhart safeguard): This table is for direction & quality stratification only; it must not be pushed down as KPIs. Final judgment follows the AVP main criterion (see Section 3.0.2). All parameters are working assumptions requiring cross-domain/task calibration.*
+copies\EN_full_ch06.md:330:*Note (Goodhart safeguard): This table is for direction & quality stratification only; it must not be pushed down as KPIs. Final judgment follows the AVP main criterion (see Section 3.0.2). All parameters are working assumptions requiring cross-domain/task calibration.*
+copies\EN_full_part_C.md:35:> These two are **jointly sufficient** design conditions, but the final acceptance still requires **AVP ($P_2 \geq B_0 + \delta$).**
+copies\EN_full_part_C.md:105:*Note (Goodhart safeguard): This table/grading is for directional stratification only; must not be cascaded into KPIs. Final judgment follows the AVP main criterion (see Section 3.0.2).*
+copies\EN_full_part_C.md:105:*Note (Goodhart safeguard): This table/grading is for directional stratification only; must not be cascaded into KPIs. Final judgment follows the AVP main criterion (see Section 3.0.2).*
+copies\EN_full_part_C.md:137:*Note (Goodhart safeguard): This table/grading is for directional stratification only; must not be cascaded into KPIs. Final judgment follows the AVP main criterion (see Section 3.0.2).*
+copies\EN_full_part_C.md:137:*Note (Goodhart safeguard): This table/grading is for directional stratification only; must not be cascaded into KPIs. Final judgment follows the AVP main criterion (see Section 3.0.2).*

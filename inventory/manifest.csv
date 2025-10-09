@@ -1,0 +1,22 @@
+version(lang),chapter,path,status,needs_fix
+EN-Concise(EN),part-A,0_raw\ARVIX2025A.md,complete,arrows|latex|quotes
+EN-Full(EN),part-A,0_raw\ARVIX2025AEN.md,complete,latex|params/anchors|quotes
+EN-Concise(EN),part-B,0_raw\ARVIX2025B.md,complete,arrows|latex|quotes
+EN-Full(EN),part-B,0_raw\ARVIX2025BEN.md,complete,latex|quotes
+EN-Concise(EN),part-C,0_raw\ARVIX2025C.md,complete,latex|quotes
+EN-Full(EN),part-C,0_raw\ARVIX2025CEN.md,complete,latex|quotes
+EN-Concise(EN),part-D,0_raw\ARVIX2025D.md,complete,latex|quotes
+EN-Full(EN),part-D,0_raw\ARVIX2025DEN.md,complete,latex|quotes
+Unclassified(?),-,0_raw\AppendixA.md,review,quotes
+CN-Full(CN),1,0_raw\CETG1.md,complete,arrows|quotes
+CN-Full(CN),10,0_raw\CETG10.md,complete,arrows|quotes
+CN-Full(CN),2,0_raw\CETG2.md,complete,arrows|quotes
+CN-Full(CN),3,0_raw\CETG3.md,complete,arrows|quotes
+CN-Full(CN),4,0_raw\CETG4.md,complete,params/anchors|quotes
+CN-Full(CN),5,0_raw\CETG5.md,complete,quotes
+CN-Full(CN),6,0_raw\CETG6.md,complete,arrows|quotes
+CN-Full(CN),7,0_raw\CETG7.md,complete,arrows|quotes
+CN-Full(CN),8,0_raw\CETG8.md,complete,arrows|quotes
+CN-Full(CN),9,0_raw\CETG9.md,complete,arrows|quotes
+EN-Full(EN),ch?,0_raw\Chapter 4.md,complete,latex|quotes
+EN-Full(EN),ch?,0_raw\Chapter 5+6.md,partial,arrows|latex|quotes
