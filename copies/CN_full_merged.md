@@ -1,5 +1,9 @@
 <!-- === CN_full_merged START === -->
 # AI时代的人类能力建构与认知韧性理论
+<!-- Publication Links -->
+**DOI (Zenodo CN Full)**: [pending]
+**OSF (EN Full)**: [pending]
+**SSRN**: [pending]
 
 **副标题**：基于反脆弱性验证原则的认知内共生范式
 

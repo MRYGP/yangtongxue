@@ -195,6 +195,10 @@
 
     This paper adopts the Single Source of Truth (SSOT) principle. All core terminology definitions are found in Section 3.0 of Chapter 3, and all parameter default values are found in Appendix B Parameter Registry. If discrepancies are found, these two sources take precedence. All deltas to SSOT will be recorded in the change-log and mirrored to CETG7.
 # Chapter 2: Literature Review and Theoretical Foundations
+<!-- Publication Links -->
+**DOI (Zenodo CN Full)**: [pending]
+**OSF (EN Full)**: [pending]
+**SSRN**: [pending]
 
 This chapter reviews the cross-disciplinary foundations of CET, revealing how existing research points toward a unified framework. While cognitive offloading, extended mind, scaffolding theory, and other fields each provide important insights, they lack **operationalizable evaluation criteria** and **unified design principles**â€”which are the core contributions of CET.
 

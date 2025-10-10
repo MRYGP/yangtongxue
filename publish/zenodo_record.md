@@ -1,0 +1,16 @@
+# Zenodo Record (CN Full)
+- Title (CN/EN): 
+- Authors / ORCID:
+- Keywords:
+- License: CC BY 4.0
+- Funding: None
+- Version: v1.0
+- Community: (optional)
+- DOI (assigned): 
+- Uploads:
+  - out/CN_full_merged.pdf
+  - source.zip (md, images, scripts)
+- Cross-links:
+  - OSF Preprint (EN Full)
+  - SSRN (EN Concise or Full)
+  - GitHub Release tag

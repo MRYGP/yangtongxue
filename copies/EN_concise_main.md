@@ -68,6 +68,10 @@
 **å‚è€ƒæ–‡çŒ®**
 
 # ç¬¬1ç«  å¼•è¨€ä¸Žç†è®ºå®šä½
+<!-- Publication Links -->
+**DOI (Zenodo CN Full)**: [pending]
+**OSF (EN Full)**: [pending]
+**SSRN**: [pending]
 
 ## 1.1 æ ¸å¿ƒå‘½é¢˜ï¼šè¯„ä¼°AIçš„æ–°æ ‡å‡†
 
