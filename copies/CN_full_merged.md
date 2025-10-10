@@ -1,12 +1,6 @@
 <!-- === CN_full_merged START === -->
 # AI时代的人类能力建构与认知韧性理论
 
-*Adjust task format without lowering challenge intensity; assess by relative improvement rather than absolute level; (if involving accessibility) challenge budget conservation.*
-
-
-**核心公式**: $P_2 \ge B_0 + \delta$ (working assumption)
-
-
 **副标题**：基于反脆弱性验证原则的认知内共生范式
 
 **作者**：杨国平
@@ -14,13 +8,10 @@
 **版本**：V1.0
 **日期**：2025年9月
 
-
+------
 
 
 ## 摘要
-
-*Adjust task format without lowering challenge intensity; assess by relative improvement rather than absolute level; (if involving accessibility) challenge budget conservation.*
-
 
 大语言模型等AI工具正深刻改变人类工作方式，但其对独立能力的长期影响尚不明确。本研究提出认知能力迁移理论(CET)，通过"增强后验证能力"(AVP)测量独立完成能力是否因AI辅助而提升或退化。研究建立了五层认知锚点(B0-B5)测量框架，提出"等效努力匹配学习"(EML)设计原则，通过有益摩擦和渐进撤出促进能力内化。理论提出8个可证伪假说。
 
@@ -33,7 +24,6 @@
 **术语与参数说明**：本文涉及的所有核心参数（δ阈值、W窗口、成功率范围等）以**单一事实源(SSOT)**原则管理，统一定义于第7章第6节参数登记簿。正文中如出现参数，均应与参数登记簿保持一致。B1-B5锚点定义见第3章第3.0.2-3.0.6节。
 
 ---
-
 
 
 ## 第一章 引言与理论定位
@@ -203,6 +193,14 @@ Extended Mind理论（Clark & Chalmers, 1998）虽然承认认知的延展性，
 2. 案例选择遵循**理论启发性**标准，不追求统计代表性，而是用于阐释机制和边界条件。
 3. 我们明确指出理论的适用边界和证伪路径（详见第六章），坚持开放科学原则。
 
+#### 1.4.2 论文结构
+
+本文共六章：第二章梳理跨学科证据基础，第三章构建AVP/EML理论框架，
+第四章扩展至团队和组织层面，第五章讨论技术实现路径，
+第六章明确理论边界并提出证伪路径。
+
+------
+
 # CET论文摘要与参考文献模板
 
 ## 中文摘要（结构式摘要，300-500字）
@@ -285,6 +283,3 @@ Extended Mind理论（Clark & Chalmers, 1998）虽然承认认知的延展性，
 *注：以上参考文献为示例，实际使用时请根据正文引用情况调整。*
 
 <!-- === CN_full_merged END === -->
-
-
-*Note (Goodhart guard): This table supports direction and stratification only; do not push items as KPIs. Final judgment adheres to AVP (§3.0.2). Parameters are working assumptions and require calibration.*
