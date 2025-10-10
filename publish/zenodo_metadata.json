@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "title": "Cognitive Endosymbiosis: CN Full",
+    "upload_type": "publication",
+    "publication_type": "preprint",
+    "description": "Chinese full manuscript for CET (SSOT-aligned).",
+    "creators": [
+      {"name": "Your Name", "orcid": "0000-0000-0000-0000"}
+    ],
+    "access_right": "open",
+    "license": "cc-by-4.0",
+    "keywords": ["CET", "SSOT", "cognitive endosymbiosis", "preprint"],
+    "notes": "Version v1.0; all parameters marked working assumptions."
+  }
+}

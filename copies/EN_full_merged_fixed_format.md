@@ -66,6 +66,7 @@
 
     **References**
 
+    ------
 
     # Chapter 1: Introduction and Theoretical Positioning
 
@@ -195,13 +196,6 @@
     This paper adopts the Single Source of Truth (SSOT) principle. All core terminology definitions are found in Section 3.0 of Chapter 3, and all parameter default values are found in Appendix B Parameter Registry. If discrepancies are found, these two sources take precedence. All deltas to SSOT will be recorded in the change-log and mirrored to CETG7.
 # Chapter 2: Literature Review and Theoretical Foundations
 
-*Adjust task format without lowering challenge intensity; assess by relative improvement rather than absolute level; (if involving accessibility) challenge budget conservation.*
-
-<!-- Publication Links -->
-**DOI (Zenodo CN Full)**: [pending]
-**OSF (EN Full)**: [pending]
-**SSRN**: [pending]
-
 This chapter reviews the cross-disciplinary foundations of CET, revealing how existing research points toward a unified framework. While cognitive offloading, extended mind, scaffolding theory, and other fields each provide important insights, they lack **operationalizable evaluation criteria** and **unified design principles**â€”which are the core contributions of CET.
 
 ## 2.1 Cognitive Offloading Research: From Phenomena to Mechanisms
@@ -302,7 +296,7 @@ This section presents all core definitions and fixed anchor texts of CET. **Thes
 > **Endosymbiotic Minimal Law (EML).** The **necessary design conditions** for constituting "Cognitive Endosymbiosis" are:  
 > (1) **Beneficial Cognitive Friction:** Place users in the **optimal challenge zone** (population-level working assumption: 50$\text{â€“}$70% success rate; individual adaptation required);  
 > (2) **Systematic Support Reduction:** Decrease AI support intensity from S4â†’S1â†’S0 according to a **reduction curve**.  
-> These two are **jointly sufficient** design conditions, but the final acceptance still requires **AVP ($P_2 \geq B_0 + \delta$).**
+These two are **jointly sufficient** design conditions, but the final acceptance still requires **AVP ($P_2 \geq B_0 + \delta$).**
 
 ### 3.0.4 LSA Functional Layers [Anchor B3]
 
@@ -676,6 +670,7 @@ What this chapter reveals is **current reality**, not distant risk:
 
 **CET's mission**: Within the 2025â€“2035 window period, provide theoretical foundation and practical guidance to avoid the tragedy of the cognitive commons with strong path dependence and exponentially rising recovery costs.
 
+# References
 
 1. Bainbridge, L. (1983). Ironies of automation. *Automatica*, 19(6), 775â€“779. https://doi.org/10.1016/0005-1098(83)90046-8
 2. Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. Shimamura (Eds.), *Metacognition: Knowing about knowing* (pp. 185â€“205). MIT Press.
@@ -758,6 +753,7 @@ LSA paradigm: Task success = High output quality + User satisfaction + Capabilit
 
 **Hard constraint**: L1â€“L4 (functional dimensions) and S4â†’S1 (intensity dimension) are **orthogonal dimensions** and must not be mixed.
 
+------
 
 [SECTION CHECK] **Sentences translated**: 23 (1:1 with source) **New terms encountered**:
 
@@ -767,6 +763,7 @@ LSA paradigm: Task success = High output quality + User satisfaction + Capabilit
 - AVP Telemetry Module (AVP-TM)
 - Multi-Scale Orchestrator (MSO) **Math formulas**: None in this section **Tables**: None **Special content**: ASCII art architecture diagram (preserved) **Potential issues**: None **Fidelity check**: âœ“ Passed - 1:1 sentence alignment **Chinese character check**: âœ“ No Chinese quotes/punctuation
 
+------
 
 ## 5.2 L2 Layer: Cognitive Friction Engine (CFE)
 
@@ -816,9 +813,11 @@ def adjust_friction(user, task, history):
     return clamp(F, 0.2, 0.8)  # Limit to reasonable range
 ```
 
+------
 
 [SECTION CHECK] **Sentences translated**: 20 (1:1 with source) **New terms encountered**: None (all from established terminology) **Math formulas**: None (O(n log n) preserved as-is) **Tables**: None **Special content**: Python pseudocode block (properly formatted) **Potential issues**: None **Fidelity check**: âœ“ Passed - 1:1 sentence alignment **Chinese character check**: âœ“ No Chinese quotes/punctuation
 
+------
 
 ## 5.3 L2 Layer: Support Graduation Scheduler (SGS)
 
@@ -856,11 +855,13 @@ Implements EML Condition 2 (Systematic Support Reduction), gradually decreasing 
 - Minimum retention of S1 (hints/directional guidance)
 - Ensures users are never completely "stuck"
 
+------
 
 [SECTION CHECK] **Sentences translated**: 15 (1:1 with source) **New terms encountered**:
 
 - S-curve reduction (new variation of reduction curves) **Math formulas**: $S(t)$, $S_{\min}$ (properly LaTeXified) **Tables**: 1 table with Goodhart safeguard note (all formatted) **Special content**: Table with proper markdown formatting **Potential issues**: None **Fidelity check**: âœ“ Passed - 1:1 sentence alignment **Chinese character check**: âœ“ No Chinese quotes/punctuation
 
+------
 
 ## 5.4 L3 Layer: AVP Telemetry Module (AVP-TM)
 
@@ -923,9 +924,11 @@ class AbilityVector:
 - **Purpose limitation**: Data used only for capability assessment, not for profiling/marketing
 - **User control**: Can view/export/delete data
 
+------
 
 [SECTION CHECK] **Sentences translated**: 30 (1:1 with source) **New terms encountered**: None (all from established terminology) **Math formulas**: $P_2$, $C(t)$, $F$, $S(t)$ (all properly LaTeXified in tables) **Tables**: 2 tables with Goodhart safeguard notes (all formatted) **Special content**: Python code block for capability vector (properly formatted) **Potential issues**: None **Fidelity check**: âœ“ Passed - 1:1 sentence alignment **Chinese character check**: âœ“ No Chinese quotes/punctuation
 
+------
 
 ## 5.5 L4 Layer: Multi-Scale Orchestration and Ethical Governance
 
@@ -989,12 +992,14 @@ Hard constraints:
 
 **Goodhart safeguard**: The objective function is only for directional trade-offs; final judgment follows the AVP main criterion.
 
+------
 
 [SECTION CHECK] **Sentences translated**: 25 (1:1 with source) **New terms encountered**:
 
 - Equivalent effort principle
 - Short-board effects **Math formulas**: $S(t)$, $F(t)$, $B_0$, $\delta$ (all properly LaTeXified) **Tables**: None **Special content**: Text-based strategy hierarchy diagram (preserved ASCII formatting) **Potential issues**: None **Fidelity check**: âœ“ Passed - 1:1 sentence alignment **Chinese character check**: âœ“ No Chinese quotes/punctuation
 
+------
 
 ## 5.6 Technical Feasibility and Engineering Challenges
 
@@ -1028,12 +1033,14 @@ Hard constraints:
 3. **Data cold start**: How to initialize new users? (Quick assessment, conservative initialization)
 4. **User acceptance**: Will users accept "incomplete answers"? (Gradual introduction, transparent communication)
 
+------
 
 [SECTION CHECK] **Sentences translated**: 16 (1:1 with source) **New terms encountered**:
 
 - Cold start (technical term)
 - MVP (Minimum Viable Product) **Math formulas**: $C(t)$ (properly LaTeXified) **Tables**: 1 table with Goodhart safeguard note (all formatted) **Special content**: Table with technology maturity levels **Potential issues**: None **Fidelity check**: âœ“ Passed - 1:1 sentence alignment **Chinese character check**: âœ“ No Chinese quotes/punctuation
 
+------
 
 ## 5.7 Core Contributions of This Chapter
 
@@ -1586,24 +1593,7 @@ Goodhart's Law: "When a measure becomes a target, it ceases to be a good measure
 - âœ— For employee performance evaluation
 - âœ— For student ranking/class assignment
 - âœ— For AI tool marketing KPIs
+# References
 
 <!-- TODO: fill from References.md or in-text refs -->
 
-# References
-
-1. Bainbridge, L. (1983). Ironies of automation. *Automatica*, 19(6), 775â€“779. https://doi.org/10.1016/0005-1098(83)90046-8
-2. Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. Shimamura (Eds.), *Metacognition: Knowing about knowing* (pp. 185â€“205). MIT Press.
-3. Clark, A., & Chalmers, D. (1998). The extended mind. *Analysis*, 58(1), 7â€“19. https://doi.org/10.1093/analys/58.1.7
-4. Dahmani, L., & Bohbot, V. D. (2020). Habitual use of GPS negatively impacts spatial memory during self-guided navigation. *Scientific Reports*, 10(1), 6310. https://doi.org/10.1038/s41598-020-62877-0
-5. Engelbart, D. C. (1962). *Augmenting human intellect: A conceptual framework.* SRI Summary Report AFOSR-3223. Stanford Research Institute.
-6. Liao, Q. V., Gruen, D., & Miller, S. (2024). Designing LLM chains by adapting techniques from crowdsourcing workflows. *arXiv preprint* arXiv:2312.11681. https://arxiv.org/abs/2312.11681
-7. Maguire, E. A., Gadian, D. G., Johnsrude, I. S., Good, C. D., Ashburner, J., Frackowiak, R. S. J., & Frith, C. D. (2000). Navigation-related structural change in the hippocampi of taxi drivers. *Proceedings of the National Academy of Sciences*, 97(8), 4398â€“4403. https://doi.org/10.1073/pnas.070039597
-8. Parasuraman, R., & Riley, V. (1997). Humans and automation: Use, misuse, disuse, abuse. *Human Factors*, 39(2), 230â€“253. https://doi.org/10.1518/001872097778543886
-9. Risko, E. F., & Gilbert, S. J. (2016). Cognitive offloading. *Trends in Cognitive Sciences*, 20(9), 676â€“688. https://doi.org/10.1016/j.tics.2016.07.002
-10. Sparrow, B., Liu, J., & Wegner, D. M. (2011). Google effects on memory: Cognitive consequences of having information at our fingertips. *Science*, 333(6043), 776â€“778. https://doi.org/10.1126/science.1207745
-11. Taleb, N. N. (2012). *Antifragile: Things that gain from disorder.* Random House. ISBN: 978-1400067824
-12. Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes.* Harvard University Press. ISBN: 978-0674576292
-13. Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. *Journal of Child Psychology and Psychiatry*, 17(2), 89â€“100. https://doi.org/10.1111/j.1469-7610.1976.tb00381.x
-: Technical Implementation: LSA Layered Architecture
-
-The first four chapters established the theoretical foundation of CET; this chapter addresses the engineering question: How do we design an AI system that naturally conforms to EML principles? This chapter proposes the **Layered Symbiosis Architecture (LSA)**â€”a design framework that translates CET theory into engineerable systems.
