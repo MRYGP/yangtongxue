@@ -142,11 +142,11 @@ Implements EML Condition 2 (Systematic Support Reduction), gradually decreasing 
 
 **Table 5.1: Comparison of Support Reduction Curves**
 
-| Curve Type      | Reduction Speed       | Applicable Scenarios                        | Risk                          |
-| --------------- | --------------------- | ------------------------------------------- | ----------------------------- |
-| **Linear**      | Steady descent        | Basic tasks, novice learning                | Late-stage reduction too fast |
+| Curve Type | Reduction Speed | Applicable Scenarios | Risk                          |
+|:--- :--- :--- :--- |
+| **Linear** | Steady descent | Basic tasks, novice learning | Late-stage reduction too fast |
 | **Exponential** | Slow early, fast late | Complex skills, requires long consolidation | Possible over-protection      |
-| **Stepped**     | Stage-wise drops      | Clear milestone tasks                       | Frustration at steps          |
+| **Stepped** | Stage-wise drops | Clear milestone tasks | Frustration at steps          |
 
 *Note: All curve parameters are calibration variables to be tuned by task complexity, user capability, and learning goals.*
 
@@ -186,11 +186,11 @@ Continuously assess user capability, detect dependency lock-in risks, and trigge
 
 **Table 5.2: Telemetry Event Types**
 
-| Scale            | Data Source           | Key Events                            | Aggregation Level |
-| ---------------- | --------------------- | ------------------------------------- | ----------------- |
-| **Individual**   | Task logs             | Task completion, $P_2$ testing        | Real-time         |
-| **Team**         | Collaboration records | Collective unplugging, knowledge flow | Daily             |
-| **Organization** | Drill data            | 48h outage, BCI/ICR                   | Event-triggered   |
+| Scale | Data Source | Key Events | Aggregation Level |
+|:--- :--- :--- :--- |
+| **Individual** | Task logs | Task completion, $P_2$ testing | Real-time         |
+| **Team** | Collaboration records | Collective unplugging, knowledge flow | Daily             |
+| **Organization** | Drill data | 48h outage, BCI/ICR | Event-triggered   |
 
 *Note (Goodhart safeguard): This table is for direction & quality stratification only; it must not be pushed down as KPIs. Final judgment follows the AVP main criterion (see Section 3.0.2). All parameters are working assumptions requiring cross-domain/task calibration.*
 
@@ -219,12 +219,12 @@ class AbilityVector:
 
 **Table 5.3: Alert Mechanism**
 
-| Level      | Trigger Condition                       | System Response                           | User Experience                     |
-| ---------- | --------------------------------------- | ----------------------------------------- | ----------------------------------- |
-| **Green**  | AVP healthy, $C(t)$ ↑                   | Continue current strategy                 | Normal use                          |
-| **Yellow** | $C(t)$ stagnant or slightly ↓           | Increase friction, slow reduction         | Prompt "capability not improving"   |
-| **Red**    | Degradation indicators exceed threshold | Pause reduction, enforce independent week | Warning "may be forming dependency" |
-| **Black**  | AVP test failed                         | Trigger L4 intervention, reset path       | Mandatory "capability rebuild mode" |
+| Level | Trigger Condition | System Response | User Experience                     |
+|:--- :--- :--- :--- |
+| **Green** | AVP healthy, $C(t)$ ↑ | Continue current strategy | Normal use                          |
+| **Yellow** | $C(t)$ stagnant or slightly ↓ | Increase friction, slow reduction | Prompt "capability not improving"   |
+| **Red** | Degradation indicators exceed threshold | Pause reduction, enforce independent week | Warning "may be forming dependency" |
+| **Black** | AVP test failed | Trigger L4 intervention, reset path | Mandatory "capability rebuild mode" |
 
 *Note (Goodhart safeguard): This table is for direction & quality stratification only; it must not be pushed down as KPIs. Final judgment follows the AVP main criterion (see Section 3.0.2). All parameters are working assumptions requiring cross-domain/task calibration.*
 
@@ -320,12 +320,12 @@ Hard constraints:
 
 **Table 5.4: LSA to Existing Technology Mapping**
 
-| LSA Layer | Core Function          | Available Technologies          | Maturity   |
-| --------- | ---------------------- | ------------------------------- | ---------- |
-| L1        | Foundation AI          | Mainstream LLMs                 | High       |
-| L2        | Output modulation      | Prompt engineering, fine-tuning | Medium     |
-| L3        | Capability modeling    | Bayesian networks, RL           | Medium-Low |
-| L4        | Strategy orchestration | Rule engines                    | Medium     |
+| LSA Layer | Core Function | Available Technologies | Maturity   |
+|:--- :--- :--- :--- |
+| L1 | Foundation AI | Mainstream LLMs | High       |
+| L2 | Output modulation | Prompt engineering, fine-tuning | Medium     |
+| L3 | Capability modeling | Bayesian networks, RL | Medium-Low |
+| L4 | Strategy orchestration | Rule engines | Medium     |
 
 *Note (Goodhart safeguard): This table is for direction & quality stratification only; it must not be pushed down as KPIs. Final judgment follows the AVP main criterion (see Section 3.0.2). All parameters are working assumptions requiring cross-domain/task calibration.*
 

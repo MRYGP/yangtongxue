@@ -1,0 +1,21 @@
+/* CET.css — 统一图表样式与编号 */
+:root{ --c-caption:#555; --c-border:#DDD; --cap-size: 0.92rem; }
+body { counter-reset: fig tbl; }
+
+/* 表格：细边+斑马纹 */
+table { border-collapse: collapse; margin: 1rem auto; width: 100%; }
+table th, table td { border: 1px solid var(--c-border); padding: .5rem .6rem; }
+table tr:nth-child(even){ background: #fafafa; }
+
+/* 图：居中/自适应宽度 */
+figure { margin: 1.2rem auto; text-align: center; counter-increment: fig; }
+figure img { max-width: 100%; height: auto; }
+figcaption { color: var(--c-caption); font-size: var(--cap-size); margin-top: .4rem; }
+figcaption::before { content: "图 " counter(fig) "："; }
+
+/* 表标题（自动编号）：在表前一行写 <p class="tblcap">标题</p> */
+p.tblcap { text-align: center; color: var(--c-caption); font-size: var(--cap-size); margin: .6rem 0 .2rem; counter-increment: tbl; }
+p.tblcap::before { content: "表 " counter(tbl) "："; }
+
+/* 让代码块/公式不挤占表格的行高 */
+code, pre { font-family: "Fira Code", monospace; }

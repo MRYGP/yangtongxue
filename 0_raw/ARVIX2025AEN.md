@@ -149,13 +149,13 @@
 
     **Cognitive Exoskeleton vs Cognitive Endosymbiosis Core Comparison**:
 
-    | Dimension          | Cognitive Exoskeleton  | Cognitive Endosymbiosis         |
-    | ------------------ | ---------------------- | ------------------------------- |
-    | Design philosophy  | Replacement/offloading | Empowerment/strengthening       |
-    | Cognitive friction | Minimized              | Optimized (50$\text{–}$70%)              |
-    | Temporality        | Permanent dependency   | Time-limited symbiosis          |
-    | Support reduction  | None/fixed support     | Systematic reduction (S4$\rightarrow$S1$\rightarrow$S0) |
-    | AVP outcome        | $P_2 \leq B_0$         | $P_2 \geq B_0 + \delta$         |
+| Dimension | Cognitive Exoskeleton | Cognitive Endosymbiosis         |
+|:--- :--- :--- |
+| Design philosophy | Replacement/offloading | Empowerment/strengthening       |
+| Cognitive friction | Minimized | Optimized (50$\text{-}$70%)              |
+| Temporality | Permanent dependency | Time-limited symbiosis          |
+| Support reduction | None/fixed support | Systematic reduction (S4$\rightarrow$S1$\rightarrow$S0) |
+| AVP outcome | $P_2 \leq B_0$ | $P_2 \geq B_0 + \delta$         |
 
     ### 1.3.5 Theoretical Positioning: Normative Solution Framework
 

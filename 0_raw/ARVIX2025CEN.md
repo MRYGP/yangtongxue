@@ -11,14 +11,14 @@ This section presents all core definitions and fixed anchor texts of CET. **Thes
 **Table 3.1: Key Symbol System**
 
 | Symbol/Term | Meaning | Typical Value/Range |
-|-------------|---------|---------------------|
+|:--- :--- :--- |
 | $B_0$ | User's independent capability baseline before using AI | Task-specific measurement |
 | $P_1$ | User's performance while collaborating with AI | Process indicator; not included in final judgment |
 | $P_2$ | User's independent performance after the unplugged window | Core indicator for AVP validation |
 | $\delta$ | Minimum meaningful lift threshold | Working assumption: $\geq 0.3\,\text{SD}$ or 10% (requires cross-domain/task calibration) |
 | $W$ | Unplugged window duration | Working assumption: 4–8 weeks (default 6 weeks; requires cross-domain/task calibration) |
 | $S(t)$ | AI support intensity at time $t$ | 0 (fully independent) to 1 (fully dependent) |
-| Success-rate target | Quantitative target for beneficial cognitive friction | 50$\text{–}$70% (working assumption; population-level; individual calibration required) |
+| Success-rate target | Quantitative target for beneficial cognitive friction | 50$\text{-}$70% (working assumption; population-level; individual calibration required) |
 
 *Note: All quantitative parameters are conceptual working models requiring cross-domain empirical calibration.*
 
@@ -97,7 +97,7 @@ Inspired by the **Zone of Proximal Development (ZPD)**, CET operationalizes the 
 **Table 3.2: Three Strategies of Cognitive Friction**
 
 | Friction Type | Implementation | Cognitive Effect | Example |
-|---------------|----------------|------------------|---------|
+|:--- :--- :--- :--- |
 | **Completeness friction** | Provide a partial answer; leave blanks for the user to fill | Activates generation effect; promotes active construction | AI supplies a code framework; user implements core logic |
 | **Abstraction friction** | Provide conceptual guidance, not step-by-step solutions | Deepens understanding; avoids mechanical imitation | AI explains algorithmic ideas, not direct code |
 | **Delay friction** | Delay feedback to enforce independent effort | Enhances problem-solving; reduces dependency | User works 15 minutes before AI intervenes |
@@ -128,7 +128,7 @@ Inspired by the **Zone of Proximal Development (ZPD)**, CET operationalizes the 
 **Table 3.3: Support Reduction Curve Types**
 
 | Curve Type | Characteristics | Applicable Scenarios |
-|------------|-----------------|----------------------|
+|:--- :--- :--- |
 | **Linear** | Uniform descent; smooth transition | Structured tasks; stable learning curves |
 | **Exponential** | Rapid early reduction; slower later | Fast skills; avoiding early over-dependence |
 | **Stepped** | Stage-wise drops; clear adaptation plateaus | Graded training; milestone checkpoints |

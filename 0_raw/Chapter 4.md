@@ -158,8 +158,8 @@ Societal risk (S-AVP yellow warning) ← Generational divide
 **Table 4.1: Cross-Scale AVP System Comparison**
 
 | Scale | AVP Variant | Key Criterion | Measurement Method | Primary Risk |
-|-------|------------|---------------|-------------------|--------------|
-| **Individual** | I-AVP | $P_2 \geq B_0 + \delta$ | Unplugged Test ($W = 4\text{–}8$ weeks) | Capability degradation |
+|:--- :--- :--- :--- :--- |
+| **Individual** | I-AVP | $P_2 \geq B_0 + \delta$ | Unplugged Test ($W = 4\text{-}8$ weeks) | Capability degradation |
 | **Team** | T-AVP | $P_{2,\mathrm{team}} \geq B_{0,\mathrm{team}} + \delta_{\mathrm{team}}$ | Collective Unplugged Test (drill) | Capability polarization |
 | **Organization** | O-AVP | $\mathrm{BCI} \times 0.4 + \mathrm{ICR} \times 0.6 \geq 0.70\;(\text{alert});\; \geq 0.85\;(\text{target})$ | 48h outage drill | System fragility |
 | **Society** | S-AVP | Proxy-indicator set healthy | Generational-difference monitoring | Generational divide |
