@@ -1,62 +1,52 @@
 ﻿# INDEX（项目索引）
 
-## 当前主线（五条）
-- 身体发育与运动：
-- AI 素养与工具能力：
-- 学业与基础能力：
-- 创新与科创项目：
-- 表达与传播：
+## 开机读取入口（Raw URL）
+
+- https://raw.githubusercontent.com/MRYGP/yangtongxue/main/00_admin/SYNC.md
+- https://raw.githubusercontent.com/MRYGP/yangtongxue/main/00_admin/INDEX.md
 
 ## 本周最小目标（MVP）
-- 
+
+建立每日运动打卡机制并完成第一个科创项目的选题确认。
 
 ## 正在进行的项目（/04_projects）
-- 
+
+- project-demo: 04_projects/project-demo/charter.md
 
 ## 最近四周复盘（/03_logs）
-- 
+
+- 2025-W51: 03_logs/2025-W51-review.md
+- 2025-W50: 03_logs/2025-W50-review.md
+
+## 最大风险/阻塞
+
+- 风险1: 孩子对打卡机制有抵触情绪
+  - 应对: 降低初始目标，先建立习惯
+- 风险2: 项目选题时间不足
+  - 应对: 提前准备3个候选方案，缩短讨论时间
+
+## 本周仓库待更新清单
+
+- [ ] 00_admin/SYNC.md - 更新 week 和路径指针
+- [ ] 00_admin/INDEX.md - 更新本周MVP和项目状态
+- [ ] 02_plans/2025-W52-plan.md - 生成下周计划
+- [ ] 03_logs/2025-W51-review.md - 完成本周复盘
+
+## 当前主线（五条）
+
+- 身体发育与运动
+- AI 素养与工具能力
+- 学业与基础能力
+- 创新与科创项目
+- 表达与传播
 
 ## 下一步（本周行动清单）
-- 
 
----
-
-## 开机读取入口（SYNC → Plan → Retro）
-
-### SYNC 快照（Raw URL）
-**绝对 URL**（AI 可直接读取）：
-```
-https://raw.githubusercontent.com/MRYGP/yangtongxue/main/00_admin/SYNC.md
-```
-
-### 读取流程
-1. **第一步**：读取 SYNC.md（Raw URL），获取当前周数和文件路径
-2. **第二步**：根据 `weekly_plan_path` 和 `last_retro_path` 读取周计划和周复盘
-3. **第三步**：若 plan/retro 无法直接打开，使用搜索解锁
-
-### URL 解锁方法
-某些 AI 环境存在"只能打开用户消息/搜索结果出现过的 URL"的限制。如果 plan/retro 文件无法直接打开，请先使用以下搜索模板解锁：
-
-**搜索模板**（研究生可复制使用）：
-```
-site:raw.githubusercontent.com MRYGP/yangtongxue "02_plans/2025-W51-plan.md"
-site:github.com MRYGP/yangtongxue "02_plans/2025-W51-plan.md"
-```
-
-替换文件路径即可，例如：
-```
-site:raw.githubusercontent.com MRYGP/yangtongxue "03_logs/2025-W50-review.md"
-site:github.com MRYGP/yangtongxue "03_logs/2025-W50-review.md"
-```
-
-**如果搜索解锁仍失败**：请粘贴文件正文片段给 AI，AI 可以基于片段继续工作。
-
-### 维护规则
-- **每周日复盘后**：更新 SYNC.md 的以下字段：
-  - `last_updated`: 更新为复盘日期
-  - `week`: 更新为下周周数
-  - `weekly_plan_path`: 更新为下周计划路径
-  - `last_retro_path`: 更新为本周复盘路径
+- [ ] 设计每日运动打卡表（跳绳500个 + 拉伸10分钟）
+- [ ] 教孩子使用 ChatGPT 辅助学习（错题分析）
+- [ ] 完成项目选题确认（3个候选方案 → 1个确定）
+- [ ] 用 AI 工具分析本周错题，生成错题本
+- [ ] 让孩子对 AI 讲解本周学习内容（5分钟）
 
 ## 项目运行与 AI 手册
 
