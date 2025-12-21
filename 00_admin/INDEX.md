@@ -21,6 +21,13 @@
 
 ---
 
+## SYNC 入口（开机读取）
+
+- [SYNC.md](SYNC.md) - 同步快照（AI 开机读取入口）
+- [metrics_dictionary.md](metrics_dictionary.md) - 指标字典
+- [本周计划](../02_plans/2025-W51-plan.md) - 2025-W51 周计划
+- [上周复盘](../03_logs/2025-W50-review.md) - 2025-W50 周复盘
+
 ## 项目运行与 AI 手册
 
 ### 运行手册
