@@ -13,17 +13,75 @@
 
 ---
 
+## 仓库结构
+
+```
+00_admin/          项目说明、规则、索引（SYNC、INDEX、OPS、AI手册、指标字典）
+  ├── SYNC.md                   同步快照（AI 开机读取入口，v2.3）
+  ├── INDEX.md                  项目总索引（当前状态、本周目标、复盘链接）
+  ├── OPS.md                    运行手册（每周节奏、交付物、角色分工）
+  ├── AI_PLAYBOOK.md            AI 协作手册（GPTS / Claude Projects）
+  ├── GPTS_SPEC.md              GPTS 规格说明
+  ├── metrics_dictionary.md     指标字典（定义、采集方式、频率）
+  └── recruiting/               招聘相关
+      └── 研究生家教JD_v1.md    最新招聘 JD
+
+01_people/         角色档案（孩子/家长/研究团队）
+
+02_plans/          周计划、月计划、阶段计划
+  └── YYYY-Www-plan.md         周计划文件（ISO 周格式）
+
+03_logs/           日志、打卡、周复盘、会议纪要
+  ├── YYYY-Www-review.md       周复盘文件
+  └── YYYY-MM-DD-daily.md      日打卡文件
+
+04_projects/       科创项目（每个项目一个文件夹）
+  └── <project_slug>/           项目文件夹
+      ├── charter.md           项目立项书
+      ├── log.md               项目日志
+      ├── demo_or_code_link.md Demo/代码链接
+      ├── script.md            演示脚本
+      ├── slides_outline.md    幻灯片大纲
+      └── postmortem.md       项目复盘
+
+05_assets/         素材索引（注意：不放隐私）
+
+06_reports/        阶段报告、对外材料（必须脱敏）
+
+docs/              文档与模板
+  ├── AI协作模式说明.md         AI 协作模式详细说明
+  ├── REPO_PLAYBOOK.md          仓库协作手册（v2.3）
+  ├── GPTS_TEST_SUITE.md        GPTS 测试套件
+  ├── 模板_周计划.md            周计划模板（含示例）
+  ├── 模板_实验记录.md          实验记录模板（含示例）
+  └── 模板_周报.md              周报模板（面向家长/研究团队）
+
+scripts/           工具脚本
+  ├── normalize_newlines.py    换行符归一化脚本
+  └── force_lf.py              强制 LF 换行符脚本
+
+根目录文件：
+  ├── README.md                 本文件（项目入口）
+  ├── 立体教育培养助手_v4.md    项目背景与培养体系
+  ├── 研究生招募说明_v3.md      招募说明（背景材料）
+  ├── GPTS 系统指令 v2.3.3.md   GPTS 系统指令（最新版本）
+  └── GPT制作GPTS模式不删.md    GPTS 制作模式文档
+```
+
 ## 从哪里开始？
 **第一站**：阅读 [`00_admin/INDEX.md`](00_admin/INDEX.md)（项目总索引，了解当前状态与本周目标）
 
 **背景材料**（了解项目全貌）：
 - [`立体教育培养助手_v4.md`](立体教育培养助手_v4.md) - 项目背景与培养体系
-- [`研究生招募说明_v3.md`](研究生招募说明_v3.md) - 招募要求与工作方式
+- [`研究生招募说明_v3.md`](研究生招募说明_v3.md) - 招募要求与工作方式（背景材料）
+- [`00_admin/recruiting/研究生家教JD_v1.md`](00_admin/recruiting/研究生家教JD_v1.md) - 最新招聘 JD
 
 **运行与协作手册**：
+- [`00_admin/SYNC.md`](00_admin/SYNC.md) - 同步快照（AI 开机读取入口）
 - [`00_admin/OPS.md`](00_admin/OPS.md) - 运行手册（每周节奏、交付物、角色分工）
 - [`00_admin/AI_PLAYBOOK.md`](00_admin/AI_PLAYBOOK.md) - AI 协作手册（GPTS / Claude Projects）
 - [`00_admin/GPTS_SPEC.md`](00_admin/GPTS_SPEC.md) - GPTS 规格说明
+- [`docs/REPO_PLAYBOOK.md`](docs/REPO_PLAYBOOK.md) - 仓库协作手册（v2.3）
 
 ---
 
