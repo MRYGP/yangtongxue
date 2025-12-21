@@ -4,8 +4,8 @@
 
 ### 3-step 读取顺序
 1. SYNC：读取当前周与指针（只读 raw 文本）
-2. weekly_plan：直接打开 SYNC 的 weekly_plan_raw_url（raw失败→打开 weekly_plan_api_url 提取 download_url→必要时才用 blob）
-3. last_retro：直接打开 SYNC 的 last_retro_raw_url（raw失败→打开 last_retro_api_url 提取 download_url→必要时才用 blob）
+2. weekly_plan：优先打开 weekly_plan_api_url（解码 content），raw 仅兜底
+3. last_retro：优先打开 last_retro_api_url（解码 content），raw 仅兜底
 
 ### SYNC Raw URL
 - https://raw.githubusercontent.com/MRYGP/yangtongxue/main/00_admin/SYNC.md
