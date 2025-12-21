@@ -26,10 +26,10 @@ index_blob_url: https://github.com/MRYGP/yangtongxue/blob/main/00_admin/INDEX.md
 index_api_url: https://api.github.com/repos/MRYGP/yangtongxue/contents/00_admin/INDEX.md?ref=main
 
 active_projects:
-  - slug: project-demo
-    charter_path: 04_projects/project-demo/charter.md
-    charter_raw_url: https://raw.githubusercontent.com/MRYGP/yangtongxue/main/04_projects/project-demo/charter.md
-    charter_api_url: https://api.github.com/repos/MRYGP/yangtongxue/contents/04_projects/project-demo/charter.md?ref=main
-    log_path: 04_projects/project-demo/log.md
-    log_raw_url: https://raw.githubusercontent.com/MRYGP/yangtongxue/main/04_projects/project-demo/log.md
-    log_api_url: https://api.github.com/repos/MRYGP/yangtongxue/contents/04_projects/project-demo/log.md?ref=main
+  slug: project-demo
+  charter_path: 04_projects/project-demo/charter.md
+  charter_raw_url: https://raw.githubusercontent.com/MRYGP/yangtongxue/main/04_projects/project-demo/charter.md
+  charter_api_url: https://api.github.com/repos/MRYGP/yangtongxue/contents/04_projects/project-demo/charter.md?ref=main
+  log_path: 04_projects/project-demo/log.md
+  log_raw_url: https://raw.githubusercontent.com/MRYGP/yangtongxue/main/04_projects/project-demo/log.md
+  log_api_url: https://api.github.com/repos/MRYGP/yangtongxue/contents/04_projects/project-demo/log.md?ref=main
