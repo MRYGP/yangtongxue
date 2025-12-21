@@ -1,9 +1,19 @@
 ﻿# INDEX（项目索引）
 
-## 开机读取入口（Raw URL）
+## 开机读取入口（v2.3）
 
+### 3-Step 读取流程
+1. **SYNC**: 读取 SYNC 快照获取当前状态
+2. **weekly_plan**: 使用 SYNC 中的 `weekly_plan_raw_url` 读取本周计划
+3. **last_retro**: 使用 SYNC 中的 `last_retro_raw_url` 读取上周复盘
+
+### URL 优先级
+- **优先使用**: SYNC 中的 `*_raw_url` 字段（直接可读）
+- **如果 raw_url 失败**: 使用 `*_api_url` → 提取 `download_url` 字段
+- **禁止依赖**: 搜索引擎收录（不要写 site:raw 作为主路径）
+
+### SYNC Raw URL
 - https://raw.githubusercontent.com/MRYGP/yangtongxue/main/00_admin/SYNC.md
-- https://raw.githubusercontent.com/MRYGP/yangtongxue/main/00_admin/INDEX.md
 
 ## 本周最小目标（MVP）
 

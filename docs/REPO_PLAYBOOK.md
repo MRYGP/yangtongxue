@@ -12,34 +12,39 @@
 - **输入**: 从仓库读取的 SYNC、Plan、Retro 等文件
 - **输出**: 生成新的计划、复盘、文档，沉淀回仓库
 
-## 3-Step 读取流程
+## 读取规程 v2.3
 
-### Step 1: 读取 SYNC 快照
-**Raw URL**:
-```
-https://raw.githubusercontent.com/MRYGP/yangtongxue/main/00_admin/SYNC.md
-```
+### 3-Step 读取流程
+1. **Step 1**: 读取 SYNC 快照（Raw URL）
+2. **Step 2**: 使用 SYNC 中的 `weekly_plan_raw_url` 读取本周计划
+3. **Step 3**: 使用 SYNC 中的 `last_retro_raw_url` 读取上周复盘
 
-SYNC.md 包含:
-- `last_updated`: 最后更新日期
-- `week`: 当前周数
-- `weekly_plan_path`: 本周计划文件路径
-- `last_retro_path`: 上周复盘文件路径
-- `active_projects`: 活跃项目列表
+### URL 获取与解锁 v2.3（四级策略）
 
-### Step 2: 读取周计划（Plan）
-根据 SYNC 中的 `weekly_plan_path` 读取本周计划。
+#### A. SYNC 直给（优先）
+- 直接从 SYNC.md 读取 `*_raw_url` 字段
+- 格式: `https://raw.githubusercontent.com/MRYGP/yangtongxue/main/<file_path>`
+- **禁止依赖搜索引擎收录**（不要写 site:raw 作为主路径）
 
-**如果无法直接打开**，使用搜索解锁:
-```
-site:raw.githubusercontent.com MRYGP/yangtongxue "<file_path>"
-site:github.com MRYGP/yangtongxue "<file_path>"
-```
+#### B. API 兜底（如果 raw_url 失败）
+- 使用 SYNC 中的 `*_api_url` 字段
+- 调用 GitHub API: `https://api.github.com/repos/MRYGP/yangtongxue/contents/<file_path>?ref=main`
+- 从响应 JSON 中提取 `download_url` 字段
+- 使用 `download_url` 读取文件内容
 
-### Step 3: 读取周复盘（Retro）
-根据 SYNC 中的 `last_retro_path` 读取上周复盘。
+#### C. Blob URL（备选）
+- 使用 SYNC 中的 `*_blob_url` 字段
+- 格式: `https://github.com/MRYGP/yangtongxue/blob/main/<file_path>`
+- 注意: 可能需要解析 HTML 或使用 GitHub 的 Raw 按钮
 
-**如果搜索解锁仍失败**: 粘贴文件正文片段给 AI，AI 可以基于片段继续工作。
+#### D. 粘贴降级（最后手段）
+- 如果所有 URL 方式都失败，要求用户粘贴文件正文片段
+- AI 基于片段继续工作
+
+### 校验规则
+- **Plan/Retro 前 25 行校验**: 检查是否包含关键字段（week, primary, secondary, mvp, owner, due, data, insights, adjustments）
+- **若文件 <25 行**: 则全文校验
+- **校验不通过**: 输出缺失字段清单 + 修复入库稿片段
 
 ## 周节奏（Mon/Wed/Sun）
 
@@ -58,18 +63,6 @@ site:github.com MRYGP/yangtongxue "<file_path>"
 - **工具**: Claude Projects 进行深度复盘分析
 - **输出**: `03_logs/YYYY-Www-review.md`
 - **更新**: 同步更新 SYNC.md（last_updated/week/plan/retro 指针）和 INDEX.md
-
-## URL 解锁方法
-
-某些 AI 环境存在"只能打开用户消息/搜索结果出现过的 URL"的限制。
-
-**搜索模板**:
-```
-site:raw.githubusercontent.com MRYGP/yangtongxue "02_plans/2025-W52-plan.md"
-site:github.com MRYGP/yangtongxue "02_plans/2025-W52-plan.md"
-```
-
-替换文件路径即可。
 
 ## 隐私脱敏规则
 
@@ -97,5 +90,6 @@ site:github.com MRYGP/yangtongxue "02_plans/2025-W52-plan.md"
 1. **仓库是唯一事实源**: 所有决策和产出必须入库
 2. **SYNC 是开机入口**: AI 每次工作前先读 SYNC
 3. **Plan → Retro 循环**: 每周完成"计划→执行→复盘"闭环
-4. **URL 解锁机制**: 遇到无法打开的文件，先用搜索解锁
+4. **URL 四级策略**: A SYNC直给 → B API → C Blob → D 粘贴降级
 5. **每周日更新 SYNC**: 确保指针始终指向最新文件
+6. **禁止依赖搜索引擎**: 不要使用 site:raw 作为主路径
