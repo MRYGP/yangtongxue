@@ -3,10 +3,13 @@ owner: Research Lead
 due: 2025-12-21
 
 data:
-（填：本周关键数据与来源/计数口径/记录位置链接）
+- sleep_hours: TBD（Source: 03_logs/YYYY-MM-DD-daily.md）
+- exercise_minutes: TBD（Source: 03_logs/YYYY-MM-DD-daily.md）
+- focus_blocks: TBD（Source: 03_logs/YYYY-MM-DD-daily.md）
+- project_output: TBD（Source: 04_projects/project-demo/）
 
 insights:
-（填：从数据得出的 1–3 条洞察，尽量具体）
+- TBD：从数据里提炼1-3条具体发现（比如"运动阈值过高导致连续性差"）
 
 adjustments:
-（填：下周要调整的策略/节奏/资源配置，能执行）
+- TBD：下周把运动阈值减半，只保留"到场打卡"，先追连续性
