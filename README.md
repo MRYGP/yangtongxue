@@ -23,8 +23,7 @@
   ├── AI_PLAYBOOK.md            AI 协作手册（GPTS / Claude Projects）
   ├── GPTS_SPEC.md              GPTS 规格说明
   ├── metrics_dictionary.md     指标字典（定义、采集方式、频率）
-  └── recruiting/               招聘相关
-      └── 研究生家教JD_v2.md    最新招聘 JD（权威版本）
+  └── recruiting/               招聘相关（已整合到根目录招聘JD.md）
 
 01_people/         角色档案（孩子/家长/研究团队）
 
@@ -76,7 +75,6 @@ scripts/           工具脚本
 - [`立体教育培养助手_v4.md`](立体教育培养助手_v4.md) - 项目背景与培养体系
 - [`招聘JD.md`](招聘JD.md) - 招聘JD（可直接发BOSS等平台）
 - [`招聘应聘者速览.md`](招聘应聘者速览.md) - 招聘快速参考（给应聘者）
-- [`00_admin/recruiting/研究生家教JD_v2.md`](00_admin/recruiting/研究生家教JD_v2.md) - 详细版招聘说明（内部参考）
 
 **运行与协作手册**：
 - [`00_admin/SYNC.md`](00_admin/SYNC.md) - 同步快照（AI 开机读取入口）
