@@ -63,6 +63,7 @@ scripts/           工具脚本
 根目录文件：
   ├── README.md                 本文件（项目入口）
   ├── 立体教育培养助手_v4.md    项目背景与培养体系
+  ├── 招聘JD.md                 招聘JD（可直接发BOSS等平台）
   ├── 招聘应聘者速览.md         招聘快速参考（给应聘者）
   ├── GPTS 系统指令 v2.3.3.md   GPTS 系统指令（最新版本）
   └── GPT制作GPTS模式不删.md    GPTS 制作模式文档
@@ -73,8 +74,9 @@ scripts/           工具脚本
 
 **背景材料**（了解项目全貌）：
 - [`立体教育培养助手_v4.md`](立体教育培养助手_v4.md) - 项目背景与培养体系
-- [`00_admin/recruiting/研究生家教JD_v2.md`](00_admin/recruiting/研究生家教JD_v2.md) - 最新招聘 JD（权威版本）
+- [`招聘JD.md`](招聘JD.md) - 招聘JD（可直接发BOSS等平台）
 - [`招聘应聘者速览.md`](招聘应聘者速览.md) - 招聘快速参考（给应聘者）
+- [`00_admin/recruiting/研究生家教JD_v2.md`](00_admin/recruiting/研究生家教JD_v2.md) - 详细版招聘说明（内部参考）
 
 **运行与协作手册**：
 - [`00_admin/SYNC.md`](00_admin/SYNC.md) - 同步快照（AI 开机读取入口）
@@ -121,7 +123,7 @@ scripts/           工具脚本
 ---
 
 ## 如何开始（新加入者 15 分钟上手）
-1. 阅读 [`00_admin/recruiting/研究生家教JD_v2.md`](00_admin/recruiting/研究生家教JD_v2.md)（了解项目背景与招募要求）
+1. 阅读 [`招聘JD.md`](招聘JD.md)（了解项目背景与招募要求）
 2. 阅读 [`立体教育培养助手_v4.md`](立体教育培养助手_v4.md)（了解培养体系与目标）
 3. 阅读 [`docs/AI协作模式说明.md`](docs/AI协作模式说明.md)（了解协作方式与工作流）
 4. 阅读 [`00_admin/INDEX.md`](00_admin/INDEX.md)（了解当前状态与本周目标）
