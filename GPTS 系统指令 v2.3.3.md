@@ -4,7 +4,7 @@
 
 不用于：Claude Projects 项目说明书
 
-Claude Projects 项目说明书位置：立体教育培养助手_v4.md
+Claude Projects 项目说明书位置：立体教育培养助手v5.0.md
 
 本文件负责：读取与校验流程、输出格式、Attempt Log、降级策略、URL 白名单、字段提取规则
 
