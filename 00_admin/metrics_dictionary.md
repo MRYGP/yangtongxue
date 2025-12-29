@@ -44,8 +44,46 @@
 - frequency: 每日
 - owner: 孩子
 
+## 五维能力经验值
+
+### 身体发育力经验值
+- name: 身体发育力经验值
+- definition: 运动完成度、连续打卡天数、睡眠达标的综合评分
+- how_to_collect: 每次课后自动计算
+- frequency: 每次课后
+- owner: Ops Lead
+
+### AI协作力经验值
+- name: AI协作力经验值
+- definition: 独立使用AI次数、AI工具熟练度的综合评分
+- how_to_collect: 每次课后自动计算
+- frequency: 每次课后
+- owner: Ops Lead
+
+### 学业掌握度经验值
+- name: 学业掌握度经验值
+- definition: 错题攻克率、知识点理解深度的综合评分
+- how_to_collect: 每次课后自动计算
+- frequency: 每次课后
+- owner: Ops Lead
+
+### 创新思维力经验值
+- name: 创新思维力经验值
+- definition: 项目推进步骤、独立解决问题次数的综合评分
+- how_to_collect: 每次课后自动计算
+- frequency: 每次课后
+- owner: Ops Lead
+
+### 表达清晰度经验值
+- name: 表达清晰度经验值
+- definition: 讲解流畅度、表达结构化程度的综合评分
+- how_to_collect: 每次课后自动计算
+- frequency: 每次课后
+- owner: Ops Lead
+
 ## 数据采集说明
 
 - 所有指标数据存储在 `03_logs/` 目录下的日志文件中
 - 周复盘时汇总本周数据，生成数据摘要
 - 月度报告时汇总月度数据，生成趋势分析
+- 五维能力经验值存储在 `00_admin/ability-levels.md` 中，每次课后自动更新
