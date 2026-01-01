@@ -44,6 +44,14 @@
 - frequency: 每日
 - owner: 孩子
 
+### schulte_time
+- name: schulte_time
+- definition: 舒尔特表完成时间（秒）
+- how_to_collect: 每次课开头记录
+- frequency: 每次课
+- owner: Ops Lead
+- target: 40秒以内（5x5表）
+
 ## 五维能力经验值
 
 ### 身体发育力经验值
