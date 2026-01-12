@@ -11,3 +11,6 @@ Thumbs.db
 
 # Secrets
 .env
+
+# Private Profile (contains sensitive personal information)
+00_admin/private_profile.md
